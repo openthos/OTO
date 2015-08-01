@@ -14,7 +14,7 @@
   <project path="build" name="platform/build" groups="pdk,tradefed" remote="x86" revision="lollipop-x86" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="kernel" name="kernel/common" remote="x86" revision="android-3.10.y" />
+  <project path="kernel" name="kernel/common" remote="x86" revision="android-4.0" />
   <project path="art" name="platform/art" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="bionic" name="platform/bionic" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="lollipop-x86" />
