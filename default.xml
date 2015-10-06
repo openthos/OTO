@@ -36,6 +36,7 @@
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="lollipop-x86" />
   <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="lollipop-x86" />
   <project path="external/libtruezip" name="platform/external/libtruezip" remote="x86" revision="lollipop-x86" />
+  <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="lollipop-x86" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="lollipop-x86" />
   <project path="external/parted" name="platform/external/parted" remote="x86" revision="lollipop-x86" />
@@ -60,11 +61,9 @@
   <project path="packages/apps/CMFileManager" name="platform/packages/apps/CMFileManager" remote="x86" revision="lollipop-x86" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" revision="lollipop-x86" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="lollipop-x86" />
-  <project path="packages/apps/Trebuchet" name="platform/packages/apps/Trebuchet" remote="x86" revision="lollipop-x86" />
   <project path="system/core" name="platform/system/core" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" remote="x86" revision="lollipop-x86" />
 
   <!-- from original Android repositories -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
@@ -256,7 +255,6 @@
   <project path="external/linux-tools-perf" name="platform/external/linux-tools-perf" groups="pdk-cw-fs" />
   <project path="external/littlemock" name="platform/external/littlemock" groups="pdk-cw-fs" />
   <project path="external/lldb" name="platform/external/lldb" groups="pdk-cw-fs" />
-  <project path="external/llvm" name="platform/external/llvm" groups="pdk" />
   <project path="external/lohit-fonts" name="platform/external/lohit-fonts" />
   <project path="external/ltrace" name="platform/external/ltrace" groups="pdk-cw-fs" />
   <project path="external/lzma" name="platform/external/lzma" groups="pdk" />
@@ -366,9 +364,9 @@
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs" />
   <project path="frameworks/wilhelm" name="platform/frameworks/wilhelm" groups="pdk-cw-fs" />
-  <project path="hardware/akm" name="platform/hardware/akm" />
+  <project path="hardware/akm" name="platform/hardware/akm" groups="notdefault" />
   <project path="hardware/broadcom/libbt" name="platform/hardware/broadcom/libbt" groups="notdefault,pdk" />
-  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="broadcom_wlan" />
+  <project path="hardware/broadcom/wlan" name="platform/hardware/broadcom/wlan" groups="notdefault,broadcom_wlan" />
   <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" groups="intel" />
   <project path="hardware/intel/bootstub" name="platform/hardware/intel/bootstub" groups="intel" />
   <project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" groups="intel" />
