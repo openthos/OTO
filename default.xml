@@ -48,8 +48,8 @@
   <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="lollipop-x86" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="frameworks/base" name="openthos/openthos_frameworks_base" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
-  <project path="frameworks/native" name="openthos/openthos_frameworks_native" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="frameworks/base" name="openthos/openthos_frameworks_base" groups="pdk-cw-fs" remote="github" revision="singlewindow" />
+  <project path="frameworks/native" name="openthos/openthos_frameworks_native" groups="pdk" remote="github" revision="singlewindow" />
   <project path="hardware/drm_gralloc" name="platform/hardware/drm_gralloc" remote="x86" revision="lollipop-x86" />
   <project path="hardware/gps" name="platform/hardware/gps" remote="x86" revision="lollipop-x86" />
   <project path="hardware/intel/hwcomposer" name="platform/hardware/intel/hwcomposer" remote="x86" revision="lollipop-x86" />
@@ -63,7 +63,7 @@
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs" remote="x86" revision="lollipop-x86" />
   <project path="packages/apps/CMFileManager" name="platform/packages/apps/CMFileManager" remote="x86" revision="lollipop-x86" />
-  <project path="packages/apps/Settings" name="openthos/openthos_packages_apps_Settings" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Settings" name="openthos/openthos_packages_apps_Settings" remote="github" revision="singlewindow" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="lollipop-x86" />
   <project path="system/core" name="platform/system/core" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
