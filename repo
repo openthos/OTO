@@ -3,8 +3,9 @@
 ## repo default configuration
 ##
 #REPO_URL = 'https://gerrit.googlesource.com/git-repo'
-#REPO_URL = 'https://gerrit-google.tuna.tsinghua.edu.cn/git-repo'
-REPO_URL = 'https://github.com/openthos/openthos_git-repo'
+REPO_URL = 'https://gerrit-google.tuna.tsinghua.edu.cn/git-repo'
+#REPO_URL = 'https://github.com/openthos/openthos_git-repo'
+
 REPO_REV = 'stable'
 
 # Copyright (C) 2008 Google Inc.
