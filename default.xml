@@ -18,11 +18,11 @@
   <project path="build" name="platform/build" groups="pdk,tradefed" remote="x86" revision="lollipop-x86" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
-  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.0" />
+  <project path="kernel" name="openthos/openthos_kernel" remote="github" revision="multiwindow" />
   <project path="art" name="platform/art" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="bionic" name="platform/bionic" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="lollipop-x86" />
-  <project path="device/generic/common" name="device/generic/common" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="bootable/newinstaller" name="openthos/openthos_bootable_newinstaller" remote="github" revision="multiwindow" />
+  <project path="device/generic/common" name="openthos/openthos_device_generic_common" groups="pdk" remote="github" revision="multiwindow" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="lollipop-x86" />
@@ -61,10 +61,10 @@
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="lollipop-x86" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="packages/apps/Bluetooth" name="platform/packages/apps/Bluetooth" groups="pdk-cw-fs" remote="x86" revision="lollipop-x86" />
-  <project path="packages/apps/CMFileManager" name="platform/packages/apps/CMFileManager" remote="x86" revision="lollipop-x86" />
+  <project path="packages/apps/Bluetooth" name="openthos/openthos_packages_apps_Bluetooth" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
+  <project path="packages/apps/CMFileManager" name="openthos/openthos_packages_apps_CMFileManager" remote="github" revision="multiwindow" />
   <project path="packages/apps/Settings" name="openthos/openthos_packages_apps_Settings" remote="github" revision="multiwindow" />
-  <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="lollipop-x86" />
+  <project path="packages/apps/TSCalibration2" name="openthos/openthos_packages_apps_TSCalibration2" remote="github" revision="multiwindow" />
   <project path="system/core" name="platform/system/core" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" remote="x86" revision="lollipop-x86" />
@@ -79,7 +79,7 @@
   <project path="developers/demos" name="platform/developers/demos" groups="notdefault" />
   <project path="developers/docs" name="platform/developers/docs" groups="notdefault" />
   <project path="developers/samples/android" name="platform/developers/samples/android" groups="notdefault" />
-  <project path="development" name="platform/development" groups="pdk-cw-fs" />
+  <project path="development" name="openthos/openthos_development" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="device/asus/deb" name="device/asus/deb" groups="notdefault,device,flo" />
   <project path="device/asus/flo" name="device/asus/flo" groups="notdefault,device,flo" />
   <project path="device/asus/flo-kernel" name="device/asus/flo-kernel" groups="notdefault,device,flo" clone-depth="1" />
@@ -275,7 +275,7 @@
   <project path="external/nanopb-c" name="platform/external/nanopb-c" />
   <project path="external/naver-fonts" name="platform/external/naver-fonts" groups="pdk-cw-fs" />
   <project path="external/netcat" name="platform/external/netcat" groups="pdk-cw-fs" />
-  <project path="external/netperf" name="platform/external/netperf" groups="pdk-cw-fs" />
+  <project path="external/netperf" name="openthos/openthos_external_netperf" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="external/neven" name="platform/external/neven" groups="pdk-cw-fs" />
   <project path="external/nfacct" name="platform/external/nfacct" groups="pdk-cw-fs" />
   <project path="external/nist-pkits" name="platform/external/nist-pkits" groups="pdk-cw-fs" />
@@ -409,58 +409,58 @@
   <project path="libcore" name="platform/libcore" groups="pdk" />
   <project path="libnativehelper" name="platform/libnativehelper" groups="pdk" />
   <project path="ndk" name="platform/ndk" />
-  <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
-  <project path="packages/apps/Browser" name="platform/packages/apps/Browser" />
-  <project path="packages/apps/Calculator" name="platform/packages/apps/Calculator" />
-  <project path="packages/apps/Calendar" name="platform/packages/apps/Calendar" />
-  <project path="packages/apps/Camera" name="platform/packages/apps/Camera" />
-  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" />
-  <project path="packages/apps/CellBroadcastReceiver" name="platform/packages/apps/CellBroadcastReceiver" />
-  <project path="packages/apps/CertInstaller" name="platform/packages/apps/CertInstaller" groups="pdk-cw-fs" />
-  <project path="packages/apps/Contacts" name="platform/packages/apps/Contacts" />
-  <project path="packages/apps/ContactsCommon" name="platform/packages/apps/ContactsCommon" />
-  <project path="packages/apps/DeskClock" name="platform/packages/apps/DeskClock" />
-  <project path="packages/apps/Dialer" name="platform/packages/apps/Dialer" />
-  <project path="packages/apps/Email" name="platform/packages/apps/Email" />
-  <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" />
-  <project path="packages/apps/FMRadio" name="platform/packages/apps/FMRadio" />
-  <project path="packages/apps/Gallery" name="platform/packages/apps/Gallery" />
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" />
-  <project path="packages/apps/HTMLViewer" name="platform/packages/apps/HTMLViewer" />
-  <project path="packages/apps/InCallUI" name="platform/packages/apps/InCallUI" />
-  <project path="packages/apps/KeyChain" name="platform/packages/apps/KeyChain" />
-  <project path="packages/apps/Launcher2" name="platform/packages/apps/Launcher2" />
-  <project path="packages/apps/Launcher3" name="platform/packages/apps/Launcher3" />
-  <project path="packages/apps/LegacyCamera" name="platform/packages/apps/LegacyCamera" />
-  <project path="packages/apps/ManagedProvisioning" name="platform/packages/apps/ManagedProvisioning" />
-  <project path="packages/apps/Mms" name="platform/packages/apps/Mms" />
-  <project path="packages/apps/Music" name="platform/packages/apps/Music" />
-  <project path="packages/apps/MusicFX" name="platform/packages/apps/MusicFX" />
-  <project path="packages/apps/Nfc" name="platform/packages/apps/Nfc" groups="notdefault" />
-  <project path="packages/apps/OneTimeInitializer" name="platform/packages/apps/OneTimeInitializer" />
-  <project path="packages/apps/PackageInstaller" name="platform/packages/apps/PackageInstaller" />
-  <project path="packages/apps/Phone" name="platform/packages/apps/Phone" />
-  <project path="packages/apps/PhoneCommon" name="platform/packages/apps/PhoneCommon" />
-  <project path="packages/apps/Protips" name="platform/packages/apps/Protips" />
-  <project path="packages/apps/Provision" name="platform/packages/apps/Provision" />
-  <project path="packages/apps/QuickSearchBox" name="platform/packages/apps/QuickSearchBox" />
-  <project path="packages/apps/SmartCardService" name="platform/packages/apps/SmartCardService" groups="notdefault" />
-  <project path="packages/apps/SoundRecorder" name="platform/packages/apps/SoundRecorder" />
-  <project path="packages/apps/SpareParts" name="platform/packages/apps/SpareParts" />
-  <project path="packages/apps/SpeechRecorder" name="platform/packages/apps/SpeechRecorder" />
-  <project path="packages/apps/Stk" name="platform/packages/apps/Stk" />
-  <project path="packages/apps/Tag" name="platform/packages/apps/Tag" groups="notdefault" />
-  <project path="packages/apps/Terminal" name="platform/packages/apps/Terminal" />
-  <project path="packages/apps/TvSettings" name="platform/packages/apps/TvSettings" />
-  <project path="packages/apps/UnifiedEmail" name="platform/packages/apps/UnifiedEmail" />
-  <project path="packages/apps/VoiceDialer" name="platform/packages/apps/VoiceDialer" />
+  <project path="packages/apps/BasicSmsReceiver" name="openthos/openthos_packages_apps_BasicSmsReceiver" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Browser" name="openthos/openthos_packages_apps_Browser" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Calculator" name="openthos/openthos_packages_apps_Calculator" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Calendar" name="openthos/openthos_packages_apps_Calendar" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Camera" name="openthos/openthos_packages_apps_Camera" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Camera2" name="openthos/openthos_packages_apps_Camera2" remote="github" revision="multiwindow" />
+  <project path="packages/apps/CellBroadcastReceiver" name="openthos/openthos_packages_apps_CellBroadcastReceiver" remote="github" revision="multiwindow" />
+  <project path="packages/apps/CertInstaller" name="openthos/openthos_packages_apps_CertInstaller" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Contacts" name="openthos/openthos_packages_apps_Contacts" remote="github" revision="multiwindow" />
+  <project path="packages/apps/ContactsCommon" name="openthos/openthos_packages_apps_ContactsCommon" remote="github" revision="multiwindow" />
+  <project path="packages/apps/DeskClock" name="openthos/openthos_packages_apps_DeskClock" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Dialer" name="openthos/openthos_packages_apps_Dialer" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Email" name="openthos/openthos_packages_apps_Email" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Exchange" name="openthos/openthos_packages_apps_Exchange" remote="github" revision="multiwindow" />
+  <project path="packages/apps/FMRadio" name="openthos/openthos_packages_apps_FMRadio" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Gallery" name="openthos/openthos_packages_apps_Gallery" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Gallery2" name="openthos/openthos_packages_apps_Gallery2" remote="github" revision="multiwindow" />
+  <project path="packages/apps/HTMLViewer" name="openthos/openthos_packages_apps_HTMLViewer" remote="github" revision="multiwindow" />
+  <project path="packages/apps/InCallUI" name="openthos/openthos_packages_apps_InCallUI" remote="github" revision="multiwindow" />
+  <project path="packages/apps/KeyChain" name="openthos/openthos_packages_apps_KeyChain" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Launcher2" name="openthos/openthos_packages_apps_Launcher2" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Launcher3" name="openthos/openthos_packages_apps_Launcher3" remote="github" revision="multiwindow" />
+  <project path="packages/apps/LegacyCamera" name="openthos/openthos_packages_apps_LegacyCamera" remote="github" revision="multiwindow" />
+  <project path="packages/apps/ManagedProvisioning" name="openthos/openthos_packages_apps_ManagedProvisioning" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Mms" name="openthos/openthos_packages_apps_Mms" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Music" name="openthos/openthos_packages_apps_Music" remote="github" revision="multiwindow" />
+  <project path="packages/apps/MusicFX" name="openthos/openthos_packages_apps_MusicFX" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Nfc" name="openthos/openthos_packages_apps_Nfc" groups="notdefault" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OneTimeInitializer" name="openthos/openthos_packages_apps_OneTimeInitializer" remote="github" revision="multiwindow" />
+  <project path="packages/apps/PackageInstaller" name="openthos/openthos_packages_apps_PackageInstaller" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Phone" name="openthos/openthos_packages_apps_Phone" remote="github" revision="multiwindow" />
+  <project path="packages/apps/PhoneCommon" name="openthos/openthos_packages_apps_PhoneCommon" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Protips" name="openthos/openthos_packages_apps_Protips" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Provision" name="openthos/openthos_packages_apps_Provision" remote="github" revision="multiwindow" />
+  <project path="packages/apps/QuickSearchBox" name="openthos/openthos_packages_apps_QuickSearchBox" remote="github" revision="multiwindow" />
+  <project path="packages/apps/SmartCardService" name="openthos/openthos_packages_apps_SmartCardService" groups="notdefault" remote="github" revision="multiwindow" />
+  <project path="packages/apps/SoundRecorder" name="openthos/openthos_packages_apps_SoundRecorder" remote="github" revision="multiwindow" />
+  <project path="packages/apps/SpareParts" name="openthos/openthos_packages_apps_SpareParts" remote="github" revision="multiwindow" />
+  <project path="packages/apps/SpeechRecorder" name="openthos/openthos_packages_apps_SpeechRecorder" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Stk" name="openthos/openthos_packages_apps_Stk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Tag" name="openthos/openthos_packages_apps_Tag" groups="notdefault" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Terminal" name="openthos/openthos_packages_apps_Terminal" remote="github" revision="multiwindow" />
+  <project path="packages/apps/TvSettings" name="openthos/openthos_packages_apps_TvSettings" remote="github" revision="multiwindow" />
+  <project path="packages/apps/UnifiedEmail" name="openthos/openthos_packages_apps_UnifiedEmail" remote="github" revision="multiwindow" />
+  <project path="packages/apps/VoiceDialer" name="openthos/openthos_packages_apps_VoiceDialer" remote="github" revision="multiwindow" />
   <project path="packages/experimental" name="platform/packages/experimental" groups="notdefault" />
   <project path="packages/inputmethods/LatinIME" name="platform/packages/inputmethods/LatinIME" />
   <project path="packages/inputmethods/OpenWnn" name="platform/packages/inputmethods/OpenWnn" groups="notdefault" />
   <project path="packages/providers/ApplicationsProvider" name="platform/packages/providers/ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="platform/packages/providers/CalendarProvider" groups="pdk-cw-fs" />
   <project path="packages/providers/ContactsProvider" name="platform/packages/providers/ContactsProvider" groups="pdk-cw-fs" />
-  <project path="packages/providers/DownloadProvider" name="platform/packages/providers/DownloadProvider" groups="pdk-cw-fs" />
+  <project path="packages/providers/DownloadProvider" name="openthos/opethos_packages_providers_DownloadProvider" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="packages/providers/MediaProvider" name="platform/packages/providers/MediaProvider" groups="pdk-cw-fs" />
   <project path="packages/providers/PartnerBookmarksProvider" name="platform/packages/providers/PartnerBookmarksProvider" />
   <project path="packages/providers/TelephonyProvider" name="platform/packages/providers/TelephonyProvider" />
