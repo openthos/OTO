@@ -15,7 +15,7 @@
            sync-j="4" />
 
   <!-- from x86 port repositories -->
-  <project path="build" name="platform/build" groups="pdk,tradefed" remote="x86" revision="lollipop-x86" >
+  <project path="build" name="openthos/oto_build" groups="pdk,tradefed" remote="github" revision="multiwindow" >
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
   <project path="kernel" name="openthos/oto_kernel" remote="github" revision="multiwindow" />
