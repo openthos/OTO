@@ -64,6 +64,7 @@
   <project path="packages/apps/Bluetooth" name="openthos/oto_packages_apps_Bluetooth" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="packages/apps/CMFileManager" name="openthos/oto_packages_apps_CMFileManager" remote="github" revision="multiwindow" />
   <project path="packages/apps/Settings" name="openthos/oto_packages_apps_Settings" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoSettings" name="openthos/oto_packages_apps_OtoSettings" remote="github" revision="multiwindow" />
   <project path="packages/apps/TSCalibration2" name="openthos/oto_packages_apps_TSCalibration2" remote="github" revision="multiwindow" />
   <project path="system/core" name="platform/system/core" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
