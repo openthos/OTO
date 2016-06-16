@@ -1,11 +1,11 @@
 # multiwindow projects update
-Wed, 15 Jun 2016 15:06:06 +0800
+Thu, 16 Jun 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller 94eb75d 2016-04-29 16:42:02 +0800 13581921869@163.com "chenyizhang" 
 -                                     platform/build 25e2d49 2016-06-14 09:13:40 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                               platform/development 807cabf 2016-04-22 01:15:35 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 94df142 2016-06-15 01:59:01 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
+-                           platform/frameworks/base 7e5a33a 2016-06-15 10:55:06 +0000 ladehunter@gmail.com "ladehunter" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -                                      kernel/common fed80c3 2016-05-16 13:04:20 +0200 jjmeijer88@gmail.com "Jaap Jan Meijer" 
 -                     platform/packages/apps/Browser 77c7d95 2016-04-21 09:14:10 +0000 zhongtianemail@gmail.com "xiezhongtian" 
