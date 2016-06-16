@@ -441,6 +441,7 @@
   <project path="packages/apps/OneTimeInitializer" name="openthos/oto_packages_apps_OneTimeInitializer" remote="github" revision="multiwindow" />
   <project path="packages/apps/PackageInstaller" name="openthos/oto_packages_apps_PackageInstaller" remote="github" revision="multiwindow" />
   <project path="packages/apps/Phone" name="openthos/oto_packages_apps_Phone" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Printer" name="openthos/oto_packages_apps_Printer" remote="github" revision="multiwindow" />
   <project path="packages/apps/PhoneCommon" name="openthos/oto_packages_apps_PhoneCommon" remote="github" revision="multiwindow" />
   <project path="packages/apps/Protips" name="openthos/oto_packages_apps_Protips" remote="github" revision="multiwindow" />
   <project path="packages/apps/Provision" name="openthos/oto_packages_apps_Provision" remote="github" revision="multiwindow" />
