@@ -1,13 +1,13 @@
 # multiwindow projects update
-Thu, 16 Jun 2016 01:00:01 +0800
+Fri, 17 Jun 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller 94eb75d 2016-04-29 16:42:02 +0800 13581921869@163.com "chenyizhang" 
--                                     platform/build 25e2d49 2016-06-14 09:13:40 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                                     platform/build 3a5e2a8 2016-06-16 01:54:43 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                               platform/development 807cabf 2016-04-22 01:15:35 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 7e5a33a 2016-06-15 10:55:06 +0000 ladehunter@gmail.com "ladehunter" 
+-                           platform/frameworks/base 8c2f3c0 2016-06-16 11:43:39 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
--                                      kernel/common fed80c3 2016-05-16 13:04:20 +0200 jjmeijer88@gmail.com "Jaap Jan Meijer" 
+-                                      kernel/common 6a16c71 2016-06-16 19:19:37 +0800 zhongtianemail@gmail.com "zhongtianxie" 
 -                     platform/packages/apps/Browser 77c7d95 2016-04-21 09:14:10 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -               platform/packages/apps/CMFileManager 023f780 2016-04-21 09:21:16 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                  platform/packages/apps/Calculator 3b72644 2016-04-21 09:22:51 +0000 zhongtianemail@gmail.com "xiezhongtian" 
@@ -18,7 +18,7 @@ Thu, 16 Jun 2016 01:00:01 +0800
 -                       platform/packages/apps/Email 20246d4 2016-04-21 09:25:48 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                    platform/packages/apps/Exchange 7e91c4f 2016-04-08 19:58:18 +0800 13581921869@163.com "chenyizhang" 
 -                    platform/packages/apps/Gallery2 443c162 2016-04-21 09:26:26 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                   platform/packages/apps/Launcher3 4fe0fdd 2016-05-20 10:04:07 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                   platform/packages/apps/Launcher3 aeb3fad 2016-06-16 08:31:19 +0000 umic@pku.edu.cn "Yu Mingkai" 
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music b197f82 2016-04-21 09:33:36 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
@@ -27,3 +27,4 @@ Thu, 16 Jun 2016 01:00:01 +0800
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -       platform/packages/providers/DownloadProvider 48c062e 2016-05-27 10:34:01 +0000 ladehunter@gmail.com "ladehunter" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                     platform/packages/apps/Printer 4339072 2016-06-16 02:11:00 +0000 bboxhe@gmail.com "bboxhe" 
