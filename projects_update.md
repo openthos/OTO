@@ -1,11 +1,11 @@
 # multiwindow projects update
-Sat, 18 Jun 2016 01:00:01 +0800
+Tue, 21 Jun 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller 94eb75d 2016-04-29 16:42:02 +0800 13581921869@163.com "chenyizhang" 
--                                     platform/build 3a5e2a8 2016-06-16 01:54:43 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                                     platform/build c275017 2016-06-20 22:12:05 +0800 xiaoluoyuan@163.com "xly" 
 -                               platform/development 807cabf 2016-04-22 01:15:35 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 5706111 2016-06-17 13:02:42 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
+-                           platform/frameworks/base e972968 2016-06-20 12:53:49 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -                                      kernel/common 7401abc 2016-06-17 19:52:46 +0800 faxiang1230@sina.cn "wangjianxing" 
 -                     platform/packages/apps/Browser 77c7d95 2016-04-21 09:14:10 +0000 zhongtianemail@gmail.com "xiezhongtian" 
@@ -26,5 +26,6 @@ Sat, 18 Jun 2016 01:00:01 +0800
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -       platform/packages/providers/DownloadProvider 48c062e 2016-05-27 10:34:01 +0000 ladehunter@gmail.com "ladehunter" 
+-                               platform/system/core 7ee002d 2016-06-20 23:24:00 +0800 xiaoluoyuan@163.com "xly" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/packages/apps/Printer 4339072 2016-06-16 02:11:00 +0000 bboxhe@gmail.com "bboxhe" 
