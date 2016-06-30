@@ -1,13 +1,14 @@
 # multiwindow projects update
-Thu, 30 Jun 2016 01:00:01 +0800
+Fri, 01 Jul 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller ed1c85f 2016-06-29 11:30:52 +0000 847036983@qq.com "xhl2791188" 
 -                                     platform/build 8f33a06 2016-06-24 11:50:18 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development 77df2a6 2016-06-24 12:57:40 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base a6ea884 2016-06-29 11:51:24 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                           platform/frameworks/base 07b56c2 2016-06-30 08:21:28 +0000 umic@pku.edu.cn "Yu Mingkai" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -               platform/frameworks/opt/net/ethernet d1e755a 2016-06-29 12:12:05 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                      platform/hardware/drm_gralloc 479963d 2016-06-30 02:53:59 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                                      kernel/common 7401abc 2016-06-17 19:52:46 +0800 faxiang1230@sina.cn "wangjianxing" 
 -                     platform/packages/apps/Browser 77c7d95 2016-04-21 09:14:10 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -               platform/packages/apps/CMFileManager 0635859 2016-06-24 12:59:58 +0000 847036983@qq.com "xhl2791188" 
@@ -20,7 +21,7 @@ Thu, 30 Jun 2016 01:00:01 +0800
 -                    platform/packages/apps/Exchange 7e91c4f 2016-04-08 19:58:18 +0800 13581921869@163.com "chenyizhang" 
 -                     platform/packages/apps/Gallery 99fbde2 2016-06-24 13:02:59 +0000 847036983@qq.com "xhl2791188" 
 -                    platform/packages/apps/Gallery2 443c162 2016-04-21 09:26:26 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                   platform/packages/apps/Launcher3 aeb3fad 2016-06-16 08:31:19 +0000 umic@pku.edu.cn "Yu Mingkai" 
+-                   platform/packages/apps/Launcher3 8185e23 2016-06-30 07:58:40 +0000 lfengjie@pku.edu.cn "Feng Jie" 
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music b197f82 2016-04-21 09:33:36 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
