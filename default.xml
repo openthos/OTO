@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="git://aosp.tuna.tsinghua.edu.cn/aosp/" />
+           fetch="https://aosp.tuna.tsinghua.edu.cn/" />
   <remote  name="x86"
            fetch="git://gitscm.sf.net/gitroot/android-x86/" />
            <!-- fetch="." -->
