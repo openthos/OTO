@@ -1,11 +1,11 @@
 # multiwindow projects update
-Wed, 06 Jul 2016 01:00:01 +0800
+Thu, 07 Jul 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller ed1c85f 2016-06-29 11:30:52 +0000 847036983@qq.com "xhl2791188" 
 -                                     platform/build 8f33a06 2016-06-24 11:50:18 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development 77df2a6 2016-06-24 12:57:40 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 91b5b65 2016-07-05 05:57:56 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                           platform/frameworks/base 06ee7ff 2016-07-06 09:46:21 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -               platform/frameworks/opt/net/ethernet f790084 2016-07-01 10:38:19 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 479963d 2016-06-30 02:53:59 +0000 chengang@emindsoft.com.cn "Chen Gang" 
