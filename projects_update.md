@@ -1,11 +1,11 @@
 # multiwindow projects update
-Fri, 08 Jul 2016 01:00:01 +0800
+Sat, 09 Jul 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller a523436 2016-07-07 11:24:28 +0800 xiaoluoyuan@163.com "xly" 
 -                                     platform/build c41d0bc 2016-07-07 03:48:03 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 6354aa8 2016-07-07 06:18:16 +0000 847036983@qq.com "xhl2791188" 
+-                           platform/frameworks/base 82e1470 2016-07-08 10:04:40 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -               platform/frameworks/opt/net/ethernet f790084 2016-07-01 10:38:19 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 479963d 2016-06-30 02:53:59 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -25,7 +25,7 @@ Fri, 08 Jul 2016 01:00:01 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music b197f82 2016-04-21 09:33:36 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 3ac597a 2016-07-07 03:43:44 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                    platform/packages/apps/Settings 44a6252 2016-07-08 08:05:11 +0000 sunzhipeng@pku.edu.cn "Sun Zhipeng" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
@@ -33,4 +33,4 @@ Fri, 08 Jul 2016 01:00:01 +0800
 -                               platform/system/core 7ee002d 2016-06-20 23:24:00 +0800 xiaoluoyuan@163.com "xly" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
--                     platform/packages/apps/Printer c213977 2016-07-04 02:09:51 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                     platform/packages/apps/Printer c7345c0 2016-07-08 07:09:17 +0000 bboxhe@gmail.com "bboxhe" 
