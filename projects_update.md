@@ -1,11 +1,11 @@
 # multiwindow projects update
-Thu, 04 Aug 2016 01:00:02 +0800
+Fri, 05 Aug 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller e2d5ed8 2016-07-22 15:45:02 +0800 xiaoluoyuan@163.com "xly" 
 -                                     platform/build 025f162 2016-07-25 11:49:04 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 97b9f8e 2016-08-03 08:23:47 +0000 liuchang@emindsoft.com.cn "liuchang" 
+-                           platform/frameworks/base cd526df 2016-08-04 12:59:04 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 3311977 2016-08-01 11:42:17 +0000 wangjianxing@163.com "Wang Jianxing" 
@@ -21,11 +21,11 @@ Thu, 04 Aug 2016 01:00:02 +0800
 -                    platform/packages/apps/Exchange 7e91c4f 2016-04-08 19:58:18 +0800 13581921869@163.com "chenyizhang" 
 -                     platform/packages/apps/Gallery 99fbde2 2016-06-24 13:02:59 +0000 847036983@qq.com "xhl2791188" 
 -                    platform/packages/apps/Gallery2 006d1c5 2016-07-07 06:10:23 +0000 847036983@qq.com "xhl2791188" 
--                   platform/packages/apps/Launcher3 b7386e5 2016-07-20 07:53:03 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                   platform/packages/apps/Launcher3 0d7cc66 2016-08-04 13:15:28 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 4fa4bf2 2016-07-29 07:42:46 +0000 847036983@qq.com "Xue Hailong" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 3637bb7 2016-08-03 06:32:47 +0000 ln01276294@126.com "luning" 
+-                    platform/packages/apps/Settings 48b696a 2016-08-04 01:52:24 +0000 m18410261910@163.com "caoyongren" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
@@ -33,4 +33,4 @@ Thu, 04 Aug 2016 01:00:02 +0800
 -                               platform/system/core 7ee002d 2016-06-20 23:24:00 +0800 xiaoluoyuan@163.com "xly" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
--                     platform/packages/apps/Printer 482b0c8 2016-08-03 11:51:06 +0000 bboxhe@gmail.com "bboxhe" 
+-                     platform/packages/apps/Printer 3014f0a 2016-08-04 08:37:46 +0000 bboxhe@gmail.com "bboxhe" 
