@@ -1,6 +1,6 @@
 # multiwindow projects update
-Sun, 07 Aug 2016 01:00:01 +0800
--                     platform/bootable/newinstaller 527d586 2016-08-06 00:37:47 +0800 yuchen@tsinghua.edu.cn "chyyuu" 
+Mon, 08 Aug 2016 01:00:01 +0800
+-                     platform/bootable/newinstaller 6ec70dd 2016-08-07 18:17:56 +0800 yuchen@tsinghua.edu.cn "chyyuu" 
 -                                     platform/build 025f162 2016-07-25 11:49:04 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
