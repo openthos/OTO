@@ -1,12 +1,12 @@
 # multiwindow projects update
-Tue, 09 Aug 2016 01:00:01 +0800
+Wed, 10 Aug 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller 6ec70dd 2016-08-07 18:17:56 +0800 yuchen@tsinghua.edu.cn "chyyuu" 
 -                                     platform/build bd5e063 2016-08-08 09:33:20 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 2945d79 2016-04-21 12:07:00 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 6d38760 2016-08-08 12:02:45 +0000 liuchang@emindsoft.com.cn "liuchang" 
+-                           platform/frameworks/base 6964c26 2016-08-09 11:24:10 +0000 liuchang@emindsoft.com.cn "liuchang" 
 -                         platform/frameworks/native 5c82ba2 2016-04-05 07:43:06 +0000 ladehunter@gmail.com "ladehunter" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 3311977 2016-08-01 11:42:17 +0000 wangjianxing@163.com "Wang Jianxing" 
@@ -34,4 +34,4 @@ Tue, 09 Aug 2016 01:00:01 +0800
 -                               platform/system/core 7ee002d 2016-06-20 23:24:00 +0800 xiaoluoyuan@163.com "xly" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
--                     platform/packages/apps/Printer 3014f0a 2016-08-04 08:37:46 +0000 bboxhe@gmail.com "bboxhe" 
+-                     platform/packages/apps/Printer 29cc9ca 2016-08-09 01:48:24 +0000 taocr2005@163.com "taocr" 
