@@ -4,7 +4,7 @@ openthos based on android-x86
 ## Establishing a Build Environment
 First, follow the AOSP page "[Establishing a Build Environment](http://source.android.com/source/initializing.html)" to configure your build environment.
 
-## Downloading the Source
+## [Download/Build/Run OTO](https://github.com/openthos/openthos/wiki/Download_Build_Run_OTO)
 ```
 git clone https://github.com/openthos/OTO.git
 cd OTO
