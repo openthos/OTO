@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 12 Aug 2016 01:00:01 +0800
+Fri, 12 Aug 2016 12:10:24 +0800
 -                     platform/bootable/newinstaller 6919ae2 2016-08-11 15:49:10 +0800 yuchen@tsinghua.edu.cn "chyyuu" 
 -                                     platform/build bd5e063 2016-08-08 09:33:20 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
