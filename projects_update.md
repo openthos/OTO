@@ -1,12 +1,12 @@
 # multiwindow projects update
-Wed, 24 Aug 2016 01:00:01 +0800
+Thu, 25 Aug 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller 6919ae2 2016-08-11 15:49:10 +0800 yuchen@tsinghua.edu.cn "chyyuu" 
 -                                     platform/build aa271fb 2016-08-23 07:09:07 +0000 potatomagic@163.com "wangzhixu" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common cb847fb 2016-08-17 09:59:58 +0000 potatomagic@163.com "wangzhixu" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base be99bb0 2016-08-23 10:54:07 +0000 liuchang@emindsoft.com.cn "Liu Chang" 
+-                           platform/frameworks/base d1ebe66 2016-08-24 05:04:22 +0000 545225658@qq.com "Wang Lifeng" 
 -                         platform/frameworks/native e2f53b8 2016-08-22 15:33:35 +0800 wangjianxing5210@163.com "Jianxing" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
@@ -27,7 +27,7 @@ Wed, 24 Aug 2016 01:00:01 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music df5d09f 2016-08-11 10:23:02 +0800 ln01276294@126.com "luning" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings fa9c58a 2016-08-22 11:33:56 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                    platform/packages/apps/Settings 06fce3f 2016-08-24 09:56:24 +0800 libing@emindsoft.com.cn "Li Bing" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
