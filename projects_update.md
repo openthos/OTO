@@ -1,13 +1,13 @@
 # multiwindow projects update
-Sat, 27 Aug 2016 01:00:01 +0800
+Mon, 29 Aug 2016 01:00:01 +0800
 -                     platform/bootable/newinstaller 6919ae2 2016-08-11 15:49:10 +0800 yuchen@tsinghua.edu.cn "chyyuu" 
 -                                     platform/build 81fa0f3 2016-08-25 02:32:02 +0000 potatomagic@163.com "wangzhixu" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 28c3305 2016-08-25 02:28:05 +0000 potatomagic@163.com "wangzhixu" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base a4664e1 2016-08-26 11:20:01 +0000 m18410261910@163.com "caoyongren" 
--                         platform/frameworks/native e2f53b8 2016-08-22 15:33:35 +0800 wangjianxing5210@163.com "Jianxing" 
+-                           platform/frameworks/base ca5e37a 2016-08-28 11:13:42 +0000 liuchang@emindsoft.com.cn "Liu Chang" 
+-                         platform/frameworks/native b8d761e 2016-08-28 10:43:54 +0000 liuchang@emindsoft.com.cn "Liu Chang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
