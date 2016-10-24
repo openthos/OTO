@@ -1,7 +1,7 @@
 # multiwindow projects update
-Sat, 22 Oct 2016 01:00:01 +0800
--                     platform/bootable/newinstaller a3f9608 2016-10-19 08:13:47 +0000 wangjianxing5210@163.com "Jianxing" 
--                                     platform/build 0c6453a 2016-10-12 07:25:23 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
+Mon, 24 Oct 2016 20:00:01 +0800
+-                     platform/bootable/newinstaller f9582f6 2016-10-24 19:07:38 +0800 15755367399@163.com "zhouyijie" 
+-                                     platform/build bbff473 2016-10-17 17:22:33 +0800 15755367399@163.com "zhouyijie" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 28c3305 2016-08-25 02:28:05 +0000 potatomagic@163.com "wangzhixu" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
@@ -34,7 +34,7 @@ Sat, 22 Oct 2016 01:00:01 +0800
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
 -       platform/packages/providers/DownloadProvider 48c062e 2016-05-27 10:34:01 +0000 ladehunter@gmail.com "ladehunter" 
--                               platform/system/core 7ee002d 2016-06-20 23:24:00 +0800 xiaoluoyuan@163.com "xly" 
+-                               platform/system/core 975785d 2016-10-08 11:06:13 +0800 wangjianxing5210@163.com "Jianxing" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/packages/apps/Printer 2da9fa9 2016-10-14 07:31:52 +0000 m18410261910@163.com "caoyongren" 
