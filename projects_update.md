@@ -1,5 +1,5 @@
 # multiwindow projects update
-Tue, 25 Oct 2016 19:00:01 +0800
+Tue, 25 Oct 2016 20:00:01 +0800
 -                     platform/bootable/newinstaller 6b44f28 2016-10-25 18:17:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 722c7d4 2016-10-25 15:07:23 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -29,7 +29,7 @@ Tue, 25 Oct 2016 19:00:01 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music df5d09f 2016-08-11 10:23:02 +0800 ln01276294@126.com "luning" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 7df4cbc 2016-10-19 07:37:25 +0000 15755367399@163.com "Zhou Yijie" 
+-                    platform/packages/apps/Settings 2de1de7 2016-10-25 11:06:39 +0000 15755367399@163.com "Zhou Yijie" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
