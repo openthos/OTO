@@ -1,6 +1,6 @@
 # multiwindow projects update
-Mon, 24 Oct 2016 21:00:01 +0800
--                     platform/bootable/newinstaller a9bc4e5 2016-10-24 20:21:21 +0800 wangjianxing5210@163.com "Jianxing Wang" 
+Tue, 25 Oct 2016 11:00:01 +0800
+-                     platform/bootable/newinstaller c84db37 2016-10-25 09:57:17 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build bbff473 2016-10-17 17:22:33 +0800 15755367399@163.com "zhouyijie" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 28c3305 2016-08-25 02:28:05 +0000 potatomagic@163.com "wangzhixu" 
