@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 27 Oct 2016 16:00:01 +0800
+Thu, 27 Oct 2016 17:00:01 +0800
 -                     platform/bootable/newinstaller 88fd2f2 2016-10-27 14:35:50 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build dd257bd 2016-10-27 07:05:01 +0000 0123hhtx@163.com "chenpeng" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -9,7 +9,7 @@ Thu, 27 Oct 2016 16:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                          platform/external/openssl e48c417 2016-10-26 13:53:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                           platform/frameworks/base da0592d 2016-10-27 07:45:28 +0000 823090683@qq.com "Liu Xiaoxu" 
+-                           platform/frameworks/base 5670ca0 2016-10-27 08:08:47 +0000 372442604@qq.com "Zeng Feifei" 
 -                         platform/frameworks/native 2665e55 2016-10-25 12:23:53 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
@@ -39,5 +39,6 @@ Thu, 27 Oct 2016 16:00:01 +0800
 -       platform/packages/providers/DownloadProvider 48c062e 2016-05-27 10:34:01 +0000 ladehunter@gmail.com "ladehunter" 
 -                               platform/system/core 975785d 2016-10-08 11:06:13 +0800 wangjianxing5210@163.com "Jianxing" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
+-                               platform/system/vold 6abc400 2016-10-27 16:33:20 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/packages/apps/Printer 2da9fa9 2016-10-14 07:31:52 +0000 m18410261910@163.com "caoyongren" 
