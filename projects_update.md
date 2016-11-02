@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 02 Nov 2016 19:00:01 +0800
+Wed, 02 Nov 2016 20:00:01 +0800
 -                     platform/bootable/newinstaller 5fa7c38 2016-11-02 10:29:51 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build dd257bd 2016-10-27 07:05:01 +0000 0123hhtx@163.com "chenpeng" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -9,7 +9,7 @@ Wed, 02 Nov 2016 19:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                          platform/external/openssl e48c417 2016-10-26 13:53:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                           platform/frameworks/base cae6dbf 2016-11-02 10:45:14 +0000 m18410261910@163.com "Cao Yongren" 
+-                           platform/frameworks/base d5d90e9 2016-11-02 19:05:24 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 2665e55 2016-10-25 12:23:53 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
@@ -30,7 +30,7 @@ Wed, 02 Nov 2016 19:00:01 +0800
 -                    platform/packages/apps/Gallery2 558f303 2016-09-21 09:22:44 +0000 potatomagic@163.com "wangzhixu" 
 -                   platform/packages/apps/Launcher3 fb36452 2016-08-25 02:24:22 +0000 potatomagic@163.com "wangzhixu" 
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
--                       platform/packages/apps/Music df5d09f 2016-08-11 10:23:02 +0800 ln01276294@126.com "luning" 
+-                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                    platform/packages/apps/Settings d95ee2d 2016-11-02 10:34:47 +0000 372442604@qq.com "Zeng Feifei" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
