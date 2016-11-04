@@ -1,7 +1,7 @@
 # multiwindow projects update
-Thu, 03 Nov 2016 21:00:01 +0800
+Fri, 04 Nov 2016 17:00:01 +0800
 -                     platform/bootable/newinstaller 5fa7c38 2016-11-02 10:29:51 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                                     platform/build e4c979d 2016-11-03 18:13:57 +0800 chengang@emindsoft.com.cn "Chen Gang" 
+-                                     platform/build 1db6533 2016-11-04 16:11:02 +0800 openthos-server180@example.com "openthos-server180" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                        platform/external/conscrypt 7567a6a 2016-10-26 16:55:35 +0800 wangjianxing5210@163.com "Jianxing Wang" 
@@ -16,7 +16,7 @@ Thu, 03 Nov 2016 21:00:01 +0800
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
 -                                      kernel/common 07d3457 2016-10-09 19:23:28 +0800 wangjianxing5210@163.com "wangjx" 
--                     platform/packages/apps/Browser 71b4302 2016-10-26 08:21:37 +0000 potatomagic@163.com "Wang Zhixu" 
+-                     platform/packages/apps/Browser 676e701 2016-11-04 08:56:59 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/CMFileManager 32a0f99 2016-08-11 10:19:25 +0800 ln01276294@126.com "luning" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
 -                    platform/packages/apps/Calendar 07f3762 2016-08-11 10:18:42 +0800 ln01276294@126.com "luning" 
