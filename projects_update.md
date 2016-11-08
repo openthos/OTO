@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 07 Nov 2016 14:00:01 +0800
+Tue, 08 Nov 2016 20:00:01 +0800
 -                     platform/bootable/newinstaller 5fa7c38 2016-11-02 10:29:51 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 1db6533 2016-11-04 16:11:02 +0800 openthos-server180@example.com "openthos-server180" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -9,14 +9,14 @@ Mon, 07 Nov 2016 14:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                          platform/external/openssl e48c417 2016-10-26 13:53:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                           platform/frameworks/base d6e5450 2016-11-07 05:39:23 +0000 m18410261910@163.com "Cao Yongren" 
+-                           platform/frameworks/base 8941d48 2016-11-08 11:30:18 +0000 potatomagic@163.com "Wang Zhixu" 
 -                         platform/frameworks/native 2665e55 2016-10-25 12:23:53 +0000 dongpeng@emindsoft.com.cn "Dong Peng" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
 -                                      kernel/common 07d3457 2016-10-09 19:23:28 +0800 wangjianxing5210@163.com "wangjx" 
--                     platform/packages/apps/Browser 676e701 2016-11-04 08:56:59 +0000 potatomagic@163.com "Wang Zhixu" 
+-                     platform/packages/apps/Browser 2f6b664 2016-11-08 11:32:03 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/CMFileManager 32a0f99 2016-08-11 10:19:25 +0800 ln01276294@126.com "luning" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
 -                    platform/packages/apps/Calendar 07f3762 2016-08-11 10:18:42 +0800 ln01276294@126.com "luning" 
