@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 09 Nov 2016 18:00:01 +0800
+Wed, 09 Nov 2016 19:00:01 +0800
 -                     platform/bootable/newinstaller 5fa7c38 2016-11-02 10:29:51 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 1db6533 2016-11-04 16:11:02 +0800 openthos-server180@example.com "openthos-server180" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -32,7 +32,7 @@ Wed, 09 Nov 2016 18:00:01 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings c756b95 2016-11-07 05:41:16 +0000 m18410261910@163.com "Cao Yongren" 
+-                    platform/packages/apps/Settings 7a9148d 2016-11-09 18:38:21 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
