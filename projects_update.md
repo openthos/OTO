@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 09 Nov 2016 14:00:01 +0800
+Wed, 09 Nov 2016 18:00:01 +0800
 -                     platform/bootable/newinstaller 5fa7c38 2016-11-02 10:29:51 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 1db6533 2016-11-04 16:11:02 +0800 openthos-server180@example.com "openthos-server180" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -37,6 +37,11 @@ Wed, 09 Nov 2016 14:00:01 +0800
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
 -       platform/packages/providers/DownloadProvider 48c062e 2016-05-27 10:34:01 +0000 ladehunter@gmail.com "ladehunter" 
+-                 platform/packages/wallpapers/Basic 14968af 2016-11-09 09:43:47 +0000 potatomagic@163.com "Wang Zhixu" 
+-               platform/packages/wallpapers/Galaxy4 11ff417 2016-11-09 09:44:48 +0000 potatomagic@163.com "Wang Zhixu" 
+-            platform/packages/wallpapers/HoloSpiral d92c20d 2016-11-09 09:45:55 +0000 potatomagic@163.com "Wang Zhixu" 
+-    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
+-             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
 -                               platform/system/core 975785d 2016-10-08 11:06:13 +0800 wangjianxing5210@163.com "Jianxing" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 6abc400 2016-10-27 16:33:20 +0800 wangjianxing5210@163.com "Jianxing Wang" 
