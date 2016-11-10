@@ -1,6 +1,6 @@
 # multiwindow projects update
-Wed, 09 Nov 2016 19:00:01 +0800
--                     platform/bootable/newinstaller 5fa7c38 2016-11-02 10:29:51 +0800 wangjianxing5210@163.com "Jianxing Wang" 
+Thu, 10 Nov 2016 10:00:01 +0800
+-                     platform/bootable/newinstaller 7996bd4 2016-11-10 09:32:33 +0800 openthos-server180@example.com "openthos-server180" 
 -                                     platform/build 1db6533 2016-11-04 16:11:02 +0800 openthos-server180@example.com "openthos-server180" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
