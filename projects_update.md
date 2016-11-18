@@ -1,7 +1,7 @@
 # multiwindow projects update
-Thu, 17 Nov 2016 14:00:01 +0800
+Fri, 18 Nov 2016 18:00:01 +0800
 -                     platform/bootable/newinstaller 696869a 2016-11-17 04:59:53 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
--                                     platform/build 7109f1a 2016-11-10 08:25:20 +0000 wangjianxing5210@163.com "wangjianxing" 
+-                                     platform/build 9fb5629 2016-11-18 17:47:06 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                        platform/external/conscrypt 7567a6a 2016-10-26 16:55:35 +0800 wangjianxing5210@163.com "Jianxing Wang" 
@@ -15,7 +15,7 @@ Thu, 17 Nov 2016 14:00:01 +0800
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
--                                      kernel/common 07d3457 2016-10-09 19:23:28 +0800 wangjianxing5210@163.com "wangjx" 
+-                                      kernel/common 4f1256c 2016-11-18 17:45:06 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                     platform/packages/apps/Browser 2f6b664 2016-11-08 11:32:03 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/CMFileManager 32a0f99 2016-08-11 10:19:25 +0800 ln01276294@126.com "luning" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
