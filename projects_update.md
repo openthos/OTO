@@ -1,5 +1,5 @@
 # multiwindow projects update
-Tue, 29 Nov 2016 17:00:01 +0800
+Tue, 29 Nov 2016 22:00:01 +0800
 -                     platform/bootable/newinstaller 143a774 2016-11-28 17:46:12 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 9fb5629 2016-11-18 17:47:06 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -43,7 +43,7 @@ Tue, 29 Nov 2016 17:00:01 +0800
 -            platform/packages/wallpapers/HoloSpiral d92c20d 2016-11-09 09:45:55 +0000 potatomagic@163.com "Wang Zhixu" 
 -    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
--                               platform/system/core 975785d 2016-10-08 11:06:13 +0800 wangjianxing5210@163.com "Jianxing" 
+-                               platform/system/core 80fbec9 2016-11-29 21:44:59 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 6abc400 2016-10-27 16:33:20 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
