@@ -1,6 +1,6 @@
 # multiwindow projects update
-Thu, 01 Dec 2016 12:00:01 +0800
--                     platform/bootable/newinstaller b4a759c 2016-11-30 10:57:45 +0800 wangjianxing5210@163.com "Jianxing Wang" 
+Thu, 01 Dec 2016 15:00:01 +0800
+-                     platform/bootable/newinstaller 87b2782 2016-12-01 06:55:21 +0000 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 750a3c8 2016-11-30 06:14:11 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
