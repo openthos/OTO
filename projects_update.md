@@ -1,11 +1,11 @@
 # multiwindow projects update
-Mon, 05 Dec 2016 19:00:01 +0800
+Tue, 06 Dec 2016 19:00:01 +0800
 -                     platform/bootable/newinstaller 87b2782 2016-12-01 06:55:21 +0000 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 750a3c8 2016-11-30 06:14:11 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
--                     platform/external/chromium_org f695419 2016-11-29 06:10:08 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--  platform/external/chromium_org/third_party/WebKit 3b62e1a 2016-11-30 04:54:01 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                        platform/external/conscrypt 7567a6a 2016-10-26 16:55:35 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
