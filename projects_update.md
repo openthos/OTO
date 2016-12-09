@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 08 Dec 2016 17:00:01 +0800
+Fri, 09 Dec 2016 12:00:01 +0800
 -                     platform/bootable/newinstaller 87b2782 2016-12-01 06:55:21 +0000 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 750a3c8 2016-11-30 06:14:11 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -18,7 +18,7 @@ Thu, 08 Dec 2016 17:00:01 +0800
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
 -                                      kernel/common 4f1256c 2016-11-18 17:45:06 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                     platform/packages/apps/Browser 2f6b664 2016-11-08 11:32:03 +0000 potatomagic@163.com "Wang Zhixu" 
+-                     platform/packages/apps/Browser 07960af 2016-12-09 11:24:32 +0800 823090683@qq.com "Liu Xiaoxu" 
 -               platform/packages/apps/CMFileManager 32a0f99 2016-08-11 10:19:25 +0800 ln01276294@126.com "luning" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
 -                    platform/packages/apps/Calendar 07f3762 2016-08-11 10:18:42 +0800 ln01276294@126.com "luning" 
