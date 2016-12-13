@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 12 Dec 2016 19:00:01 +0800
+Tue, 13 Dec 2016 15:00:01 +0800
 -                     platform/bootable/newinstaller 52a6664 2016-12-09 17:23:10 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 750a3c8 2016-11-30 06:14:11 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -11,14 +11,14 @@ Mon, 12 Dec 2016 19:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                          platform/external/openssl e48c417 2016-10-26 13:53:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                           platform/frameworks/base b6b52ee 2016-12-12 18:07:32 +0800 ln01276294@126.com "Lu Ning" 
+-                           platform/frameworks/base 07bda31 2016-12-13 14:05:52 +0800 dongpeng@emindsoft.com.cn "Dong Peng" 
 -                         platform/frameworks/native c941574 2016-11-29 06:11:46 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
 -                                      kernel/common 4f1256c 2016-11-18 17:45:06 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                     platform/packages/apps/Browser 07960af 2016-12-09 11:24:32 +0800 823090683@qq.com "Liu Xiaoxu" 
+-                     platform/packages/apps/Browser 930d688 2016-12-13 14:48:32 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/packages/apps/CMFileManager 32a0f99 2016-08-11 10:19:25 +0800 ln01276294@126.com "luning" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
 -                    platform/packages/apps/Calendar 07f3762 2016-08-11 10:18:42 +0800 ln01276294@126.com "luning" 
