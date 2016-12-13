@@ -1,6 +1,6 @@
 # multiwindow projects update
-Tue, 13 Dec 2016 15:00:01 +0800
--                     platform/bootable/newinstaller 52a6664 2016-12-09 17:23:10 +0800 wangjianxing5210@163.com "Jianxing Wang" 
+Tue, 13 Dec 2016 16:00:01 +0800
+-                     platform/bootable/newinstaller f91f9e3 2016-12-13 14:51:44 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 750a3c8 2016-11-30 06:14:11 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
@@ -34,7 +34,7 @@ Tue, 13 Dec 2016 15:00:01 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings a75e03b 2016-12-07 19:31:41 +0800 372442604@qq.com "Zeng Feifei" 
+-                    platform/packages/apps/Settings ea9ce71 2016-12-13 15:15:24 +0800 15755367399@163.com "Zhou Yijie" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 8533182 2016-07-07 06:10:38 +0000 847036983@qq.com "xhl2791188" 
