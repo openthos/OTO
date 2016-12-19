@@ -1,6 +1,6 @@
 # multiwindow projects update
-Mon, 19 Dec 2016 15:00:01 +0800
--                     platform/bootable/newinstaller b09d57c 2016-12-15 15:32:59 +0800 wangjianxing5210@163.com "Jianxing Wang" 
+Mon, 19 Dec 2016 16:00:01 +0800
+-                     platform/bootable/newinstaller 6858baa 2016-12-19 14:58:58 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build 750a3c8 2016-11-30 06:14:11 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
@@ -19,7 +19,7 @@ Mon, 19 Dec 2016 15:00:01 +0800
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
 -                                      kernel/common 4f1256c 2016-11-18 17:45:06 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                     platform/packages/apps/Browser 930d688 2016-12-13 14:48:32 +0800 chengang@emindsoft.com.cn "Chen Gang" 
--               platform/packages/apps/CMFileManager 32a0f99 2016-08-11 10:19:25 +0800 ln01276294@126.com "luning" 
+-               platform/packages/apps/CMFileManager 7c8a377 2016-12-19 15:07:12 +0800 potatomagic@163.com "Wang Zhixu" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
 -                    platform/packages/apps/Calendar 07f3762 2016-08-11 10:18:42 +0800 ln01276294@126.com "luning" 
 -                     platform/packages/apps/Camera2 8360c5c 2016-09-12 09:30:46 +0800 chengang@emindsoft.com.cn "Chen Gang" 
