@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 11 Jan 2017 18:00:01 +0800
+Thu, 12 Jan 2017 16:00:01 +0800
 -                     platform/bootable/newinstaller e08edb2 2017-01-05 10:38:37 +0000 wangjianxing5210@163.com "Jianxing Wang" 
 -                                     platform/build bc8d1a2 2017-01-05 14:45:05 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
@@ -48,4 +48,4 @@ Wed, 11 Jan 2017 18:00:01 +0800
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold c5e4c71 2017-01-11 09:50:29 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
--                     platform/packages/apps/Printer 2da9fa9 2016-10-14 07:31:52 +0000 m18410261910@163.com "caoyongren" 
+-                     platform/packages/apps/Printer 046667b 2017-01-12 07:00:44 +0000 823090683@qq.com "Liu Xiaoxu" 
