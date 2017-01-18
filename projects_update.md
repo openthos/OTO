@@ -1,7 +1,7 @@
 # multiwindow projects update
-Wed, 18 Jan 2017 12:00:01 +0800
+Wed, 18 Jan 2017 16:00:01 +0800
 -                     platform/bootable/newinstaller e08edb2 2017-01-05 10:38:37 +0000 wangjianxing5210@163.com "Jianxing Wang" 
--                                     platform/build bc8d1a2 2017-01-05 14:45:05 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
+-                                     platform/build cc41702 2017-01-18 07:49:42 +0000 ln01276294@126.com "Lu Ning" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common b326037 2016-10-25 03:35:50 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -11,7 +11,7 @@ Wed, 18 Jan 2017 12:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                          platform/external/openssl e48c417 2016-10-26 13:53:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                           platform/frameworks/base ea26597 2017-01-17 08:21:09 +0000 823090683@qq.com "Liu Xiaoxu" 
+-                           platform/frameworks/base 1265b4c 2017-01-18 06:55:32 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 203aa19 2017-01-11 09:33:45 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
