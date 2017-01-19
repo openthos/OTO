@@ -69,6 +69,15 @@
   <project path="system/core" name="openthos/oto_system_core" groups="pdk" remote="github" revision="multiwindow" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="packages/apps/OtoLauncher" name="openthos/oto_packages_apps_OtoLauncher" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoOta" name="openthos/oto_packages_apps_OtoOta" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoTerminal" name="openthos/oto_packages_apps_OtoTerminal" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoFileManager" name="openthos/oto_packages_apps_OtoFileManager" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoAppStore" name="openthos/oto_packages_app_OtoAppStore" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoVirtualGUI" name="openthos/oto_packages_app_OtoVirtualGUI" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoPinyinIME" name="openthos/oto_packages_app_OtoPinyinIME" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/ExternalApp" name="openthos/oto_packages_app_ExternalApp" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="external/p7zip" name="openthos/oto_external_p7zip" groups="pdk" remote="github" revision="multiwindow" />
 
   <!-- from original Android repositories -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
