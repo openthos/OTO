@@ -47,7 +47,7 @@
   <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="lollipop-x86"/>
   <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="lollipop-x86" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="frameworks/av" name="platform/frameworks/av" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="frameworks/av" name="openthos/oto_frameworks_av" groups="pdk" remote="github" revision="multiwindow" />
   <project path="frameworks/base" name="openthos/oto_frameworks_base" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="frameworks/native" name="openthos/oto_frameworks_native" groups="pdk" remote="github" revision="multiwindow" />
   <project path="hardware/drm_gralloc" name="openthos/oto_hardware_drm_gralloc" remote="github" revision="multiwindow" />
