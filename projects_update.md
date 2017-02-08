@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 08 Feb 2017 15:48:13 +0800
+Wed, 08 Feb 2017 17:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
 -                                    platform/bionic 16d03fa 2015-03-12 01:09:56 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -246,7 +246,7 @@ Wed, 08 Feb 2017 15:48:13 +0800
 -                           platform/external/zopfli bb96afe 2014-07-10 21:33:17 -0700 raph@google.com "Raph Levien" 
 -                            platform/external/zxing 2b56cc1 2013-12-09 22:40:55 +0000 baligh@google.com "Baligh Uddin" 
 -                             platform/frameworks/av 920e5ec 2017-02-07 22:26:15 +0800 cw_huang@asus.com "Chih-Wei Huang" 
--                           platform/frameworks/base eee927d 2017-02-08 07:43:29 +0000 m18410261910@163.com "Cao Yongren" 
+-                           platform/frameworks/base 80c77c8 2017-02-08 08:31:11 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/frameworks/compile/libbcc c549551 2014-11-08 06:12:48 -0800 android-build@google.com "The Android Automerger" 
 -               platform/frameworks/compile/mclinker 48b4262 2014-07-25 00:48:07 -0700 srhines@google.com "Stephen Hines" 
 -                  platform/frameworks/compile/slang b6cde47 2015-01-22 06:10:00 -0800 android-build@google.com "The Android Automerger" 
@@ -406,7 +406,7 @@ Wed, 08 Feb 2017 15:48:13 +0800
 -                     platform/packages/apps/Printer 046667b 2017-01-12 07:00:44 +0000 823090683@qq.com "Liu Xiaoxu" 
 -                 platform/packages/apps/OtoAppStore 693aaeb 2017-01-18 09:59:04 +0000 359475649@qq.com "Cao Haiyang" 
 -              platform/packages/apps/OtoFileManager 89f94c7 2017-02-07 03:07:05 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoLauncher c48b48c 2017-02-06 09:18:02 +0000 potatomagic@163.com "Wang Zhixu" 
+-                 platform/packages/apps/OtoLauncher e7ba4c1 2017-02-08 08:38:52 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta 71c80f6 2017-01-12 06:34:49 +0000 372442604@qq.com "Zeng Feifei" 
 -                platform/packages/apps/OtoPinyinIME 03dfd1e 2017-01-04 15:33:07 +0800 libing@emindsoft.com.cn "Li Bing" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
