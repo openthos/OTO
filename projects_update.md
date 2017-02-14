@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 13 Feb 2017 19:00:01 +0800
+Tue, 14 Feb 2017 11:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
 -                                    platform/bionic 16d03fa 2015-03-12 01:09:56 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -246,7 +246,7 @@ Mon, 13 Feb 2017 19:00:01 +0800
 -                           platform/external/zopfli bb96afe 2014-07-10 21:33:17 -0700 raph@google.com "Raph Levien" 
 -                            platform/external/zxing 2b56cc1 2013-12-09 22:40:55 +0000 baligh@google.com "Baligh Uddin" 
 -                             platform/frameworks/av 920e5ec 2017-02-07 22:26:15 +0800 cw_huang@asus.com "Chih-Wei Huang" 
--                           platform/frameworks/base 80c77c8 2017-02-08 08:31:11 +0000 ln01276294@126.com "Lu Ning" 
+-                           platform/frameworks/base 48dabb0 2017-02-14 10:12:27 +0800 m18410261910@163.com "Cao Yongren" 
 -                 platform/frameworks/compile/libbcc c549551 2014-11-08 06:12:48 -0800 android-build@google.com "The Android Automerger" 
 -               platform/frameworks/compile/mclinker 48b4262 2014-07-25 00:48:07 -0700 srhines@google.com "Stephen Hines" 
 -                  platform/frameworks/compile/slang b6cde47 2015-01-22 06:10:00 -0800 android-build@google.com "The Android Automerger" 
@@ -346,7 +346,7 @@ Mon, 13 Feb 2017 19:00:01 +0800
 -                     platform/packages/apps/Protips 9b6836a 2014-07-19 13:05:23 -0700 baligh@google.com "Baligh Uddin" 
 -                   platform/packages/apps/Provision 78ca0db 2013-03-26 21:59:00 +0000 jbq@google.com "Jean-Baptiste Queru" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 76a2223 2017-02-13 09:14:02 +0000 15755367399@163.com "Zhou Yijie" 
+-                    platform/packages/apps/Settings e36ae8e 2017-02-14 10:13:04 +0800 m18410261910@163.com "Cao Yongren" 
 -               platform/packages/apps/SoundRecorder 5d37ee3 2014-10-19 22:23:44 +0000 baligh@google.com "Baligh Uddin" 
 -                  platform/packages/apps/SpareParts 4db9978 2012-10-01 14:03:29 -0700 jsharkey@android.com "Jeff Sharkey" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
