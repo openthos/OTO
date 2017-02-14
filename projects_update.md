@@ -1,5 +1,5 @@
 # multiwindow projects update
-Tue, 14 Feb 2017 19:00:01 +0800
+Tue, 14 Feb 2017 22:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
 -                                    platform/bionic 16d03fa 2015-03-12 01:09:56 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -196,7 +196,7 @@ Tue, 14 Feb 2017 19:00:01 +0800
 -                           platform/external/opencv 4a99e24 2014-05-07 22:45:47 +0000 wangying@google.com "Ying Wang" 
 -                          platform/external/openfst b7434ca 2014-05-07 22:46:05 +0000 wangying@google.com "Ying Wang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
--                          platform/external/openssl e97745f 2017-02-14 18:36:34 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
+-                          platform/external/openssl e48c417 2016-10-26 13:53:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                         platform/external/oprofile 3722f10 2014-03-04 22:40:03 +0000 bccheng@google.com "Ben Cheng" 
 -                  platform/external/owasp/sanitizer bbfb254 2014-05-14 16:39:33 -0700 jplemieux@google.com "James Lemieux" 
 -                           platform/external/parted 64886b2 2014-11-06 16:19:47 +0800 cw_huang@asus.com "Chih-Wei Huang" 
