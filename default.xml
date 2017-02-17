@@ -68,6 +68,7 @@
   <project path="packages/apps/TSCalibration2" name="openthos/oto_packages_apps_TSCalibration2" remote="github" revision="multiwindow" />
   <project path="system/core" name="openthos/oto_system_core" groups="pdk" remote="github" revision="multiwindow" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="system/netd" name="platform/system/netd" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/vold" name="platform/system/vold" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="packages/apps/OtoLauncher" name="openthos/oto_packages_apps_OtoLauncher" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoOta" name="openthos/oto_packages_apps_OtoOta" groups="pdk" remote="github" revision="multiwindow" />
@@ -548,7 +549,6 @@
   <project path="sdk" name="platform/sdk" groups="pdk-cw-fs" />
   <project path="system/keymaster" name="platform/system/keymaster" groups="pdk" />
   <project path="system/media" name="openthos/oto_system_media" groups="pdk" remote="github" revision="multiwindow"/>
-  <project path="system/netd" name="platform/system/netd" groups="pdk" />
   <project path="system/security" name="platform/system/security" groups="pdk" />
   <project path="tools/adt/eclipse" name="platform/tools/adt/eclipse" groups="notdefault,tools" />
   <project path="tools/adt/idea" name="platform/tools/adt/idea" groups="notdefault,tools" />
