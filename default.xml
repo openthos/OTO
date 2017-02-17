@@ -245,6 +245,7 @@
   <project path="external/libhevc" name="platform/external/libhevc" revision="marshmallow-mr2-release" />
   <project path="external/libgsm" name="platform/external/libgsm" groups="pdk" />
   <project path="external/liblzf" name="platform/external/liblzf" groups="pdk" />
+  <project path="external/libmpeg2" name="platform/external/libmpeg2" groups="pdk" revision="marshmallow-mr2-release" />
   <project path="external/libmtp" name="platform/external/libmtp" groups="pdk-cw-fs" />
   <project path="external/libnfc-nci" name="platform/external/libnfc-nci" groups="notdefault,pdk" />
   <project path="external/libnfc-nxp" name="platform/external/libnfc-nxp" groups="notdefault,pdk" />
