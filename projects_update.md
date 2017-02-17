@@ -1,8 +1,8 @@
 # multiwindow projects update
-Thu, 16 Feb 2017 21:00:01 +0800
+Fri, 17 Feb 2017 13:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
--                                    platform/bionic 16d03fa 2015-03-12 01:09:56 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                                    platform/bionic f7946c0 2017-02-17 09:30:14 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller afc63ab 2017-02-16 14:49:21 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 63d7e46 2017-02-09 15:33:21 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -399,7 +399,7 @@ Thu, 16 Feb 2017 21:00:01 +0800
 -                             platform/system/extras 0eb5f3f 2015-10-06 00:51:54 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                          platform/system/keymaster 224da07 2014-11-08 06:15:49 -0800 android-build@google.com "The Android Automerger" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
--                               platform/system/netd 2e5fa93 2015-01-09 13:02:12 -0800 lorenzo@google.com "Lorenzo Colitti" 
+-                               platform/system/netd 9fc87d9 2017-02-17 09:52:41 +0800 enh@google.com "Elliott Hughes" 
 -                           platform/system/security d4916a0 2015-09-01 14:22:20 -0700 cbrubaker@google.com "Chad Brubaker" 
 -                               platform/system/vold c5e4c71 2017-01-11 09:50:29 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
