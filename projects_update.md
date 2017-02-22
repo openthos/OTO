@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 22 Feb 2017 17:00:01 +0800
+Wed, 22 Feb 2017 18:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
 -                                    platform/bionic f7946c0 2017-02-17 09:30:14 +0800 enh@google.com "Elliott Hughes" 
@@ -405,7 +405,7 @@ Wed, 22 Feb 2017 17:00:01 +0800
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/packages/apps/Printer 046667b 2017-01-12 07:00:44 +0000 823090683@qq.com "Liu Xiaoxu" 
 -                 platform/packages/apps/OtoAppStore 999fe26 2017-02-17 09:26:53 +0000 359475649@qq.com "CaoHaiyang" 
--              platform/packages/apps/OtoFileManager 166ca65 2017-02-22 08:01:27 +0000 0123hhtx@163.com "Chen Peng" 
+-              platform/packages/apps/OtoFileManager 5e914ed 2017-02-22 09:18:29 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoLauncher a5869cb 2017-02-22 05:24:14 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta 71c80f6 2017-01-12 06:34:49 +0000 372442604@qq.com "Zeng Feifei" 
 -                platform/packages/apps/OtoPinyinIME 03dfd1e 2017-01-04 15:33:07 +0800 libing@emindsoft.com.cn "Li Bing" 
