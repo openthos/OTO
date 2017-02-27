@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 27 Feb 2017 09:00:01 +0800
+Mon, 27 Feb 2017 12:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
 -                                    platform/bionic f7946c0 2017-02-17 09:30:14 +0800 enh@google.com "Elliott Hughes" 
@@ -346,7 +346,7 @@ Mon, 27 Feb 2017 09:00:01 +0800
 -                     platform/packages/apps/Protips 9b6836a 2014-07-19 13:05:23 -0700 baligh@google.com "Baligh Uddin" 
 -                   platform/packages/apps/Provision 78ca0db 2013-03-26 21:59:00 +0000 jbq@google.com "Jean-Baptiste Queru" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 0f8207f 2017-02-24 08:46:09 +0000 823090683@qq.com "Liu Xiaoxu" 
+-                    platform/packages/apps/Settings 5ff46ce 2017-02-27 03:20:57 +0000 libing@emindsoft.com.cn "Li Bing" 
 -               platform/packages/apps/SoundRecorder 5d37ee3 2014-10-19 22:23:44 +0000 baligh@google.com "Baligh Uddin" 
 -                  platform/packages/apps/SpareParts 4db9978 2012-10-01 14:03:29 -0700 jsharkey@android.com "Jeff Sharkey" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
