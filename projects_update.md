@@ -1,9 +1,9 @@
 # multiwindow projects update
-Mon, 27 Feb 2017 17:00:01 +0800
+Mon, 27 Feb 2017 20:00:01 +0800
 -                                   platform/abi/cpp a0f9928 2013-10-14 21:24:48 +0000 nnk@google.com "Nick Kralevich" 
 -                                       platform/art a7fdb91 2015-12-18 17:15:49 +0800 agampe@google.com "Andreas Gampe" 
 -                                    platform/bionic f7946c0 2017-02-17 09:30:14 +0800 enh@google.com "Elliott Hughes" 
--                     platform/bootable/newinstaller d28f46b 2017-02-27 08:50:54 +0000 xiaoluoyuan@163.com "elliott10" 
+-                     platform/bootable/newinstaller 4e1cde4 2017-02-27 19:14:16 +0800 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 63d7e46 2017-02-09 15:33:21 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                                    platform/dalvik 3c8d92a 2017-02-14 18:36:07 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
