@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 01 Mar 2017 11:00:01 +0800
+Wed, 01 Mar 2017 16:00:02 +0800
 -                     platform/bootable/newinstaller 4e1cde4 2017-02-27 19:14:16 +0800 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 3fdbbdc 2017-02-28 10:02:23 +0800 chengang@emindsoft.com.cn "Chen Gang" 
@@ -52,7 +52,7 @@ Wed, 01 Mar 2017 11:00:01 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 5ff46ce 2017-02-27 03:20:57 +0000 libing@emindsoft.com.cn "Li Bing" 
+-                    platform/packages/apps/Settings 9efbbb8 2017-03-01 07:50:00 +0000 823090683@qq.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 5eebfd4 2017-02-08 21:36:30 +0800 cw_huang@asus.com "Chih-Wei Huang" 
