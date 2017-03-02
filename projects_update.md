@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 02 Mar 2017 15:00:01 +0800
+Thu, 02 Mar 2017 17:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 4e1cde4 2017-02-27 19:14:16 +0800 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -26,7 +26,7 @@ Thu, 02 Mar 2017 15:00:01 +0800
 -                          platform/external/sonivox 4ff8832 2017-02-14 18:36:41 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                          platform/external/tremolo c56157f 2017-02-14 18:36:44 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                             platform/frameworks/av 362741b 2017-02-28 10:04:15 +0800 chengang@emindsoft.com.cn "Chen Gang" 
--                           platform/frameworks/base 14c0fa1 2017-03-02 05:41:27 +0000 0123hhtx@163.com "Chen Peng" 
+-                           platform/frameworks/base 84e020a 2017-03-02 08:21:30 +0000 823090683@qq.com "Liu Xiaoxu" 
 -                        platform/frameworks/minikin 621df01 2017-02-14 18:36:45 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
@@ -52,6 +52,7 @@ Thu, 02 Mar 2017 15:00:01 +0800
 -                   platform/packages/apps/Launcher3 fb36452 2016-08-25 02:24:22 +0000 potatomagic@163.com "wangzhixu" 
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
+-            platform/packages/apps/PackageInstaller 6564ffe 2017-03-02 08:00:22 +0000 m18410261910@163.com "CaoYongren" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                    platform/packages/apps/Settings 9efbbb8 2017-03-01 07:50:00 +0000 823090683@qq.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
