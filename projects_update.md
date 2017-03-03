@@ -1,9 +1,9 @@
 # multiwindow projects update
-Thu, 02 Mar 2017 23:00:01 +0800
+Fri, 03 Mar 2017 17:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
--                     platform/bootable/newinstaller 4e1cde4 2017-02-27 19:14:16 +0800 xiaoluoyuan@163.com "elliott10" 
+-                     platform/bootable/newinstaller 482540f 2017-03-03 16:35:08 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                                     platform/build 3fdbbdc 2017-02-28 10:02:23 +0800 chengang@emindsoft.com.cn "Chen Gang" 
+-                                     platform/build 883600f 2017-03-03 16:36:07 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                                    platform/dalvik 3c8d92a 2017-02-14 18:36:07 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
 -                              device/generic/common 1be187f 2017-02-23 07:05:37 +0000 forward_m@126.com "Luo Junhuan" 
@@ -25,7 +25,7 @@ Thu, 02 Mar 2017 23:00:01 +0800
 -                             platform/external/skia 8a7f592 2017-02-14 18:36:39 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                          platform/external/sonivox 4ff8832 2017-02-14 18:36:41 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                          platform/external/tremolo c56157f 2017-02-14 18:36:44 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                             platform/frameworks/av 362741b 2017-02-28 10:04:15 +0800 chengang@emindsoft.com.cn "Chen Gang" 
+-                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
 -                           platform/frameworks/base 84e020a 2017-03-02 08:21:30 +0000 823090683@qq.com "Liu Xiaoxu" 
 -                        platform/frameworks/minikin 621df01 2017-02-14 18:36:45 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
@@ -72,7 +72,7 @@ Thu, 02 Mar 2017 23:00:01 +0800
 -                               platform/system/vold c5e4c71 2017-01-11 09:50:29 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/packages/apps/Printer 046667b 2017-01-12 07:00:44 +0000 823090683@qq.com "Liu Xiaoxu" 
--                 platform/packages/apps/OtoAppStore 999fe26 2017-02-17 09:26:53 +0000 359475649@qq.com "CaoHaiyang" 
+-                 platform/packages/apps/OtoAppStore 054f894 2017-03-03 08:51:45 +0000 359475649@qq.com "CaoHaiyang" 
 -              platform/packages/apps/OtoFileManager 15293cc 2017-03-02 14:09:53 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
--                             platform/frameworks/av 362741b 2017-02-28 10:04:15 +0800 chengang@emindsoft.com.cn "Chen Gang" 
+-                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
