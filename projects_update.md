@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 03 Mar 2017 17:00:01 +0800
+Fri, 03 Mar 2017 19:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 482540f 2017-03-03 16:35:08 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -16,6 +16,7 @@ Fri, 03 Mar 2017 17:00:01 +0800
 -                             platform/external/flac 64cf123 2017-02-14 18:36:25 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/libhevc f17d126 2015-09-01 13:48:56 -0700 harish.mahendrakar@ittiam.com "Harish Mahendrakar" 
+-                         platform/external/libmpeg2  
 -                           platform/external/libpng b8b7403 2017-02-14 18:36:28 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                           platform/external/libvpx 0c991e8 2017-02-14 18:36:31 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -26,7 +27,7 @@ Fri, 03 Mar 2017 17:00:01 +0800
 -                          platform/external/sonivox 4ff8832 2017-02-14 18:36:41 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                          platform/external/tremolo c56157f 2017-02-14 18:36:44 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
--                           platform/frameworks/base 84e020a 2017-03-02 08:21:30 +0000 823090683@qq.com "Liu Xiaoxu" 
+-                           platform/frameworks/base 2517369 2017-03-03 18:42:36 +0800 libing@emindsoft.com.cn "Li Bing" 
 -                        platform/frameworks/minikin 621df01 2017-02-14 18:36:45 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
