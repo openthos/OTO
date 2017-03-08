@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 08 Mar 2017 15:00:01 +0800
+Wed, 08 Mar 2017 16:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 482540f 2017-03-03 16:35:08 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -27,7 +27,7 @@ Wed, 08 Mar 2017 15:00:01 +0800
 -                          platform/external/sonivox 4ff8832 2017-02-14 18:36:41 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                          platform/external/tremolo c56157f 2017-02-14 18:36:44 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
--                           platform/frameworks/base b1e4261 2017-03-08 06:45:00 +0000 forward_m@126.com "Luo Junhuan" 
+-                           platform/frameworks/base 2d4f243 2017-03-08 07:00:32 +0000 ln01276294@126.com "Lu Ning" 
 -                        platform/frameworks/minikin 621df01 2017-02-14 18:36:45 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
