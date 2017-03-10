@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 10 Mar 2017 14:00:01 +0800
+Fri, 10 Mar 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 60af5ac 2017-03-09 05:40:05 +0000 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -32,7 +32,7 @@ Fri, 10 Mar 2017 14:00:01 +0800
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                  platform/frameworks/opt/telephony 8673f8f 2017-02-14 18:36:48 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                      platform/hardware/drm_gralloc 0c4be17 2016-08-22 15:36:10 +0800 wangjianxing5210@163.com "Jianxing" 
+-                      platform/hardware/drm_gralloc 910aaac 2017-03-10 14:30:41 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                      platform/hardware/libhardware 03bfa3a 2016-08-22 15:34:52 +0800 wangjianxing5210@163.com "Jianxing" 
 -                                      kernel/common f64235a 2017-02-08 20:30:45 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -74,6 +74,6 @@ Fri, 10 Mar 2017 14:00:01 +0800
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                     platform/packages/apps/Printer 046667b 2017-01-12 07:00:44 +0000 823090683@qq.com "Liu Xiaoxu" 
 -                 platform/packages/apps/OtoAppStore 2ab7ff1 2017-03-09 09:53:48 +0000 forward_m@126.com "Luo Junhuan" 
--              platform/packages/apps/OtoFileManager 8706964 2017-03-10 05:12:02 +0000 potatomagic@163.com "Wang Zhixu" 
+-              platform/packages/apps/OtoFileManager 45e2521 2017-03-10 06:03:51 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
