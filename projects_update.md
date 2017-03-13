@@ -1,7 +1,7 @@
 # multiwindow projects update
-Mon, 13 Mar 2017 18:00:01 +0800
+Mon, 13 Mar 2017 22:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
--                     platform/bootable/newinstaller 60af5ac 2017-03-09 05:40:05 +0000 xiaoluoyuan@163.com "elliott10" 
+-                     platform/bootable/newinstaller d21a480 2017-03-13 21:24:59 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 883600f 2017-03-03 16:36:07 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                                    platform/dalvik 3c8d92a 2017-02-14 18:36:07 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
