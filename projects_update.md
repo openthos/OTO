@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 27 Mar 2017 11:00:01 +0800
+Mon, 27 Mar 2017 14:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 9ee9c47 2017-03-27 02:28:57 +0000 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -71,7 +71,7 @@ Mon, 27 Mar 2017 11:00:01 +0800
 -                               platform/system/netd 9fc87d9 2017-02-17 09:52:41 +0800 enh@google.com "Elliott Hughes" 
 -                               platform/system/vold 7df20f8 2017-03-22 19:53:29 +0800 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoAppStore ebb2098 2017-03-11 11:45:37 +0000 forward_m@126.com "Luo Junhuan" 
--              platform/packages/apps/OtoFileManager 85c4930 2017-03-22 10:11:06 +0000 xiaoluoyuan@163.com "elliott10" 
+-              platform/packages/apps/OtoFileManager 0e5337c 2017-03-27 05:54:37 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher a0d104d 2017-03-09 16:37:51 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta c47e31d 2017-03-11 03:28:49 +0000 372442604@qq.com "zeng Feifei" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
