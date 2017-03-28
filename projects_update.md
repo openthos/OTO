@@ -1,12 +1,12 @@
 # multiwindow projects update
-Mon, 27 Mar 2017 14:00:01 +0800
+Tue, 28 Mar 2017 10:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 9ee9c47 2017-03-27 02:28:57 +0000 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                                     platform/build 883600f 2017-03-03 16:36:07 +0800 wangjianxing5210@163.com "jianxing.wang" 
+-                                     platform/build 9662216 2017-03-28 09:50:03 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                                    platform/dalvik 3c8d92a 2017-02-14 18:36:07 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                               platform/development faf6cda 2016-07-07 06:16:03 +0000 847036983@qq.com "xhl2791188" 
--                              device/generic/common ceb16a4 2017-03-23 01:32:34 +0000 xiaoluoyuan@163.com "elliott10" 
+-                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
+-                              device/generic/common 20c60ea 2017-03-28 09:45:24 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              platform/external/aac cfb8692 2017-02-14 18:36:09 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/external/bouncycastle 7f8a1d2 2017-02-14 18:36:15 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
