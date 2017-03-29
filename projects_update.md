@@ -1,5 +1,5 @@
 # multiwindow projects update
-Tue, 28 Mar 2017 10:00:01 +0800
+Wed, 29 Mar 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/bootable/newinstaller 9ee9c47 2017-03-27 02:28:57 +0000 xiaoluoyuan@163.com "elliott10" 
 -                         platform/bootable/recovery f79d9e1 2017-02-14 18:36:01 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -14,6 +14,7 @@ Tue, 28 Mar 2017 10:00:01 +0800
 -                        platform/external/conscrypt fb1111a 2017-02-14 18:36:19 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                           platform/external/dhcpcd 01454f9 2017-02-14 18:36:22 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                             platform/external/flac 64cf123 2017-02-14 18:36:25 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
+-                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/libhevc f17d126 2015-09-01 13:48:56 -0700 harish.mahendrakar@ittiam.com "Harish Mahendrakar" 
 -                           platform/external/libpng b8b7403 2017-02-14 18:36:28 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
