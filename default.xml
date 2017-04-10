@@ -69,7 +69,7 @@
   <project path="system/core" name="openthos/oto_system_core" groups="pdk" remote="github" revision="multiwindow" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="system/netd" name="platform/system/netd" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="system/vold" name="platform/system/vold" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="system/vold" name="openthos/oto_system_vold" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoLauncher" name="openthos/oto_packages_apps_OtoLauncher" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoOta" name="openthos/oto_packages_apps_OtoOta" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoTerminal" name="openthos/oto_packages_apps_OtoTerminal" groups="pdk" remote="github" revision="multiwindow" />
