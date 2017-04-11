@@ -36,7 +36,7 @@
   <project path="external/eject" name="platform/external/eject" remote="x86" revision="lollipop-x86" />
   <project path="external/exfat" name="platform/external/exfat" remote="x86" revision="lollipop-x86" />
   <project path="external/ffmpeg" name="platform/external/ffmpeg" remote="x86" revision="lollipop-x86" />
-  <project path="external/koush/Superuser" name="platform/external/koush/Superuser" remote="x86" revision="lollipop-x86" />
+  <project path="external/koush/Superuser" name="openthos/oto_external_koush_Superuser" remote="github" revision="multiwindow" />
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="lollipop-x86" />
   <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="lollipop-x86" />
   <project path="external/libtruezip" name="platform/external/libtruezip" remote="x86" revision="lollipop-x86" />
@@ -55,7 +55,7 @@
   <project path="hardware/intel/hwcomposer" name="platform/hardware/intel/hwcomposer" remote="x86" revision="lollipop-x86" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="lollipop-x86" />
-  <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="x86" revision="lollipop-x86" />
+  <project path="hardware/libcamera" name="openthos/oto_hardware_libcamera" remote="github" revision="multiwindow" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="lollipop-x86" />
@@ -79,6 +79,8 @@
   <project path="packages/apps/OtoPinyinIME" name="openthos/oto_packages_apps_OtoPinyinIME" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/ExternalApp" name="openthos/oto_packages_apps_ExternalApp" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/p7zip" name="openthos/oto_external_p7zip" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="external/lkp" name="openthos/oto_external_lkp" remote="github" revision="multiwindow" />
+  <project path="external/Uitest" name="openthos/oto_external_Uitest" remote="github" revision="multiwindow" />  
 
   <!-- from original Android repositories -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
@@ -142,10 +144,10 @@
   <project path="external/checkpolicy" name="platform/external/checkpolicy" groups="pdk" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
-  <project path="external/chromium_org" name="platform/external/chromium_org" />
+  <project path="external/chromium_org" name="openthos/oto_external_chromium_org" remote="github" revision="multiwindow" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
-  <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" />
+  <project path="external/chromium_org/third_party/WebKit" name="openthos/oto_external_chromium_org_third_party_WebKit" remote="github" revision="multiwindow" />
   <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" />
   <project path="external/chromium_org/third_party/boringssl/src" name="platform/external/chromium_org/third_party/boringssl/src" />
   <project path="external/chromium_org/third_party/brotli/src" name="platform/external/chromium_org/third_party/brotli/src" />
@@ -235,7 +237,7 @@
   <project path="external/jsr305" name="platform/external/jsr305" groups="pdk-cw-fs,tradefed" />
   <project path="external/junit" name="platform/external/junit" groups="pdk-cw-fs,tradefed" />
   <project path="external/ksoap2" name="platform/external/ksoap2" groups="pdk-cw-fs" />
-  <project path="external/kernel-headers" name="platform/external/kernel-headers" groups="pdk-cw-fs" />
+  <project path="external/kernel-headers" name="openthos/oto_external_kernel-headers" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="external/libavc" name="platform/external/libavc" groups="pdk" revision="marshmallow-mr2-release" />
   <project path="external/libcap-ng" name="platform/external/libcap-ng" groups="pdk-cw-fs" />
   <project path="external/libcxx" name="platform/external/libcxx" groups="pdk" />
@@ -299,7 +301,7 @@
   <project path="external/okhttp" name="platform/external/okhttp" groups="pdk-cw-fs" />
   <project path="external/opencv" name="platform/external/opencv" groups="pdk-cw-fs" />
   <project path="external/openfst" name="platform/external/openfst" groups="pdk-cw-fs"/>
-  <project path="external/openssh" name="platform/external/openssh" groups="pdk-cw-fs"/>
+  <project path="external/openssh" name="openthos/oto_external_openssh" groups="pdk-cw-fs" remote="github" revision="multiwindow" />
   <project path="external/openssl" name="platform/external/openssl" groups="pdk" />
   <project path="external/oprofile" name="platform/external/oprofile" groups="pdk-cw-fs" />
   <project path="external/owasp/sanitizer" name="platform/external/owasp/sanitizer" />
@@ -486,14 +488,14 @@
   <project path="packages/services/Mms" name="platform/packages/services/Mms" />
   <project path="packages/services/Telecomm" name="platform/packages/services/Telecomm" />
   <project path="packages/services/Telephony" name="platform/packages/services/Telephony" />
-  <project path="packages/wallpapers/Basic" name="platform/packages/wallpapers/Basic" />
-  <project path="packages/wallpapers/Galaxy4" name="platform/packages/wallpapers/Galaxy4" />
-  <project path="packages/wallpapers/HoloSpiral" name="platform/packages/wallpapers/HoloSpiral" />
+  <project path="packages/wallpapers/Basic" name="openthos/oto_packages_wallpapers_Basic" remote="github" revision="multiwindow" />
+  <project path="packages/wallpapers/Galaxy4" name="openthos/oto_packages_wallpapers_Galaxy4" remote="github" revision="multiwindow" />
+  <project path="packages/wallpapers/HoloSpiral" name="openthos/oto_packages_wallpapers_HoloSpiral" remote="github" revision="multiwindow" />
   <project path="packages/wallpapers/LivePicker" name="platform/packages/wallpapers/LivePicker" />
   <project path="packages/wallpapers/MagicSmoke" name="platform/packages/wallpapers/MagicSmoke" />
-  <project path="packages/wallpapers/MusicVisualization" name="platform/packages/wallpapers/MusicVisualization" />
+  <project path="packages/wallpapers/MusicVisualization" name="openthos/oto_packages_wallpapers_MusicVisualization" remote="github" revision="multiwindow" />
   <project path="packages/wallpapers/NoiseField" name="platform/packages/wallpapers/NoiseField" />
-  <project path="packages/wallpapers/PhaseBeam" name="platform/packages/wallpapers/PhaseBeam" />
+  <project path="packages/wallpapers/PhaseBeam" name="openthos/oto_packages_wallpapers_PhaseBeam" remote="github" revision="multiwindow" />
   <project path="pdk" name="platform/pdk" groups="notdefault,pdk" />
   <project path="prebuilts/android-emulator" name="platform/prebuilts/android-emulator" clone-depth="1" groups="notdefault" />
   <project path="prebuilts/clang/darwin-x86/3.1" name="platform/prebuilts/clang/darwin-x86/3.1" groups="notdefault,pdk,darwin" />
@@ -565,6 +567,5 @@
   <project path="tools/studio/translation" name="platform/tools/studio/translation" groups="notdefault,tools" />
   <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" />
   <project path="tools/tradefederation" name="platform/tools/tradefederation" groups="notdefault,tradefed" />
-  <project path="external/lkp" name="openthos/oto_lkp" remote="github" revision="master" />
-  <project path="external/Uitest" name="openthos/oto_Uitest" remote="github" revision="master" />  
+
 </manifest>
