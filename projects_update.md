@@ -1,11 +1,9 @@
 # multiwindow projects update
-Thu, 13 Apr 2017 18:00:01 +0800
+Fri, 14 Apr 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller b9b16d2 2017-04-01 16:11:25 +0800 chenwei01@thtfpc.com "Chen Wei" 
--                                     platform/build 543b30d 2017-04-06 04:12:31 +0000 openthostest@126.com "openthostest" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common 20c60ea 2017-03-28 09:45:24 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -13,10 +11,9 @@ Thu, 13 Apr 2017 18:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
--                           platform/frameworks/base b92bf84 2017-04-12 09:57:15 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                           platform/frameworks/base ba9160b 2017-04-14 04:51:13 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
--                      platform/hardware/drm_gralloc 910aaac 2017-03-10 14:30:41 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                                      kernel/common f64235a 2017-02-08 20:30:45 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                     platform/packages/apps/Browser 930d688 2016-12-13 14:48:32 +0800 chengang@emindsoft.com.cn "Chen Gang" 
