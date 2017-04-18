@@ -1,8 +1,9 @@
 # multiwindow projects update
-Tue, 18 Apr 2017 18:00:01 +0800
+Tue, 18 Apr 2017 21:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                     platform/bootable/newinstaller b9b16d2 2017-04-01 16:11:25 +0800 chenwei01@thtfpc.com "Chen Wei" 
+-                     platform/bootable/newinstaller b6b2d7b 2017-04-18 10:55:20 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                                     platform/build 8aa5a93 2017-04-18 10:58:46 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
