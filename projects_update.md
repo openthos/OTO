@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 20 Apr 2017 18:00:01 +0800
+Fri, 21 Apr 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller 562bd55 2017-04-19 10:12:03 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -13,7 +13,7 @@ Thu, 20 Apr 2017 18:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
--                           platform/frameworks/base 24e72d3 2017-04-20 06:14:48 +0000 m18410261910@163.com "Cao Yongren" 
+-                           platform/frameworks/base 9629c21 2017-04-21 13:49:38 +0800 m18410261910@163.com "Cao Yongren" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 65fb2fe 2017-04-17 06:42:30 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -50,7 +50,7 @@ Thu, 20 Apr 2017 18:00:01 +0800
 -                               platform/system/core 4720c19 2017-04-05 06:23:52 +0000 majian@jidemail.com "Ma Jian" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 7df20f8 2017-03-22 19:53:29 +0800 xiaoluoyuan@163.com "elliott10" 
--                 platform/packages/apps/OtoAppStore 462daa9 2017-04-20 07:18:07 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoAppStore 0785dc3 2017-04-21 04:46:32 +0000 forward_m@126.com "Luo Junhuan" 
 -              platform/packages/apps/OtoFileManager 0e5337c 2017-03-27 05:54:37 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher a0d104d 2017-03-09 16:37:51 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta c47e31d 2017-03-11 03:28:49 +0000 372442604@qq.com "zeng Feifei" 
