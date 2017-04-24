@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 21 Apr 2017 21:00:01 +0800
+Mon, 24 Apr 2017 12:00:02 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller 562bd55 2017-04-19 10:12:03 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -50,7 +50,8 @@ Fri, 21 Apr 2017 21:00:01 +0800
 -                               platform/system/core 4720c19 2017-04-05 06:23:52 +0000 majian@jidemail.com "Ma Jian" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 7df20f8 2017-03-22 19:53:29 +0800 xiaoluoyuan@163.com "elliott10" 
--                 platform/packages/apps/OtoAppStore 0785dc3 2017-04-21 04:46:32 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoAppStore 552301f 2017-04-24 02:35:25 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoCompress 0e6bd90 2017-04-24 10:31:46 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/packages/apps/OtoFileManager 0e5337c 2017-03-27 05:54:37 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher a0d104d 2017-03-09 16:37:51 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta c47e31d 2017-03-11 03:28:49 +0000 372442604@qq.com "zeng Feifei" 
