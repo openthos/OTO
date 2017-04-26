@@ -75,6 +75,7 @@
   <project path="packages/apps/OtoTerminal" name="openthos/oto_packages_apps_OtoTerminal" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoFileManager" name="openthos/oto_packages_apps_OtoFileManager" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoAppStore" name="openthos/oto_packages_apps_OtoAppStore" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoCompress" name="openthos/oto_packages_apps_OtoCompress" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoVirtualGUI" name="openthos/oto_packages_apps_OtoVirtualGUI" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoPinyinIME" name="openthos/oto_packages_apps_OtoPinyinIME" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/ExternalApp" name="openthos/oto_packages_apps_ExternalApp" groups="pdk" remote="github" revision="multiwindow" />
