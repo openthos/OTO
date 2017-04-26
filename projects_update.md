@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 24 Apr 2017 21:00:01 +0800
+Wed, 26 Apr 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller 562bd55 2017-04-19 10:12:03 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -18,7 +18,7 @@ Mon, 24 Apr 2017 21:00:01 +0800
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 65fb2fe 2017-04-17 06:42:30 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
--                                      kernel/common f64235a 2017-02-08 20:30:45 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                                      kernel/common b417b2f 2017-04-26 01:32:36 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/packages/apps/Browser 930d688 2016-12-13 14:48:32 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/packages/apps/CMFileManager 7c8a377 2016-12-19 15:07:12 +0800 potatomagic@163.com "Wang Zhixu" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
