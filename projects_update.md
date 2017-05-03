@@ -1,8 +1,8 @@
 # multiwindow projects update
-Fri, 28 Apr 2017 21:00:01 +0800
+Wed, 03 May 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                     platform/bootable/newinstaller 562bd55 2017-04-19 10:12:03 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                     platform/bootable/newinstaller a558b2f 2017-05-03 01:57:49 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 8aa5a93 2017-04-18 10:58:46 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common dab010a 2017-04-19 08:45:09 +0000 xiaoluoyuan@163.com "elliott10" 
