@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 03 May 2017 21:00:01 +0800
+Thu, 04 May 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller a558b2f 2017-05-03 01:57:49 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -52,7 +52,7 @@ Wed, 03 May 2017 21:00:01 +0800
 -                               platform/system/core 4720c19 2017-04-05 06:23:52 +0000 majian@jidemail.com "Ma Jian" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 7df20f8 2017-03-22 19:53:29 +0800 xiaoluoyuan@163.com "elliott10" 
--                 platform/packages/apps/OtoAppStore 55c172b 2017-05-03 07:15:26 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoAppStore d9924a2 2017-05-04 08:48:54 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoCompress 0e6bd90 2017-04-24 10:31:46 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/packages/apps/OtoFileManager 1e173be 2017-04-28 11:37:31 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher a0d104d 2017-03-09 16:37:51 +0000 potatomagic@163.com "Wang Zhixu" 
@@ -60,6 +60,7 @@ Wed, 03 May 2017 21:00:01 +0800
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                 platform/packages/apps/OtoTerminal 4705baa 2016-11-28 05:40:40 +0000 libing@emindsoft.com.cn "Li Bing" 
+-            platform/packages/apps/OtoTestInFactory  
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
