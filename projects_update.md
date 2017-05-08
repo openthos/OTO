@@ -1,9 +1,9 @@
 # multiwindow projects update
-Sun, 07 May 2017 00:00:01 +0800
+Mon, 08 May 2017 09:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller a558b2f 2017-05-03 01:57:49 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
--                                     platform/build 8aa5a93 2017-04-18 10:58:46 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                                     platform/build b792c55 2017-05-07 23:39:27 +0000 potatomagic@163.com "Wang Zhixu" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common dab010a 2017-04-19 08:45:09 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -60,7 +60,7 @@ Sun, 07 May 2017 00:00:01 +0800
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                 platform/packages/apps/OtoTerminal 4705baa 2016-11-28 05:40:40 +0000 libing@emindsoft.com.cn "Li Bing" 
--            platform/packages/apps/OtoTestInFactory 1eb1cc0 2017-05-04 19:34:43 +0800 wangjianxing5210@163.com "Jianxing Wang" 
+-            platform/packages/apps/OtoTestInFactory a0d62d5 2017-05-07 23:37:21 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
