@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 11 May 2017 18:00:01 +0800
+Thu, 11 May 2017 21:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller a558b2f 2017-05-03 01:57:49 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -13,13 +13,12 @@ Thu, 11 May 2017 18:00:01 +0800
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -                             platform/frameworks/av 4185c89 2017-02-28 03:40:09 +0000 xiaoluoyuan@163.com "elliott10" 
--                           platform/frameworks/base a9eacd3 2017-05-11 07:46:50 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                           platform/frameworks/base 0d0f3b8 2017-05-11 18:34:21 +0800 m18410261910@163.com "CaoYongren" 
 -                         platform/frameworks/native 4635870 2017-02-28 10:06:16 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 65fb2fe 2017-04-17 06:42:30 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                         platform/hardware/libaudio 4f5006a 2016-09-13 23:17:02 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
--                      platform/hardware/libhardware 6871eea 2017-04-27 23:31:30 +0800 wuzhen@jidemail.com "WuZhen" 
 -                                      kernel/common a4ff252 2017-05-03 02:49:13 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/packages/apps/Browser 930d688 2016-12-13 14:48:32 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/packages/apps/CMFileManager 7c8a377 2016-12-19 15:07:12 +0800 potatomagic@163.com "Wang Zhixu" 
@@ -52,7 +51,7 @@ Thu, 11 May 2017 18:00:01 +0800
 -                               platform/system/core 4720c19 2017-04-05 06:23:52 +0000 majian@jidemail.com "Ma Jian" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 7df20f8 2017-03-22 19:53:29 +0800 xiaoluoyuan@163.com "elliott10" 
--                 platform/packages/apps/OtoAppStore 5833400 2017-05-06 07:20:14 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoAppStore f05cf17 2017-05-11 11:24:18 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoCompress 707a2b5 2017-05-09 07:27:07 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoFileManager d5bfe39 2017-05-10 10:36:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoLauncher b28541e 2017-05-10 10:57:36 +0000 potatomagic@163.com "Wang Zhixu" 
