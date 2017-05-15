@@ -1,11 +1,11 @@
 # multiwindow projects update
-Mon, 15 May 2017 15:00:01 +0800
+Mon, 15 May 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller b43fdcb 2017-05-15 04:37:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build b792c55 2017-05-07 23:39:27 +0000 potatomagic@163.com "Wang Zhixu" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common 7e68776 2017-05-09 07:24:53 +0000 ln01276294@126.com "Lu Ning" 
+-                              device/generic/common 05dbf80 2017-05-15 08:30:01 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -53,7 +53,7 @@ Mon, 15 May 2017 15:00:01 +0800
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoAppStore f05cf17 2017-05-11 11:24:18 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoCompress 3ac9cbc 2017-05-12 11:46:21 +0000 ln01276294@126.com "Lu Ning" 
--              platform/packages/apps/OtoFileManager 8d3c270 2017-05-12 11:45:02 +0000 forward_m@126.com "Luo Junhuan" 
+-              platform/packages/apps/OtoFileManager 1b11c49 2017-05-15 08:41:11 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher acdfe85 2017-05-12 11:46:00 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta a7e9007 2017-05-10 09:44:02 +0800 18600956771@163.com "Liu Xiaoxu" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
