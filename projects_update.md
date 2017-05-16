@@ -1,11 +1,11 @@
 # multiwindow projects update
-Tue, 16 May 2017 15:00:01 +0800
+Tue, 16 May 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller b43fdcb 2017-05-15 04:37:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build b792c55 2017-05-07 23:39:27 +0000 potatomagic@163.com "Wang Zhixu" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common 05dbf80 2017-05-15 08:30:01 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                              device/generic/common 3d26e71 2017-05-16 09:16:07 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -51,7 +51,7 @@ Tue, 16 May 2017 15:00:01 +0800
 -                               platform/system/core 4720c19 2017-04-05 06:23:52 +0000 majian@jidemail.com "Ma Jian" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoAppStore f05cf17 2017-05-11 11:24:18 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoAppStore e5fcb70 2017-05-16 08:03:17 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoCompress 3ac9cbc 2017-05-12 11:46:21 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoFileManager 3572ced 2017-05-15 10:38:32 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoLauncher 471e9e9 2017-05-15 01:58:23 +0000 forward_m@126.com "Luo Junhuan" 
@@ -61,6 +61,7 @@ Tue, 16 May 2017 15:00:01 +0800
 -                 platform/packages/apps/OtoTerminal 4705baa 2016-11-28 05:40:40 +0000 libing@emindsoft.com.cn "Li Bing" 
 -            platform/packages/apps/OtoTestInFactory a7202f4 2017-05-08 03:18:50 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
+-                   platform/packages/apps/OtoWinRec 1b21859 2017-05-16 09:51:12 +0000 os@example.com "os" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                 platform/packages/apps/ExternalApp c1ff177 2016-10-11 11:23:57 +0800 faxiang1230@sina.cn "faxiang1230" 
