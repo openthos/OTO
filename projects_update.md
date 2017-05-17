@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 17 May 2017 15:00:01 +0800
+Wed, 17 May 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller b43fdcb 2017-05-15 04:37:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -53,15 +53,15 @@ Wed, 17 May 2017 15:00:01 +0800
 -                               platform/system/core 474b267 2017-04-27 23:24:52 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoAppStore 6f77e2d 2017-05-16 12:10:27 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoAppStore d6881cb 2017-05-17 09:57:27 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoCompress 3ac9cbc 2017-05-12 11:46:21 +0000 ln01276294@126.com "Lu Ning" 
--              platform/packages/apps/OtoFileManager d07ee6a 2017-05-16 12:07:51 +0000 potatomagic@163.com "Wang Zhixu" 
+-              platform/packages/apps/OtoFileManager d86a1ed 2017-05-17 09:45:47 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoLauncher 471e9e9 2017-05-15 01:58:23 +0000 forward_m@126.com "Luo Junhuan" 
 -                      platform/packages/apps/OtoOta a7e9007 2017-05-10 09:44:02 +0800 18600956771@163.com "Liu Xiaoxu" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                 platform/packages/apps/OtoTerminal 7b8ca58 2017-05-17 10:19:26 +0800 18600956771@163.com "Liu Xiaoxu" 
--            platform/packages/apps/OtoTestInFactory a7202f4 2017-05-08 03:18:50 +0000 potatomagic@163.com "Wang Zhixu" 
+-            platform/packages/apps/OtoTestInFactory 5483664 2017-05-17 09:42:14 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                   platform/packages/apps/OtoWinRec 1b21859 2017-05-16 09:51:12 +0000 os@example.com "os" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
