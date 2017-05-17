@@ -35,7 +35,7 @@
   <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="external/eject" name="platform/external/eject" remote="x86" revision="lollipop-x86" />
   <project path="external/exfat" name="platform/external/exfat" remote="x86" revision="lollipop-x86" />
-  <project path="external/ffmpeg" name="platform/external/ffmpeg" remote="x86" revision="lollipop-x86" />
+  <project path="external/ffmpeg" name="openthos/oto_external_ffmpeg" remote="github" revision="multiwindow" />
   <project path="external/koush/Superuser" name="openthos/oto_external_koush_Superuser" remote="github" revision="multiwindow" />
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="lollipop-x86" />
   <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="lollipop-x86" />
@@ -44,7 +44,7 @@
   <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="lollipop-x86" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="lollipop-x86" />
   <project path="external/parted" name="platform/external/parted" remote="x86" revision="lollipop-x86" />
-  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="lollipop-x86"/>
+  <project path="external/stagefright-plugins" name="openthos/oto_external_stagefright-plugins" remote="github" revision="multiwindow" />
   <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="lollipop-x86" />
   <project path="external/wpa_supplicant_8" name="platform/external/wpa_supplicant_8" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="frameworks/av" name="openthos/oto_frameworks_av" groups="pdk" remote="github" revision="multiwindow" />
@@ -52,6 +52,8 @@
   <project path="frameworks/native" name="openthos/oto_frameworks_native" groups="pdk" remote="github" revision="multiwindow" />
   <project path="hardware/drm_gralloc" name="openthos/oto_hardware_drm_gralloc" remote="github" revision="multiwindow" />
   <project path="hardware/gps" name="platform/hardware/gps" remote="x86" revision="lollipop-x86" />
+  <project path="hardware/intel/common/libva" name="openthos/oto_hardware_intel_common_libva" groups="intel" remote="github" revision="multiwindow" />
+  <project path="hardware/intel/common/vaapi" name="openthos/oto_hardware_intel_common_vaapi" groups="intel" remote="github" revision="multiwindow" />
   <project path="hardware/intel/hwcomposer" name="platform/hardware/intel/hwcomposer" remote="x86" revision="lollipop-x86" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="lollipop-x86" />
@@ -393,7 +395,6 @@
   <project path="hardware/intel/common/bd_prov" name="platform/hardware/intel/common/bd_prov" groups="intel" />
   <project path="hardware/intel/common/libmix" name="platform/hardware/intel/common/libmix" groups="intel" />
   <project path="hardware/intel/common/libstagefrighthw" name="platform/hardware/intel/common/libstagefrighthw" groups="intel" />
-  <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" groups="intel" />
   <project path="hardware/intel/common/libwsbm" name="platform/hardware/intel/common/libwsbm" groups="intel" />
   <project path="hardware/intel/common/omx-components" name="platform/hardware/intel/common/omx-components" groups="intel" />
   <project path="hardware/intel/common/utils" name="platform/hardware/intel/common/utils" groups="intel" />
