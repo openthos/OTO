@@ -1,8 +1,8 @@
 # multiwindow projects update
-Wed, 24 May 2017 12:00:01 +0800
+Wed, 24 May 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                     platform/bootable/newinstaller b43fdcb 2017-05-15 04:37:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
 -                                     platform/build 39e0741 2017-05-09 15:19:14 +0800 wangying@google.com "Ying Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common 84b0d73 2017-05-03 18:06:53 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
