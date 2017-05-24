@@ -81,10 +81,12 @@
   <project path="packages/apps/OtoVirtualGUI" name="openthos/oto_packages_apps_OtoVirtualGUI" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoPinyinIME" name="openthos/oto_packages_apps_OtoPinyinIME" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoTestInFactory" name="openthos/oto_packages_apps_OtoTestInFactory" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoWinRec" name="openthos/oto_packages_apps_OtoWinRec" remote="github" revision="multiwindow" />
   <project path="packages/apps/ExternalApp" name="openthos/oto_packages_apps_ExternalApp" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/p7zip" name="openthos/oto_external_p7zip" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/lkp" name="openthos/oto_external_lkp" remote="github" revision="multiwindow" />
   <project path="external/Uitest" name="openthos/oto_external_Uitest" remote="github" revision="multiwindow" />  
+  <project path="vendor/openthos" name="openthos/oto_vendor_openthos" remote="github" revision="multiwindow" />
 
   <!-- from original Android repositories -->
   <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
