@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 24 May 2017 15:00:01 +0800
+Wed, 24 May 2017 21:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
@@ -12,7 +12,6 @@ Wed, 24 May 2017 15:00:01 +0800
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
--                             platform/external/llvm 05ec1c5 2017-05-19 14:26:32 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/external/mesa b5323b4 2017-04-13 01:52:18 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
@@ -73,3 +72,4 @@ Wed, 24 May 2017 15:00:01 +0800
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
 -                           platform/vendor/openthos 2ebff9e 2017-05-18 21:48:37 +0800 xiaoluoyuan@163.com "xly" 
+-               platform/hardware/intel/common/vaapi 00fdcd3 2017-05-04 09:07:04 +0800 Pengfei.Qu@intel.com "Pengfei Qu" 
