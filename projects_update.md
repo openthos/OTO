@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 25 May 2017 12:00:01 +0800
+Thu, 25 May 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
@@ -15,7 +15,7 @@ Thu, 25 May 2017 12:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins e1ce51b 2017-05-09 13:54:01 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av be83d40 2017-04-26 17:26:16 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base 2044857 2017-05-25 10:14:19 +0800 0123hhtx@163.com "Chen Peng" 
+-                           platform/frameworks/base fe43eea 2017-05-25 16:25:12 +0800 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native c64bdde 2017-04-26 15:57:58 +0800 lajos@google.com "Lajos Molnar" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 2bed970 2017-05-25 02:50:27 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
