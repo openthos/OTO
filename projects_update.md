@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 26 May 2017 12:00:01 +0800
+Fri, 26 May 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
@@ -70,5 +70,5 @@ Fri, 26 May 2017 12:00:01 +0800
 -                 platform/packages/apps/ExternalApp c1ff177 2016-10-11 11:23:57 +0800 faxiang1230@sina.cn "faxiang1230" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
--                           platform/vendor/openthos 2ebff9e 2017-05-18 21:48:37 +0800 xiaoluoyuan@163.com "xly" 
+-                           platform/vendor/openthos 5e9bce3 2017-05-26 05:04:07 +0000 chenwei01@thtfpc.com "Chen Wei" 
 -               platform/hardware/intel/common/vaapi 00fdcd3 2017-05-04 09:07:04 +0800 Pengfei.Qu@intel.com "Pengfei Qu" 
