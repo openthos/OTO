@@ -1,9 +1,9 @@
 # multiwindow projects update
-Sat, 27 May 2017 12:00:01 +0800
+Sat, 27 May 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
--                                     platform/build 7859571 2017-05-17 14:42:03 +0800 xuefer@gmail.com "Xuefer" 
+-                                     platform/build 14b1aff 2017-05-27 05:22:43 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common 419f840 2017-05-22 16:04:45 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -57,7 +57,7 @@ Sat, 27 May 2017 12:00:01 +0800
 -                 platform/packages/apps/OtoAppStore 29a742b 2017-05-18 10:51:27 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoCompress 73c8d55 2017-05-27 03:48:43 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoFileManager 46a7237 2017-05-23 09:33:37 +0000 0123hhtx@163.com "Chen Peng" 
--                 platform/packages/apps/OtoLauncher 7665204 2017-05-23 02:17:29 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/OtoLauncher f38a56a 2017-05-27 06:39:36 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta d91bd87 2017-05-22 02:50:22 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
