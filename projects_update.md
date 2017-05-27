@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 26 May 2017 15:00:01 +0800
+Sat, 27 May 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
@@ -19,7 +19,7 @@ Fri, 26 May 2017 15:00:01 +0800
 -                           platform/frameworks/base fe43eea 2017-05-25 16:25:12 +0800 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native c64bdde 2017-04-26 15:57:58 +0800 lajos@google.com "Lajos Molnar" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
--                      platform/hardware/drm_gralloc 6b7fcfc 2017-04-13 13:30:54 +0800 mark.yao@rock-chips.com "Mark Yao" 
+-                      platform/hardware/drm_gralloc 857410b 2017-05-27 03:25:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -               platform/hardware/intel/common/libva 7d012d0 2017-05-12 11:58:03 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                                      kernel/common 43109aa 2017-05-24 13:20:06 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -55,7 +55,7 @@ Fri, 26 May 2017 15:00:01 +0800
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoAppStore 29a742b 2017-05-18 10:51:27 +0000 forward_m@126.com "Luo Junhuan" 
--                 platform/packages/apps/OtoCompress ca7fc71 2017-05-23 07:40:24 +0000 ln01276294@126.com "Lu Ning" 
+-                 platform/packages/apps/OtoCompress 73c8d55 2017-05-27 03:48:43 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoFileManager 46a7237 2017-05-23 09:33:37 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher 7665204 2017-05-23 02:17:29 +0000 forward_m@126.com "Luo Junhuan" 
 -                      platform/packages/apps/OtoOta d91bd87 2017-05-22 02:50:22 +0000 potatomagic@163.com "Wang Zhixu" 
