@@ -1,11 +1,11 @@
 # multiwindow projects update
-Fri, 02 Jun 2017 15:00:01 +0800
+Sat, 03 Jun 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
--                                    platform/bionic cb8c8ac 2017-03-29 12:18:14 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
+-                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
 -                                     platform/build 561d04f 2017-05-31 07:00:38 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common 2036465 2017-05-31 08:14:19 +0000 chenwei01@thtfpc.com "Chen Wei" 
+-                              device/generic/common 13f5130 2017-06-03 16:32:06 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
