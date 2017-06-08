@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 08 Jun 2017 15:00:01 +0800
+Thu, 08 Jun 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller df9d658 2017-05-24 14:54:46 +0800 m18410261910@163.com "CaoYongren" 
@@ -11,11 +11,12 @@ Thu, 08 Jun 2017 15:00:01 +0800
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
+-                           platform/external/libyuv f9426ec 2017-06-06 05:39:16 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/external/mesa b5323b4 2017-04-13 01:52:18 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins e1ce51b 2017-05-09 13:54:01 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                             platform/frameworks/av be83d40 2017-04-26 17:26:16 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                             platform/frameworks/av 0227bb9 2017-06-05 03:57:37 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                           platform/frameworks/base 5f4fec3 2017-06-01 15:16:05 +0800 m18410261910@163.com "CaoYongren" 
 -                         platform/frameworks/native c64bdde 2017-04-26 15:57:58 +0800 lajos@google.com "Lajos Molnar" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
