@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 15 Jun 2017 21:00:01 +0800
+Fri, 16 Jun 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller c9a3cf9 2017-06-14 08:25:21 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -17,7 +17,7 @@ Thu, 15 Jun 2017 21:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins e1ce51b 2017-05-09 13:54:01 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 0227bb9 2017-06-05 03:57:37 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base fea68b1 2017-06-15 10:45:59 +0000 18600956771@163.com "Liu Xiaoxu" 
+-                           platform/frameworks/base 28c07b6 2017-06-16 05:58:19 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 857410b 2017-05-27 03:25:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -42,7 +42,7 @@ Thu, 15 Jun 2017 21:00:01 +0800
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -            platform/packages/apps/PackageInstaller 89561a3 2017-04-24 10:04:17 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 976712e 2017-06-15 10:48:02 +0000 18600956771@163.com "Liu Xiaoxu" 
+-                    platform/packages/apps/Settings a2a50e4 2017-06-16 05:57:51 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 5eebfd4 2017-02-08 21:36:30 +0800 cw_huang@asus.com "Chih-Wei Huang" 
