@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 21 Jun 2017 15:00:01 +0800
+Thu, 22 Jun 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller c9a3cf9 2017-06-14 08:25:21 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -20,7 +20,7 @@ Wed, 21 Jun 2017 15:00:01 +0800
 -                           platform/frameworks/base 72068c4 2017-06-21 06:41:42 +0000 potatomagic@163.com "Wang Zhixu" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
--                      platform/hardware/drm_gralloc 857410b 2017-05-27 03:25:35 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                      platform/hardware/drm_gralloc 51a9b53 2017-06-22 06:52:44 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -               platform/hardware/intel/common/libva 7d012d0 2017-05-12 11:58:03 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                                      kernel/common 3a5d9e8 2017-05-31 08:23:50 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
