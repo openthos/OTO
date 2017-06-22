@@ -23,6 +23,7 @@
   <project path="bionic" name="openthos/oto_bionic" groups="pdk" remote="github" revision="multiwindow" />
   <project path="bootable/newinstaller" name="openthos/oto_bootable_newinstaller" remote="github" revision="multiwindow" />
   <project path="device/generic/common" name="openthos/oto_device_generic_common" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="lollipop-x86" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="lollipop-x86" />
