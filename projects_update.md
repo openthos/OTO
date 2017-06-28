@@ -1,8 +1,8 @@
 # multiwindow projects update
-Wed, 28 Jun 2017 12:00:01 +0800
+Wed, 28 Jun 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
--                     platform/bootable/newinstaller c9a3cf9 2017-06-14 08:25:21 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                     platform/bootable/newinstaller e129235 2017-06-28 08:43:09 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 558d33b 2017-06-14 07:29:18 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common e9ce272 2017-06-06 03:02:25 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -17,7 +17,7 @@ Wed, 28 Jun 2017 12:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins e1ce51b 2017-05-09 13:54:01 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 0227bb9 2017-06-05 03:57:37 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base e10431f 2017-06-27 09:41:30 +0000 forward_m@126.com "Luo Junhuan" 
+-                           platform/frameworks/base 1cfafa7 2017-06-28 09:11:08 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 51a9b53 2017-06-22 06:52:44 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
