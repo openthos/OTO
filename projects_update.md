@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 30 Jun 2017 15:00:01 +0800
+Fri, 30 Jun 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller a8d9058 2017-06-29 09:43:17 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -42,7 +42,7 @@ Fri, 30 Jun 2017 15:00:01 +0800
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -            platform/packages/apps/PackageInstaller 89561a3 2017-04-24 10:04:17 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 4a306bf 2017-06-30 05:56:29 +0000 m18410261910@163.com "CaoYongren" 
+-                    platform/packages/apps/Settings a9d1a5d 2017-06-30 07:09:58 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 5eebfd4 2017-02-08 21:36:30 +0800 cw_huang@asus.com "Chih-Wei Huang" 
@@ -65,7 +65,7 @@ Fri, 30 Jun 2017 15:00:01 +0800
 -                 platform/packages/apps/OtoTerminal ea60306 2017-06-27 02:25:22 +0000 18600956771@163.com "Liu Xiaoxu" 
 -            platform/packages/apps/OtoTestInFactory cfd3700 2017-05-27 08:32:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
--                   platform/packages/apps/OtoWinRec adc2481 2017-05-19 04:11:10 +0000 xiaoluoyuan@163.com "elliott10" 
+-                   platform/packages/apps/OtoWinRec 4a4589f 2017-06-30 06:13:19 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                 platform/packages/apps/ExternalApp 3bb7754 2017-06-14 06:13:00 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
