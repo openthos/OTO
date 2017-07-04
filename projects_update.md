@@ -1,8 +1,8 @@
 # multiwindow projects update
-Mon, 03 Jul 2017 18:00:01 +0800
+Tue, 04 Jul 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
--                     platform/bootable/newinstaller a8d9058 2017-06-29 09:43:17 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                     platform/bootable/newinstaller 9039286 2017-07-04 03:37:10 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build e14d27a 2017-06-30 02:16:14 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common e9ce272 2017-06-06 03:02:25 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -52,7 +52,7 @@ Mon, 03 Jul 2017 18:00:01 +0800
 -            platform/packages/wallpapers/HoloSpiral d92c20d 2016-11-09 09:45:55 +0000 potatomagic@163.com "Wang Zhixu" 
 -    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
--                               platform/system/core f8f3cfe 2017-05-31 08:25:51 +0000 chenwei01@thtfpc.com "Chen Wei" 
+-                               platform/system/core 872ee74 2017-07-04 02:44:12 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoAppStore 1108a69 2017-06-27 09:34:08 +0000 ln01276294@126.com "Lu Ning" 
