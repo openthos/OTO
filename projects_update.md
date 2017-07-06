@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 06 Jul 2017 15:00:01 +0800
+Thu, 06 Jul 2017 21:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 9039286 2017-07-04 03:37:10 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -45,7 +45,7 @@ Thu, 06 Jul 2017 15:00:01 +0800
 -                    platform/packages/apps/Settings fd3d324 2017-07-06 01:30:09 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                platform/packages/apps/UnifiedEmail 5eebfd4 2017-02-08 21:36:30 +0800 cw_huang@asus.com "Chih-Wei Huang" 
+-                platform/packages/apps/UnifiedEmail 1072012 2017-07-06 10:36:16 +0000 18600956771@163.com "Liu Xiaoxu" 
 -       platform/packages/providers/DownloadProvider f61b428 2017-02-08 21:36:57 +0800 cw_huang@asus.com "Chih-Wei Huang" 
 -                 platform/packages/wallpapers/Basic 14968af 2016-11-09 09:43:47 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/wallpapers/Galaxy4 11ff417 2016-11-09 09:44:48 +0000 potatomagic@163.com "Wang Zhixu" 
