@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 17 Jul 2017 12:00:01 +0800
+Mon, 17 Jul 2017 18:00:02 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 9039286 2017-07-04 03:37:10 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -57,7 +57,7 @@ Mon, 17 Jul 2017 12:00:01 +0800
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoAppStore bdb7ccb 2017-07-06 05:43:37 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoCompress 8f35ae0 2017-06-26 10:54:29 +0000 ln01276294@126.com "Lu Ning" 
--              platform/packages/apps/OtoFileManager 31acd2e 2017-07-17 02:43:01 +0000 ln01276294@126.com "Lu Ning" 
+-              platform/packages/apps/OtoFileManager efdc636 2017-07-17 08:09:08 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoLauncher d9d2f1b 2017-07-17 02:42:39 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta d91bd87 2017-05-22 02:50:22 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
@@ -68,7 +68,7 @@ Mon, 17 Jul 2017 12:00:01 +0800
 -                   platform/packages/apps/OtoWinRec 4a4589f 2017-06-30 06:13:19 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                 platform/packages/apps/ExternalApp 3bb7754 2017-06-14 06:13:00 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                 platform/packages/apps/ExternalApp 0e9cffc 2017-07-17 07:38:05 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
 -                           platform/vendor/openthos 5e9bce3 2017-05-26 05:04:07 +0000 chenwei01@thtfpc.com "Chen Wei" 
