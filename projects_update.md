@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 20 Jul 2017 18:00:01 +0800
+Fri, 21 Jul 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller a842698 2017-07-19 04:31:12 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -12,12 +12,12 @@ Thu, 20 Jul 2017 18:00:01 +0800
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                  platform/external/koush/Superuser e1588c6 2016-08-08 09:36:56 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/libyuv f9426ec 2017-06-06 05:39:16 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                             platform/external/mesa d093ee5 2017-06-22 15:49:20 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                             platform/external/mesa f3836aa 2017-07-21 10:48:32 +0800 issor.oruam@gmail.com "Mauro Rossi" 
 -                          platform/external/netperf 7bb0f68 2016-04-14 10:28:10 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins b113ce3 2017-07-14 15:39:12 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 47db2df 2017-07-14 14:26:47 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base be8c3ef 2017-07-20 08:58:50 +0000 forward_m@126.com "Luo Junhuan" 
+-                           platform/frameworks/base 0d7889e 2017-07-21 02:00:23 +0000 ladehunter@gmail.com "ladehunter" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 42fe630 2017-07-20 08:56:54 +0000 xiaoluoyuan@163.com "elliott10" 
@@ -70,7 +70,7 @@ Thu, 20 Jul 2017 18:00:01 +0800
 -                   platform/packages/apps/OtoWinRec 4a4589f 2017-06-30 06:13:19 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                 platform/packages/apps/ExternalApp 0e9cffc 2017-07-17 07:38:05 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                 platform/packages/apps/ExternalApp 9041e06 2017-07-21 02:32:47 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
 -                           platform/vendor/openthos 5e9bce3 2017-05-26 05:04:07 +0000 chenwei01@thtfpc.com "Chen Wei" 
