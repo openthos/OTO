@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 21 Jul 2017 12:00:01 +0800
+Fri, 21 Jul 2017 15:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller a842698 2017-07-19 04:31:12 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -68,7 +68,7 @@ Fri, 21 Jul 2017 12:00:01 +0800
 -            platform/packages/apps/OtoTestInFactory cfd3700 2017-05-27 08:32:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                   platform/packages/apps/OtoWinRec 4a4589f 2017-06-30 06:13:19 +0000 xiaoluoyuan@163.com "elliott10" 
--                     platform/packages/apps/Printer 838972d 2017-03-27 02:18:14 +0000 m18410261910@163.com "Cao Yongren" 
+-                     platform/packages/apps/Printer d1f6325 2017-07-21 05:07:43 +0000 xiaoluoyuan@163.com "elliott10" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                 platform/packages/apps/ExternalApp 9041e06 2017-07-21 02:32:47 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
