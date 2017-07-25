@@ -1,9 +1,9 @@
 # multiwindow projects update
-Tue, 25 Jul 2017 18:00:01 +0800
+Tue, 25 Jul 2017 21:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller a842698 2017-07-19 04:31:12 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
--                                     platform/build b488b99 2017-07-19 09:22:14 +0000 xiaoluoyuan@163.com "elliott10" 
+-                                     platform/build ccec747 2017-07-25 10:19:40 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common e9ce272 2017-06-06 03:02:25 +0000 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
@@ -54,7 +54,7 @@ Tue, 25 Jul 2017 18:00:01 +0800
 -    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
 - platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6 eb5c9f0 2014-05-28 10:32:38 +0200 digit@google.com "David 'Digit' Turner" 
--                               platform/system/core 6dba34a 2017-07-07 08:46:33 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                               platform/system/core af418b9 2017-07-25 10:19:18 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoAppStore bdb7ccb 2017-07-06 05:43:37 +0000 ln01276294@126.com "Lu Ning" 
