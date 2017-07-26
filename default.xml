@@ -42,7 +42,7 @@
   <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="lollipop-x86" />
   <project path="external/libtruezip" name="platform/external/libtruezip" remote="x86" revision="lollipop-x86" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="lollipop-x86" />
+  <project path="external/mesa" name="openthos/oto_external_mesa" remote="github" revision="multiwindow" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="lollipop-x86" />
   <project path="external/parted" name="platform/external/parted" remote="x86" revision="lollipop-x86" />
   <project path="external/stagefright-plugins" name="openthos/oto_external_stagefright-plugins" remote="github" revision="multiwindow" />
@@ -55,7 +55,7 @@
   <project path="hardware/gps" name="platform/hardware/gps" remote="x86" revision="lollipop-x86" />
   <project path="hardware/intel/common/libva" name="openthos/oto_hardware_intel_common_libva" groups="intel" remote="github" revision="multiwindow" />
   <project path="hardware/intel/common/vaapi" name="openthos/oto_hardware_intel_common_vaapi" groups="intel" remote="github" revision="multiwindow" />
-  <project path="hardware/intel/hwcomposer" name="platform/hardware/intel/hwcomposer" remote="x86" revision="lollipop-x86" />
+  <project path="hardware/intel/hwcomposer" name="openthos/oto_hardware_intel_hwcomposer" remote="github" revision="multiwindow" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libcamera" name="openthos/oto_hardware_libcamera" remote="github" revision="multiwindow" />
@@ -537,7 +537,7 @@
   <project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" groups="notdefault,pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" groups="notdefault,pdk,linux,arm" />
   <project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.8" groups="notdefault,pdk,linux,arm" />
-  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" groups="notdefault,pdk,linux" />
+  <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6" name="openthos/oto_prebuilts_gcc_linux-x86_host_x86_64-linux-glibc2.11-4.6" groups="pdk,linux" revision="multiwindow" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" groups="pdk,linux" />
   <project path="prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" groups="notdefault" />
   <project path="prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" groups="notdefault,pdk,linux,mips" />
