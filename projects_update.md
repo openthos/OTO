@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 27 Jul 2017 18:00:01 +0800
+Thu, 27 Jul 2017 21:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller a842698 2017-07-19 04:31:12 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -17,7 +17,7 @@ Thu, 27 Jul 2017 18:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins b113ce3 2017-07-14 15:39:12 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 38cd4e7 2017-07-26 15:42:06 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base f7b4f68 2017-07-27 08:38:48 +0000 ladehunter@gmail.com "ladehunter" 
+-                           platform/frameworks/base 1304a21 2017-07-27 10:31:20 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -58,10 +58,10 @@ Thu, 27 Jul 2017 18:00:01 +0800
 -                               platform/system/core af418b9 2017-07-25 10:19:18 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoAppStore bdb7ccb 2017-07-06 05:43:37 +0000 ln01276294@126.com "Lu Ning" 
+-                 platform/packages/apps/OtoAppStore dd2e7d0 2017-07-27 10:14:31 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoCompress 8f35ae0 2017-06-26 10:54:29 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoFileManager 946319c 2017-07-27 02:33:48 +0000 ln01276294@126.com "Lu Ning" 
--                 platform/packages/apps/OtoLauncher 6e5ce56 2017-07-27 08:53:25 +0000 potatomagic@163.com "Wang Zhixu" 
+-                 platform/packages/apps/OtoLauncher d211698 2017-07-27 12:10:43 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta 32398ee 2017-07-25 14:05:34 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
