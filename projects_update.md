@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 02 Aug 2017 21:00:01 +0800
+Thu, 03 Aug 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller a842698 2017-07-19 04:31:12 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -55,7 +55,7 @@ Wed, 02 Aug 2017 21:00:01 +0800
 -    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
 - platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6 eb5c9f0 2014-05-28 10:32:38 +0200 digit@google.com "David 'Digit' Turner" 
--                               platform/system/core af418b9 2017-07-25 10:19:18 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                               platform/system/core 037b5e9 2017-08-03 09:59:36 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 1f5c138 2017-05-12 11:22:56 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoAppStore 78b6a61 2017-08-02 10:04:55 +0000 0123hhtx@163.com "Chen Peng" 
