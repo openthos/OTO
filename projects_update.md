@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 03 Aug 2017 21:00:01 +0800
+Fri, 04 Aug 2017 12:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 667b8f3 2017-08-03 08:17:44 +0000 chenwei01@thtfpc.com "Chen Wei" 
@@ -17,7 +17,7 @@ Thu, 03 Aug 2017 21:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins b113ce3 2017-07-14 15:39:12 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 0f19227 2017-07-31 18:02:48 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base b9f37bb 2017-08-03 11:40:56 +0000 ln01276294@126.com "Lu Ning" 
+-                           platform/frameworks/base 20eadad 2017-08-04 02:15:34 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
