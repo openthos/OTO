@@ -1,11 +1,12 @@
 # multiwindow projects update
-Fri, 04 Aug 2017 18:00:01 +0800
+Mon, 07 Aug 2017 18:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 655a568 2017-08-04 08:08:42 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                                     platform/build 900e2eb 2017-07-27 03:14:22 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common f41a7c4 2017-08-03 17:57:23 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                            device/generic/goldfish  
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -17,7 +18,7 @@ Fri, 04 Aug 2017 18:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins b113ce3 2017-07-14 15:39:12 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 0f19227 2017-07-31 18:02:48 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base 20eadad 2017-08-04 02:15:34 +0000 18600956771@163.com "Liu Xiaoxu" 
+-                           platform/frameworks/base a0dce9d 2017-08-07 09:42:52 +0000 xiaoluoyuan@163.com "elliott10" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -55,6 +56,7 @@ Fri, 04 Aug 2017 18:00:01 +0800
 -    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
 - platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6 eb5c9f0 2014-05-28 10:32:38 +0200 digit@google.com "David 'Digit' Turner" 
+- platform/prebuilts/gcc/linux-x86/x86/x86_64-linux-android-4.8  
 -                               platform/system/core 037b5e9 2017-08-03 09:59:36 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/vold 182dfae 2017-08-03 16:02:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
