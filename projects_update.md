@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 14 Aug 2017 13:00:01 +0800
+Tue, 15 Aug 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 655a568 2017-08-04 08:08:42 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
@@ -17,7 +17,7 @@ Mon, 14 Aug 2017 13:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins b113ce3 2017-07-14 15:39:12 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 0f19227 2017-07-31 18:02:48 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base bf8d6d4 2017-08-11 06:30:24 +0000 forward_m@126.com "Luo Junhuan" 
+-                           platform/frameworks/base 4f16a83 2017-08-15 09:12:21 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -44,7 +44,7 @@ Mon, 14 Aug 2017 13:00:01 +0800
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -            platform/packages/apps/PackageInstaller 89561a3 2017-04-24 10:04:17 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 57ce98c 2017-08-08 03:04:58 +0000 forward_m@126.com "Luo Junhuan" 
+-                    platform/packages/apps/Settings a5ae2f3 2017-08-15 09:12:55 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 1072012 2017-07-06 10:36:16 +0000 18600956771@163.com "Liu Xiaoxu" 
@@ -59,10 +59,10 @@ Mon, 14 Aug 2017 13:00:01 +0800
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/netd 09446ef 2017-08-09 17:47:12 +0800 lorenzo@google.com "Lorenzo Colitti" 
 -                               platform/system/vold 182dfae 2017-08-03 16:02:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                 platform/packages/apps/OtoAppStore 52a5a6f 2017-08-11 07:40:38 +0000 0123hhtx@163.com "Chen Peng" 
+-                 platform/packages/apps/OtoAppStore 3db90b1 2017-08-15 08:11:18 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoCompress 1432b21 2017-08-08 06:53:27 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoFileManager 09c8ec3 2017-08-08 01:52:47 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoLauncher 9b904a7 2017-08-11 07:32:30 +0000 potatomagic@163.com "Wang Zhixu" 
+-                 platform/packages/apps/OtoLauncher 1c79757 2017-08-15 08:49:37 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta 32398ee 2017-07-25 14:05:34 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
