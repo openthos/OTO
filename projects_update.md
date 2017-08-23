@@ -1,8 +1,8 @@
 # multiwindow projects update
-Tue, 22 Aug 2017 13:00:01 +0800
+Wed, 23 Aug 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
--                     platform/bootable/newinstaller 655a568 2017-08-04 08:08:42 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
+-                     platform/bootable/newinstaller e6f8092 2017-08-23 15:59:15 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                                     platform/build 900e2eb 2017-07-27 03:14:22 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common f41a7c4 2017-08-03 17:57:23 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -17,7 +17,7 @@ Tue, 22 Aug 2017 13:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins b113ce3 2017-07-14 15:39:12 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 66753f9 2017-08-15 12:45:48 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base 92c70fe 2017-08-21 08:34:25 +0000 potatomagic@163.com "Wang Zhixu" 
+-                           platform/frameworks/base 7e483ed 2017-08-23 11:34:11 +0000 m18410261910@163.com "CaoYongren" 
 -                         platform/frameworks/native 292a818 2017-06-03 18:36:29 +0800 asimjour@google.com "Amirhossein Simjour" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -67,7 +67,7 @@ Tue, 22 Aug 2017 13:00:01 +0800
 -                platform/packages/apps/OtoPinyinIME 652eac9 2017-03-06 06:55:10 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                 platform/packages/apps/OtoTerminal ea60306 2017-06-27 02:25:22 +0000 18600956771@163.com "Liu Xiaoxu" 
--            platform/packages/apps/OtoTestInFactory d20cae2 2017-07-29 06:49:34 +0000 potatomagic@163.com "Wang Zhixu" 
+-            platform/packages/apps/OtoTestInFactory 13ababf 2017-08-23 10:07:38 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/packages/apps/OtoVirtualGUI aba68ba 2016-11-03 10:02:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                   platform/packages/apps/OtoWinRec dec0ebe 2017-07-31 08:42:03 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 9ff0ccd 2017-07-27 04:42:02 +0000 m18410261910@163.com "CaoYongren" 
