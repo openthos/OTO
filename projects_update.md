@@ -1,8 +1,8 @@
 # multiwindow projects update
-Fri, 01 Sep 2017 23:00:01 +0800
+Mon, 04 Sep 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
--                     platform/bootable/newinstaller 7c0dac6 2017-09-01 07:01:36 +0000 chenwei01@thtfpc.com "David.Chan" 
+-                     platform/bootable/newinstaller b670903 2017-09-04 17:16:09 +0800 chenwei01@thtfpc.com "David.Chan" 
 -                                     platform/build 900e2eb 2017-07-27 03:14:22 +0000 wangjianxing5210@163.com "Jianxing.Wang" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
 -                              device/generic/common f41a7c4 2017-08-03 17:57:23 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -25,7 +25,7 @@ Fri, 01 Sep 2017 23:00:01 +0800
 -                 platform/hardware/intel/hwcomposer 1eb07e7 2017-07-20 06:38:34 +0000 xiaoluoyuan@163.com "elliott10" 
 -                        platform/hardware/libcamera e538b67 2016-09-30 12:45:12 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/hardware/libhardware_legacy cad52d6 2017-07-27 10:19:02 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                                      kernel/common 41ad966 2017-07-24 18:01:27 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                                      kernel/common bfa20a7 2017-09-04 19:08:59 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                     platform/packages/apps/Browser 930d688 2016-12-13 14:48:32 +0800 chengang@emindsoft.com.cn "Chen Gang" 
 -               platform/packages/apps/CMFileManager 7c8a377 2016-12-19 15:07:12 +0800 potatomagic@163.com "Wang Zhixu" 
 -                  platform/packages/apps/Calculator 68e8816 2016-08-11 10:17:24 +0800 ln01276294@126.com "luning" 
