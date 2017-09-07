@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 04 Sep 2017 23:00:01 +0800
+Thu, 07 Sep 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller b670903 2017-09-04 17:16:09 +0800 chenwei01@thtfpc.com "David.Chan" 
@@ -72,7 +72,7 @@ Mon, 04 Sep 2017 23:00:01 +0800
 -                   platform/packages/apps/OtoWinRec dec0ebe 2017-07-31 08:42:03 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 9ff0ccd 2017-07-27 04:42:02 +0000 m18410261910@163.com "CaoYongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                 platform/packages/apps/ExternalApp 476b20b 2017-07-27 09:29:02 +0000 m18410261910@163.com "CaoYongren" 
+-                 platform/packages/apps/ExternalApp e5823c3 2017-09-07 07:54:25 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
 -                           platform/vendor/openthos 5e9bce3 2017-05-26 05:04:07 +0000 chenwei01@thtfpc.com "Chen Wei" 
