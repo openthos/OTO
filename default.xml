@@ -4,7 +4,7 @@
   <remote  name="aosp"
            fetch="https://aosp.tuna.tsinghua.edu.cn/" />
   <remote  name="x86"
-           fetch="git://gitscm.sf.net/gitroot/android-x86/" />
+           fetch="git://git.osdn.net/gitroot/android-x86/" />
            <!-- fetch="." -->
   <remote  name="github"
            fetch=".." />
@@ -60,7 +60,7 @@
   <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libcamera" name="openthos/oto_hardware_libcamera" remote="github" revision="multiwindow" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="hardware/libhardware_legacy" name="platform/hardware/libhardware_legacy" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="hardware/libhardware_legacy"  name="openthos/oto_hardware_libhardware_legacy" remote="github" revision="multiwindow" />
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="lollipop-x86" />
   <project path="hardware/ril" name="platform/hardware/ril" groups="pdk" remote="x86" revision="lollipop-x86" />
@@ -71,7 +71,7 @@
   <project path="packages/apps/TSCalibration2" name="openthos/oto_packages_apps_TSCalibration2" remote="github" revision="multiwindow" />
   <project path="system/core" name="openthos/oto_system_core" groups="pdk" remote="github" revision="multiwindow" />
   <project path="system/extras" name="platform/system/extras" groups="pdk" remote="x86" revision="lollipop-x86" />
-  <project path="system/netd" name="platform/system/netd" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="system/netd" name="openthos/oto_system_netd" remote="github" revision="multiwindow" />
   <project path="system/vold" name="openthos/oto_system_vold" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoLauncher" name="openthos/oto_packages_apps_OtoLauncher" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoOta" name="openthos/oto_packages_apps_OtoOta" groups="pdk" remote="github" revision="multiwindow" />
@@ -83,6 +83,7 @@
   <project path="packages/apps/OtoPinyinIME" name="openthos/oto_packages_apps_OtoPinyinIME" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoTestInFactory" name="openthos/oto_packages_apps_OtoTestInFactory" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoWinRec" name="openthos/oto_packages_apps_OtoWinRec" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoKeyboardMap" name="openthos/oto_packages_apps_OtoKeyboardMap" remote="github" revision="multiwindow" />
   <project path="packages/apps/ExternalApp" name="openthos/oto_packages_apps_ExternalApp" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/p7zip" name="openthos/oto_external_p7zip" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/lkp" name="openthos/oto_external_lkp" remote="github" revision="multiwindow" />
