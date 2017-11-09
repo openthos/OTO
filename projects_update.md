@@ -1,5 +1,5 @@
 # multiwindow projects update
-Wed, 08 Nov 2017 23:00:01 +0800
+Thu, 09 Nov 2017 13:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller cb417f2 2017-09-11 02:49:45 +0000 chenwei01@thtfpc.com "David.Chan" 
@@ -62,7 +62,7 @@ Wed, 08 Nov 2017 23:00:01 +0800
 -                 platform/packages/apps/OtoAppStore c0f19a8 2017-08-24 05:59:37 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoCompress 8d16c1c 2017-10-26 09:33:55 +0000 xiaoshu910@foxmail.com "Wang Ming" 
 -              platform/packages/apps/OtoFileManager 4d737b2 2017-09-08 08:15:03 +0000 ln01276294@126.com "Lu Ning" 
--              platform/packages/apps/OtoKeyboardMap 6b92c6a 2017-11-08 06:50:25 +0000 0123hhtx@163.com "Chen Peng" 
+-              platform/packages/apps/OtoKeyboardMap 7ddec49 2017-11-09 02:15:16 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher 6f57167 2017-08-21 08:34:03 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta 17fc5be 2017-08-18 07:19:33 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME ac1de70 2017-10-26 07:58:59 +0000 potatomagic@163.com "Wang Zhixu" 
