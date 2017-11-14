@@ -1,5 +1,5 @@
 # multiwindow projects update
-Tue, 14 Nov 2017 13:00:01 +0800
+Tue, 14 Nov 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 7d5d584 2017-11-10 05:36:03 +0000 chenwei01@thtfpc.com "David.Chan" 
@@ -44,7 +44,7 @@ Tue, 14 Nov 2017 13:00:01 +0800
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -            platform/packages/apps/PackageInstaller 89561a3 2017-04-24 10:04:17 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings d1defb9 2017-08-24 10:29:45 +0000 18600956771@163.com "Liu Xiaoxu" 
+-                    platform/packages/apps/Settings fdf8fb0 2017-11-14 10:08:30 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 1072012 2017-07-06 10:36:16 +0000 18600956771@163.com "Liu Xiaoxu" 
@@ -62,7 +62,7 @@ Tue, 14 Nov 2017 13:00:01 +0800
 -                 platform/packages/apps/OtoAppStore c0f19a8 2017-08-24 05:59:37 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoCompress 8d16c1c 2017-10-26 09:33:55 +0000 xiaoshu910@foxmail.com "Wang Ming" 
 -              platform/packages/apps/OtoFileManager 4d737b2 2017-09-08 08:15:03 +0000 ln01276294@126.com "Lu Ning" 
--              platform/packages/apps/OtoKeyboardMap 21d22a2 2017-11-14 03:24:33 +0000 ln01276294@126.com "Lu Ning" 
+-              platform/packages/apps/OtoKeyboardMap 1f9a6c1 2017-11-14 06:52:31 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher 6f57167 2017-08-21 08:34:03 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta 17fc5be 2017-08-18 07:19:33 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME ac1de70 2017-10-26 07:58:59 +0000 potatomagic@163.com "Wang Zhixu" 
