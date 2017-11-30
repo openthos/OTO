@@ -1,11 +1,11 @@
 # multiwindow projects update
-Wed, 29 Nov 2017 23:00:01 +0800
+Thu, 30 Nov 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 7d5d584 2017-11-10 05:36:03 +0000 chenwei01@thtfpc.com "David.Chan" 
 -                                     platform/build 75cec05 2017-11-08 08:26:43 +0000 potatomagic@163.com "Wang Zhixu" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common c90cf0f 2017-11-08 09:04:09 +0000 potatomagic@163.com "Wang Zhixu" 
+-                              device/generic/common fe1595a 2017-11-30 08:48:24 +0000 chenwei01@thtfpc.com "David Wei" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -63,7 +63,7 @@ Wed, 29 Nov 2017 23:00:01 +0800
 -                 platform/packages/apps/OtoCompress 8d16c1c 2017-10-26 09:33:55 +0000 xiaoshu910@foxmail.com "Wang Ming" 
 -              platform/packages/apps/OtoFileManager 4d737b2 2017-09-08 08:15:03 +0000 ln01276294@126.com "Lu Ning" 
 -              platform/packages/apps/OtoKeyboardMap 4e915ac 2017-11-21 02:47:22 +0000 0123hhtx@163.com "Chen Peng" 
--                 platform/packages/apps/OtoLauncher 6f57167 2017-08-21 08:34:03 +0000 ln01276294@126.com "Lu Ning" 
+-                 platform/packages/apps/OtoLauncher ab95210 2017-11-30 08:13:01 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta 17fc5be 2017-08-18 07:19:33 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME ac1de70 2017-10-26 07:58:59 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
