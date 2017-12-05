@@ -1,5 +1,5 @@
 # multiwindow projects update
-Fri, 01 Dec 2017 23:00:01 +0800
+Tue, 05 Dec 2017 13:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 7d5d584 2017-11-10 05:36:03 +0000 chenwei01@thtfpc.com "David.Chan" 
@@ -42,7 +42,7 @@ Fri, 01 Dec 2017 23:00:01 +0800
 -                   platform/packages/apps/Launcher3 fb36452 2016-08-25 02:24:22 +0000 potatomagic@163.com "wangzhixu" 
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
--            platform/packages/apps/PackageInstaller 89561a3 2017-04-24 10:04:17 +0000 18600956771@163.com "Liu Xiaoxu" 
+-            platform/packages/apps/PackageInstaller 155bed0 2017-12-05 02:45:47 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                    platform/packages/apps/Settings fdf8fb0 2017-11-14 10:08:30 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
@@ -73,7 +73,7 @@ Fri, 01 Dec 2017 23:00:01 +0800
 -                   platform/packages/apps/OtoWinRec dec0ebe 2017-07-31 08:42:03 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 9ff0ccd 2017-07-27 04:42:02 +0000 m18410261910@163.com "CaoYongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                 platform/packages/apps/ExternalApp 57ae874 2017-11-28 11:22:00 +0000 m18410261910@163.com "CaoYongren" 
+-                 platform/packages/apps/ExternalApp d692a07 2017-12-05 02:46:34 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
 -                           platform/vendor/openthos 5e9bce3 2017-05-26 05:04:07 +0000 chenwei01@thtfpc.com "Chen Wei" 
