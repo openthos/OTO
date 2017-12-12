@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Modified or unnecessary AOSP projects -->
+  <remove-project name="device/asus/fugu" />
+  <remove-project name="device/asus/fugu-kernel" />
+  <remove-project name="device/generic/arm64" />
+  <remove-project name="device/generic/armv7-a-neon" />
+  <remove-project name="device/generic/car" />
+  <remove-project name="device/generic/common" />
+  <remove-project name="device/generic/goldfish" />
+  <remove-project name="device/generic/goldfish-opengl" />
+  <remove-project name="device/generic/mini-emulator-arm64" />
+  <remove-project name="device/generic/mini-emulator-armv7-a-neon" />
+  <remove-project name="device/generic/mini-emulator-mips" />
+  <remove-project name="device/generic/mini-emulator-mips64" />
+  <remove-project name="device/generic/mini-emulator-x86" />
+  <remove-project name="device/generic/mini-emulator-x86_64" />
+  <remove-project name="device/generic/mips" />
+  <remove-project name="device/generic/mips64" />
+  <remove-project name="device/generic/qemu" />
+  <remove-project name="device/generic/x86" />
+  <remove-project name="device/generic/x86_64" />
+  <remove-project name="device/google/accessory/arduino" />
+  <remove-project name="device/google/accessory/demokit" />
+  <remove-project name="device/google/atv" />
+  <remove-project name="device/google/contexthub" />
+  <remove-project name="device/google/dragon" />
+  <remove-project name="device/google/dragon-kernel" />
+  <remove-project name="device/google/marlin" />
+  <remove-project name="device/google/marlin-kernel" />
+  <remove-project name="device/google/vrservices" />
+  <remove-project name="device/huawei/angler" />
+  <remove-project name="device/huawei/angler-kernel" />
+  <remove-project name="device/lge/bullhead" />
+  <remove-project name="device/lge/bullhead-kernel" />
+  <remove-project name="device/linaro/bootloader/arm-trusted-firmware" />
+  <remove-project name="device/linaro/bootloader/edk2" />
+  <remove-project name="device/linaro/bootloader/OpenPlatformPkg" />
+  <remove-project name="device/linaro/hikey" />
+  <remove-project name="device/linaro/hikey-kernel" />
+  <remove-project name="kernel/tests" />
+  <remove-project name="platform/bionic" />
+  <remove-project name="platform/developers/build" />
+  <remove-project name="platform/developers/demos" />
+  <remove-project name="platform/developers/samples/android" />
+  <remove-project name="platform/docs/source.android.com" />
+  <remove-project name="platform/external/arm-neon-tests" />
+  <remove-project name="platform/external/drm_hwcomposer" />
+  <remove-project name="platform/external/jline" />
+  <remove-project name="platform/external/libdrm" />
+  <remove-project name="platform/external/libedit" />
+  <remove-project name="platform/external/libusb-compat" />
+  <remove-project name="platform/external/llvm" />
+  <remove-project name="platform/external/mesa3d" />
+  <remove-project name="platform/external/mksh" />
+  <remove-project name="platform/external/swiftshader" />
+  <remove-project name="platform/external/toybox" />
+  <remove-project name="platform/frameworks/av" />
+  <remove-project name="platform/frameworks/base" />
+  <remove-project name="platform/frameworks/native" />
+  <remove-project name="platform/hardware/akm" />
+  <remove-project name="platform/hardware/broadcom/libbt" />
+  <remove-project name="platform/hardware/broadcom/wlan" />
+  <remove-project name="platform/hardware/intel/audio_media" />
+  <remove-project name="platform/hardware/intel/bootstub" />
+  <remove-project name="platform/hardware/intel/common/bd_prov" />
+  <remove-project name="platform/hardware/intel/common/libmix" />
+  <remove-project name="platform/hardware/intel/common/libstagefrighthw" />
+  <remove-project name="platform/hardware/intel/common/libva" />
+  <remove-project name="platform/hardware/intel/common/libwsbm" />
+  <remove-project name="platform/hardware/intel/common/omx-components" />
+  <remove-project name="platform/hardware/intel/common/utils" />
+  <remove-project name="platform/hardware/intel/common/wrs_omxil_core" />
+  <remove-project name="platform/hardware/intel/img/hwcomposer" />
+  <remove-project name="platform/hardware/intel/img/psb_headers" />
+  <remove-project name="platform/hardware/intel/img/psb_video" />
+  <remove-project name="platform/hardware/intel/sensors" />
+  <remove-project name="platform/hardware/interfaces" />
+  <remove-project name="platform/hardware/invensense" />
+  <remove-project name="platform/hardware/marvell/bt" />
+  <remove-project name="platform/hardware/qcom/audio" />
+  <remove-project name="platform/hardware/qcom/bootctrl" />
+  <remove-project name="platform/hardware/qcom/bt" />
+  <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
+  <remove-project name="platform/hardware/qcom/display" />
+  <remove-project name="platform/hardware/qcom/gps" />
+  <remove-project name="platform/hardware/qcom/keymaster" />
+  <remove-project name="platform/hardware/qcom/media" />
+  <remove-project name="platform/hardware/qcom/msm8960" />
+  <remove-project name="platform/hardware/qcom/msm8994" />
+  <remove-project name="platform/hardware/qcom/msm8996" />
+  <remove-project name="platform/hardware/qcom/msm8x09" />
+  <remove-project name="platform/hardware/qcom/msm8x26" />
+  <remove-project name="platform/hardware/qcom/msm8x27" />
+  <remove-project name="platform/hardware/qcom/msm8x84" />
+  <remove-project name="platform/hardware/qcom/power" />
+  <remove-project name="platform/hardware/qcom/wlan" />
+  <remove-project name="platform/hardware/ril" />
+  <remove-project name="platform/packages/apps/Camera2" />
+  <remove-project name="platform/packages/apps/Car/Dialer" />
+  <remove-project name="platform/packages/apps/Car/Hvac" />
+  <remove-project name="platform/packages/apps/Car/LatinIME" />
+  <remove-project name="platform/packages/apps/Car/LensPicker" />
+  <remove-project name="platform/packages/apps/Car/LocalMediaPlayer" />
+  <remove-project name="platform/packages/apps/Car/Media" />
+  <remove-project name="platform/packages/apps/Car/Messenger" />
+  <remove-project name="platform/packages/apps/Car/Overview" />
+  <remove-project name="platform/packages/apps/Car/Radio" />
+  <remove-project name="platform/packages/apps/Car/Settings" />
+  <remove-project name="platform/packages/apps/Car/Stream" />
+  <remove-project name="platform/packages/apps/Car/SystemUpdater" />
+  <remove-project name="platform/packages/apps/Car/UserManagement" />
+  <remove-project name="platform/packages/apps/Gallery" />
+  <remove-project name="platform/packages/apps/Gallery2" />
+  <remove-project name="platform/packages/apps/Launcher2" />
+  <remove-project name="platform/packages/apps/LegacyCamera" />
+  <remove-project name="platform/packages/apps/Music" />
+  <remove-project name="platform/packages/apps/MusicFX" />
+  <remove-project name="platform/packages/apps/Nfc" />
+  <remove-project name="platform/packages/apps/Settings" />
+  <remove-project name="platform/packages/apps/Tag" />
+  <remove-project name="platform/packages/apps/Test/connectivity" />
+  <remove-project name="platform/packages/experimental" />
+  <remove-project name="platform/packages/inputmethods/OpenWnn" />
+  <remove-project name="platform/packages/services/Telecomm" />
+  <remove-project name="platform/prebuilts/android-emulator" />
+  <remove-project name="platform/prebuilts/gcc/darwin-x86/aarch64/aarch64-linux-android-4.9" />
+  <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-eabi-4.8" />
+  <remove-project name="platform/prebuilts/gcc/darwin-x86/arm/arm-linux-androideabi-4.9" />
+  <remove-project name="platform/prebuilts/gcc/darwin-x86/mips/mips64el-linux-android-4.9" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-eabi-4.8" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.8" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/host/x86_64-w64-mingw32-4.8" />
+  <remove-project name="platform/prebuilts/gcc/linux-x86/mips/mips64el-linux-android-4.9" />
+  <remove-project name="platform/prebuilts/gradle-plugin" />
+  <remove-project name="platform/prebuilts/libs/libedit" />
+  <remove-project name="platform/prebuilts/qemu-kernel" />
+  <remove-project name="platform/system/core" />
+  <remove-project name="platform/system/extras" />
+  <remove-project name="platform/system/media" />
+  <remove-project name="platform/system/nfc" />
+  <remove-project name="platform/system/vold" />
+  <remove-project name="platform/test/vts-testcase/fuzz" />
+  <remove-project name="platform/test/vts-testcase/security" />
+  <remove-project name="platform/test/vts-testcase/vndk" />
+  <remove-project name="platform/tools/external/fat32lib" />
+  <remove-project name="platform/tools/external/gradle" />
+  <remove-project name="platform/tools/loganalysis" />
+  <remove-project name="platform/tools/repohooks" />
+  <remove-project name="platform/tools/test/connectivity" />
+  <remove-project name="platform/tools/tradefederation" />
+  <remove-project name="platform/tools/tradefederation/contrib" />
+
+  <!-- From Android-x86 repositories -->
+  <remote  name="x86" fetch="." />
+
+  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.9" />
+  <project path="bionic" name="platform/bionic" remote="x86" revision="oreo-x86" />
+  <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="oreo-x86" />
+  <project path="device/generic/common" name="device/generic/common" remote="x86" revision="oreo-x86" />
+  <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="oreo-x86" />
+  <project path="device/generic/x86" name="device/generic/x86" remote="x86" revision="oreo-x86" />
+  <project path="device/generic/x86_64" name="device/generic/x86_64" remote="x86" revision="oreo-x86" />
+  <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="oreo-x86" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" revision="oreo-x86" />
+  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" revision="oreo-x86" />
+  <project path="external/busybox" name="platform/external/busybox" remote="x86" revision="oreo-x86" />
+  <project path="external/drm_gralloc" name="platform/external/drm_gralloc" remote="x86" revision="oreo-x86" />
+  <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" remote="x86" revision="oreo-x86" />
+  <project path="external/eject" name="platform/external/eject" remote="x86" revision="oreo-x86" />
+  <project path="external/exfat" name="platform/external/exfat" remote="x86" revision="oreo-x86" />
+  <project path="external/ffmpeg" name="platform/external/ffmpeg" remote="x86" revision="oreo-x86" />
+  <project path="external/gbm_gralloc" name="platform/external/gbm_gralloc" remote="x86" revision="oreo-x86" />
+  <project path="external/googleanalytics" name="platform/external/googleanalytics" remote="x86" revision="oreo-x86" />
+  <project path="external/libdrm" name="platform/external/libdrm" remote="x86" revision="oreo-x86" />
+  <project path="external/llvm" name="platform/external/llvm" remote="x86" revision="oreo-x86" />
+  <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="oreo-x86" />
+  <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="oreo-x86" />
+  <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="oreo-x86" />
+  <project path="external/s2tc" name="platform/external/s2tc" remote="x86" revision="oreo-x86" />
+  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="oreo-x86" groups="notdefault" />
+  <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" revision="oreo-x86" />
+  <project path="external/toybox" name="platform/external/toybox" remote="x86" revision="oreo-x86" />
+  <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="oreo-x86" />
+  <project path="frameworks/av" name="platform/frameworks/av" remote="x86" revision="oreo-x86" />
+  <project path="frameworks/base" name="platform/frameworks/base" remote="x86" revision="oreo-x86" />
+  <project path="frameworks/native" name="platform/frameworks/native" remote="x86" revision="oreo-x86" />
+  <project path="hardware/gps" name="platform/hardware/gps" remote="x86" revision="oreo-x86" />
+  <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" remote="x86" revision="oreo-x86" />
+  <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" remote="x86" revision="oreo-x86" />
+  <project path="hardware/intel/common/vaapi" name="platform/hardware/intel/common/vaapi" remote="x86" revision="oreo-x86" />
+  <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="oreo-x86" />
+  <project path="hardware/interfaces" name="platform/hardware/interfaces" remote="x86" revision="oreo-x86" />
+  <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="oreo-x86" />
+  <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="x86" revision="oreo-x86" />
+  <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="oreo-x86" />
+  <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="oreo-x86" />
+  <project path="hardware/ril" name="platform/hardware/ril" remote="x86" revision="oreo-x86" />
+  <project path="hardware/x86power" name="platform/hardware/x86power" remote="x86" revision="oreo-x86" />
+  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="x86" revision="oreo-x86" />
+  <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" revision="oreo-x86" />
+  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="x86" revision="oreo-x86" />
+  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" revision="oreo-x86" />
+  <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="oreo-x86" />
+  <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="oreo-x86" />
+  <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="oreo-x86" />
+  <project path="system/core" name="platform/system/core" remote="x86" revision="oreo-x86" />
+  <project path="system/extras" name="platform/system/extras" remote="x86" revision="oreo-x86" />
+  <project path="system/media" name="platform/system/media" remote="x86" revision="oreo-x86" />
+  <project path="system/vold" name="platform/system/vold" remote="x86" revision="oreo-x86" />
+
+</manifest>
