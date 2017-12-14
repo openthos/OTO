@@ -1,11 +1,11 @@
 # multiwindow projects update
-Wed, 13 Dec 2017 23:00:01 +0800
+Thu, 14 Dec 2017 13:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 7d5d584 2017-11-10 05:36:03 +0000 chenwei01@thtfpc.com "David.Chan" 
 -                                     platform/build 75cec05 2017-11-08 08:26:43 +0000 potatomagic@163.com "Wang Zhixu" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common ee76719 2017-12-11 03:08:38 +0000 chenwei01@thtfpc.com "David Wei" 
+-                              device/generic/common 8dafa3f 2017-12-14 12:02:43 +0800 m18410261910@163.com "CaoYongren" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -73,7 +73,7 @@ Wed, 13 Dec 2017 23:00:01 +0800
 -                   platform/packages/apps/OtoWinRec dec0ebe 2017-07-31 08:42:03 +0000 xiaoluoyuan@163.com "elliott10" 
 -                     platform/packages/apps/Printer 9ff0ccd 2017-07-27 04:42:02 +0000 m18410261910@163.com "CaoYongren" 
 -                            platform/external/p7zip 46ba34a 2017-01-05 14:36:24 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
--                 platform/packages/apps/ExternalApp f1ec234 2017-12-06 02:36:44 +0000 forward_m@126.com "Luo Junhuan" 
+-                 platform/packages/apps/ExternalApp a47d085 2017-12-14 03:04:19 +0000 m18410261910@163.com "CaoYongren" 
 -                           platform/external/Uitest 766cf50 2016-10-18 12:38:18 +0800 15755367399@163.com "zhouyijie" 
 -                              platform/external/lkp cbb07c1 2016-10-18 12:39:46 +0800 15755367399@163.com "zhouyijie" 
 -                           platform/vendor/openthos 5e9bce3 2017-05-26 05:04:07 +0000 chenwei01@thtfpc.com "Chen Wei" 
