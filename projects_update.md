@@ -1,11 +1,11 @@
 # multiwindow projects update
-Tue, 26 Dec 2017 23:00:01 +0800
+Wed, 27 Dec 2017 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 5c5124e 2017-12-25 06:14:18 +0000 xiaoluoyuan@163.com "elliott10" 
 -                                     platform/build 8be4efd 2017-12-25 06:20:37 +0000 xiaoluoyuan@163.com "elliott10" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common eca0b8d 2017-12-25 06:17:51 +0000 xiaoluoyuan@163.com "elliott10" 
+-                              device/generic/common 86e5154 2017-12-27 08:56:34 +0000 potatomagic@163.com "Wang Zhixu" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -18,7 +18,7 @@ Tue, 26 Dec 2017 23:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins a04cf3b 2017-08-25 17:24:35 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 66753f9 2017-08-15 12:45:48 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base d69f408 2017-12-25 08:40:23 +0000 m18410261910@163.com "CaoYongren" 
+-                           platform/frameworks/base 0696a10 2017-12-27 08:29:52 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                         platform/frameworks/native 63ff645 2017-10-12 03:28:49 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -66,6 +66,7 @@ Tue, 26 Dec 2017 23:00:01 +0800
 -              platform/packages/apps/OtoKeyboardMap 4e915ac 2017-11-21 02:47:22 +0000 0123hhtx@163.com "Chen Peng" 
 -                 platform/packages/apps/OtoLauncher bed2b28 2017-12-26 06:53:30 +0000 ln01276294@126.com "Lu Ning" 
 -                      platform/packages/apps/OtoOta 9345270 2017-12-22 08:42:48 +0000 potatomagic@163.com "Wang Zhixu" 
+-             platform/packages/apps/OtoPhotoManager c70b584 2017-12-27 08:51:37 +0000 potatomagic@163.com "Wang Zhixu" 
 -                platform/packages/apps/OtoPinyinIME ac1de70 2017-10-26 07:58:59 +0000 potatomagic@163.com "Wang Zhixu" 
 -                 platform/packages/apps/OtoSettings 92bc0cb 2016-06-14 08:51:21 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                 platform/packages/apps/OtoTerminal ea60306 2017-06-27 02:25:22 +0000 18600956771@163.com "Liu Xiaoxu" 
