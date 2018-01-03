@@ -1,11 +1,11 @@
 # multiwindow projects update
-Tue, 02 Jan 2018 23:00:02 +0800
+Wed, 03 Jan 2018 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 5c5124e 2017-12-25 06:14:18 +0000 xiaoluoyuan@163.com "elliott10" 
 -                                     platform/build 8be4efd 2017-12-25 06:20:37 +0000 xiaoluoyuan@163.com "elliott10" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common 86e5154 2017-12-27 08:56:34 +0000 potatomagic@163.com "Wang Zhixu" 
+-                              device/generic/common 71e9cff 2018-01-03 08:11:46 +0000 forward_m@126.com "Luo Junhuan" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -64,7 +64,7 @@ Tue, 02 Jan 2018 23:00:02 +0800
 -                 platform/packages/apps/OtoAppStore cbaeff3 2017-12-29 01:59:14 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoCompress faaa00f 2017-12-29 01:59:57 +0000 xiaoluoyuan@163.com "elliott10" 
 -              platform/packages/apps/OtoFileManager f1dffd5 2017-12-29 02:09:33 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoGreenify 96590bf 2018-01-02 02:13:09 +0000 xiaoluoyuan@163.com "elliott10" 
+-                 platform/packages/apps/OtoGreenify 0b30bd4 2018-01-02 07:15:42 +0000 forward_m@126.com "Luo Junhuan" 
 -              platform/packages/apps/OtoKeyboardMap 0002811 2017-12-29 02:04:35 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoLauncher 6f2b4bd 2017-12-29 02:05:31 +0000 xiaoluoyuan@163.com "elliott10" 
 -                      platform/packages/apps/OtoOta 53452d7 2017-12-29 02:07:11 +0000 xiaoluoyuan@163.com "elliott10" 
