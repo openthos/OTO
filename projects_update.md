@@ -1,5 +1,5 @@
 # multiwindow projects update
-Tue, 09 Jan 2018 23:00:01 +0800
+Wed, 10 Jan 2018 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 5c5124e 2017-12-25 06:14:18 +0000 xiaoluoyuan@163.com "elliott10" 
@@ -18,7 +18,7 @@ Tue, 09 Jan 2018 23:00:01 +0800
 -                          platform/external/openssh e38579f 2016-10-26 13:51:31 +0800 wangjianxing5210@163.com "Jianxing Wang" 
 -              platform/external/stagefright-plugins a04cf3b 2017-08-25 17:24:35 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                             platform/frameworks/av 66753f9 2017-08-15 12:45:48 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--                           platform/frameworks/base 506e126 2018-01-09 06:05:24 +0000 m18410261910@163.com "CaoYongren" 
+-                           platform/frameworks/base cd18702 2018-01-10 13:47:02 +0000 forward_m@126.com "Luo Junhuan" 
 -                         platform/frameworks/native 63ff645 2017-10-12 03:28:49 +0000 potatomagic@163.com "Wang Zhixu" 
 -               platform/frameworks/opt/net/ethernet 96f468a 2016-07-20 02:05:12 +0000 libing@emindsoft.com.cn "Li Bing" 
 -                      platform/hardware/drm_gralloc 4e17b16 2017-07-26 14:08:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -60,7 +60,7 @@ Tue, 09 Jan 2018 23:00:01 +0800
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/netd 09446ef 2017-08-09 17:47:12 +0800 lorenzo@google.com "Lorenzo Colitti" 
 -                               platform/system/vold 182dfae 2017-08-03 16:02:11 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
--             platform/packages/apps/OtoAppOpsXposed b2096c0 2018-01-08 08:45:02 +0000 18600956771@163.com "Liu Xiaoxu" 
+-             platform/packages/apps/OtoAppOpsXposed 1c97a3c 2018-01-10 07:42:14 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                 platform/packages/apps/OtoAppStore cbaeff3 2017-12-29 01:59:14 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoCompress faaa00f 2017-12-29 01:59:57 +0000 xiaoluoyuan@163.com "elliott10" 
 -              platform/packages/apps/OtoFileManager f1dffd5 2017-12-29 02:09:33 +0000 potatomagic@163.com "Wang Zhixu" 
