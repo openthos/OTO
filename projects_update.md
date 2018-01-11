@@ -1,5 +1,5 @@
 # multiwindow projects update
-Thu, 11 Jan 2018 13:00:01 +0800
+Thu, 11 Jan 2018 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 5c5124e 2017-12-25 06:14:18 +0000 xiaoluoyuan@163.com "elliott10" 
@@ -45,7 +45,7 @@ Thu, 11 Jan 2018 13:00:01 +0800
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -            platform/packages/apps/PackageInstaller 8d725a3 2017-12-25 07:16:46 +0000 18600956771@163.com "Liu Xiaoxu" 
 -              platform/packages/apps/QuickSearchBox 1cdc632 2016-04-21 09:35:03 +0000 zhongtianemail@gmail.com "xiezhongtian" 
--                    platform/packages/apps/Settings 30912a9 2017-12-26 08:17:50 +0000 18600956771@163.com "Liu Xiaoxu" 
+-                    platform/packages/apps/Settings 831133c 2018-01-11 08:57:25 +0000 potatomagic@163.com "Wang Zhixu" 
 -              platform/packages/apps/SpeechRecorder 133e050 2016-04-08 23:14:41 +0800 xiaoluoyuan@163.com "xly" 
 -              platform/packages/apps/TSCalibration2 87e97c0 2016-04-21 09:36:59 +0000 zhongtianemail@gmail.com "xiezhongtian" 
 -                platform/packages/apps/UnifiedEmail 1072012 2017-07-06 10:36:16 +0000 18600956771@163.com "Liu Xiaoxu" 
@@ -67,7 +67,7 @@ Thu, 11 Jan 2018 13:00:01 +0800
 -                 platform/packages/apps/OtoGreenify 0b30bd4 2018-01-02 07:15:42 +0000 forward_m@126.com "Luo Junhuan" 
 -              platform/packages/apps/OtoKeyboardMap 0002811 2017-12-29 02:04:35 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoLauncher 3884551 2018-01-11 02:00:38 +0000 potatomagic@163.com "Wang Zhixu" 
--                      platform/packages/apps/OtoOta 53452d7 2017-12-29 02:07:11 +0000 xiaoluoyuan@163.com "elliott10" 
+-                      platform/packages/apps/OtoOta c0a08ba 2018-01-11 08:56:03 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/apps/OtoPhotoManager d53a45f 2017-12-29 02:08:46 +0000 xiaoluoyuan@163.com "elliott10" 
 -                platform/packages/apps/OtoPinyinIME a4d614e 2017-12-29 02:09:38 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoSettings 2740e6d 2017-12-29 02:11:41 +0000 xiaoluoyuan@163.com "elliott10" 
