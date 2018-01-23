@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 22 Jan 2018 23:00:01 +0800
+Tue, 23 Jan 2018 13:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 5c5124e 2017-12-25 06:14:18 +0000 xiaoluoyuan@163.com "elliott10" 
@@ -63,8 +63,8 @@ Mon, 22 Jan 2018 23:00:01 +0800
 -             platform/packages/apps/OtoAppOpsXposed 7a95e60 2018-01-22 09:52:46 +0000 18600956771@163.com "Liu Xiaoxu" 
 -                 platform/packages/apps/OtoAppStore cbaeff3 2017-12-29 01:59:14 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoCompress faaa00f 2017-12-29 01:59:57 +0000 xiaoluoyuan@163.com "elliott10" 
--              platform/packages/apps/OtoFileManager a7f0b91 2018-01-22 02:57:02 +0000 potatomagic@163.com "Wang Zhixu" 
--                 platform/packages/apps/OtoGreenify 0b30bd4 2018-01-02 07:15:42 +0000 forward_m@126.com "Luo Junhuan" 
+-              platform/packages/apps/OtoFileManager 48ed942 2018-01-23 04:22:32 +0000 potatomagic@163.com "Wang Zhixu" 
+-                 platform/packages/apps/OtoGreenify 436b408 2018-01-23 02:26:21 +0000 forward_m@126.com "Luo Junhuan" 
 -              platform/packages/apps/OtoKeyboardMap 0002811 2017-12-29 02:04:35 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoLauncher 3884551 2018-01-11 02:00:38 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta c0a08ba 2018-01-11 08:56:03 +0000 potatomagic@163.com "Wang Zhixu" 
