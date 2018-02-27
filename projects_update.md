@@ -1,11 +1,11 @@
 # multiwindow projects update
-Thu, 08 Feb 2018 23:00:01 +0800
+Tue, 27 Feb 2018 23:00:01 +0800
 -                                       platform/art c69327a 2017-03-02 06:15:57 +0000 potatomagic@163.com "Wang Zhixu" 
 -                                    platform/bionic 54551e6 2017-04-19 23:14:00 +0800 enh@google.com "Elliott Hughes" 
 -                     platform/bootable/newinstaller 5c5124e 2017-12-25 06:14:18 +0000 xiaoluoyuan@163.com "elliott10" 
 -                                     platform/build 8be4efd 2017-12-25 06:20:37 +0000 xiaoluoyuan@163.com "elliott10" 
 -                               platform/development cff1715 2017-03-28 09:48:26 +0800 wangjianxing5210@163.com "jianxing.wang" 
--                              device/generic/common 47d4f81 2018-02-07 10:11:30 +0000 ladehunter@gmail.com "ladehunter" 
+-                              device/generic/common 4194232 2018-02-27 06:03:44 +0000 forward_m@126.com "Luo Junhuan" 
 -                     platform/external/chromium_org 660e9b1 2016-12-06 09:48:44 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -  platform/external/chromium_org/third_party/WebKit d861022 2016-12-06 09:48:11 +0000 chengang@emindsoft.com.cn "Chen Gang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
@@ -64,8 +64,7 @@ Thu, 08 Feb 2018 23:00:01 +0800
 -                 platform/packages/apps/OtoAppStore 761fd23 2018-01-26 06:01:09 +0000 chenpeng@openthos.org "Chen Peng" 
 -             platform/packages/apps/OtoCloudService 3ecba8f 2018-02-07 07:05:01 +0000 luning@openthos.org "Lu Ning" 
 -                 platform/packages/apps/OtoCompress faaa00f 2017-12-29 01:59:57 +0000 xiaoluoyuan@163.com "elliott10" 
--              platform/packages/apps/OtoFileManager d1a7c6c 2018-02-08 08:13:55 +0000 wangzhixu@openthos.org "Wang Zhixu" 
--                 platform/packages/apps/OtoGreenify 4782a61 2018-02-07 03:07:54 +0000 forward_m@126.com "Luo Junhuan" 
+-              platform/packages/apps/OtoFileManager d60cbec 2018-02-27 07:09:46 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -              platform/packages/apps/OtoKeyboardMap 0002811 2017-12-29 02:04:35 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoLauncher 3884551 2018-01-11 02:00:38 +0000 potatomagic@163.com "Wang Zhixu" 
 -                      platform/packages/apps/OtoOta c0a08ba 2018-01-11 08:56:03 +0000 potatomagic@163.com "Wang Zhixu" 
@@ -73,6 +72,7 @@ Thu, 08 Feb 2018 23:00:01 +0800
 -                platform/packages/apps/OtoPinyinIME a4d614e 2017-12-29 02:09:38 +0000 xiaoluoyuan@163.com "elliott10" 
 -                 platform/packages/apps/OtoRecorder 3bb9d6e 2018-02-06 02:43:19 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -                 platform/packages/apps/OtoSettings 2740e6d 2017-12-29 02:11:41 +0000 xiaoluoyuan@163.com "elliott10" 
+-              platform/packages/apps/OtoTaskManager 92f55fd 2018-02-27 08:00:30 +0000 forward_m@126.com "Luo Junhuan" 
 -                 platform/packages/apps/OtoTerminal 3284379 2017-12-29 02:13:27 +0000 xiaoluoyuan@163.com "elliott10" 
 -            platform/packages/apps/OtoTestInFactory a4b7dcd 2017-12-29 02:14:41 +0000 xiaoluoyuan@163.com "elliott10" 
 -               platform/packages/apps/OtoVirtualGUI 0b1db40 2017-12-29 02:15:44 +0000 xiaoluoyuan@163.com "elliott10" 
