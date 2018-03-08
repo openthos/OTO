@@ -141,6 +141,7 @@
   <remove-project name="platform/prebuilts/gradle-plugin" />
   <remove-project name="platform/prebuilts/libs/libedit" />
   <remove-project name="platform/prebuilts/qemu-kernel" />
+  <remove-project name="platform/system/connectivity/wificond" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/media" />
@@ -161,7 +162,7 @@
   <!-- From Android-x86 repositories -->
   <remote  name="x86" fetch="." />
 
-  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.9" />
+  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.14" />
   <project path="bionic" name="platform/bionic" remote="x86" revision="oreo-x86" />
   <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="oreo-x86" />
   <project path="device/generic/common" name="device/generic/common" remote="x86" revision="oreo-x86" />
@@ -214,6 +215,7 @@
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="oreo-x86" />
   <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="oreo-x86" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="oreo-x86" />
+  <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" remote="x86" revision="oreo-x86" />
   <project path="system/core" name="platform/system/core" remote="x86" revision="oreo-x86" />
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="oreo-x86" />
   <project path="system/media" name="platform/system/media" remote="x86" revision="oreo-x86" />
