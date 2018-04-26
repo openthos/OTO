@@ -51,6 +51,7 @@
   <remove-project name="platform/docs/source.android.com" />
   <remove-project name="platform/external/arm-neon-tests" />
   <remove-project name="platform/external/drm_hwcomposer" />
+  <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/jline" />
   <remove-project name="platform/external/libdrm" />
   <remove-project name="platform/external/libedit" />
@@ -175,6 +176,7 @@
   <project path="external/busybox" name="platform/external/busybox" remote="x86" revision="oreo-x86" />
   <project path="external/drm_gralloc" name="platform/external/drm_gralloc" remote="x86" revision="oreo-x86" />
   <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" remote="x86" revision="oreo-x86" />
+  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="x86" revision="oreo-x86" />
   <project path="external/efibootmgr" name="platform/external/efibootmgr" remote="x86" revision="oreo-x86" />
   <project path="external/efivar" name="platform/external/efivar" remote="x86" revision="oreo-x86" />
   <project path="external/eject" name="platform/external/eject" remote="x86" revision="oreo-x86" />
