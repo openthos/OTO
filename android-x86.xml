@@ -215,6 +215,9 @@
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" />
   <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" />
+  <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" />
+  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" />
+  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" />
   <project path="system/core" name="platform/system/core" remote="x86" />
   <project path="system/extras" name="platform/system/extras" remote="x86" />
