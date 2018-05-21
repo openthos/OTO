@@ -169,6 +169,7 @@
   <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" />
   <project path="device/generic/x86" name="device/generic/x86" remote="x86" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" remote="x86" />
+  <project path="device/openthos/x86_64" name="device/openthos/x86_64" remote="x86" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" />
   <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" />
