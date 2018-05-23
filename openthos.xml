@@ -169,6 +169,7 @@
   <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" />
   <project path="device/generic/x86" name="device/generic/x86" remote="x86" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" remote="x86" />
+  <project path="device/openthos/common" name="device/openthos/common" remote="x86" ><linkfile src="BoardConfig.mk" dest="device/openthos/BoardConfig.mk" /></project>
   <project path="device/openthos/x86_64" name="device/openthos/x86_64" remote="x86" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" />
   <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" />
@@ -210,20 +211,20 @@
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" />
   <project path="hardware/ril" name="platform/hardware/ril" remote="x86" />
   <project path="hardware/x86power" name="platform/hardware/x86power" remote="x86" />
-  <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" revision="oreo-x86" />
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="x86" />
   <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="x86" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" />
   <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" />
-  <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" />
-  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" />
   <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" />
+  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" />
+  <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" />
   <project path="system/core" name="platform/system/core" remote="x86" />
   <project path="system/extras" name="platform/system/extras" remote="x86" />
   <project path="system/media" name="platform/system/media" remote="x86" />
   <project path="system/vold" name="platform/system/vold" remote="x86" />
+  <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" revision="oreo-x86" />
 
 </manifest>
