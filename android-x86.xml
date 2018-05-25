@@ -192,7 +192,7 @@
   <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="oreo-x86" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="oreo-x86" />
   <project path="external/s2tc" name="platform/external/s2tc" remote="x86" revision="oreo-x86" />
-  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="oreo-x86" groups="notdefault" />
+  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="oreo-x86" />
   <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" revision="oreo-x86" />
   <project path="external/toybox" name="platform/external/toybox" remote="x86" revision="oreo-x86" />
   <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="oreo-x86" />
