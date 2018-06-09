@@ -1,14 +1,16 @@
 Android 8.1 based
 Latest kernel & mesa with support for bleeding edge intel/amd hardware.
 Latest firefox for android desktop.
-Multi screen/monitor with different resolution, app window can go across screens.
-Fully re-worked modern UI/UX
+Fully re-worked modern UI/UX.
+Performance optimization of core apps.
+Windows win+p like manual controll of displays. Multi screen/monitor with different resolution, app window can go across screens.
 Audio mixer with multi audio stream & multi device support.
-Full support of Trusted Computing Mobile Module standard.
+Firmware TCMM standard support.
 Bio authentication support: fingerprint, iris.
 FIDO password-less usage.
 Ocloud（Openthos cloud）based file exchange between users, Wifi-direct/Bluetooth for local devices.
 Better cloud integration and dedicated client.
 Multi-instance for single app.
-Integrated android studio for developers edition. Yes, we will introduce 2 virants, security enhanced "Professional" edition, android studio and linux subsystem for "Developer" edition.
+GUI installer via openthos live system.
+Integrated android studio for developers edition with linux subsystem.
 Better appstore, sync with google play store's x86 branch.
