@@ -9,6 +9,7 @@ Firmware TCMM standard support.
 Bio authentication support: fingerprint, iris.
 FIDO password-less usage.
 Ocloud（Openthos cloud）based file exchange between users, Wifi-direct/Bluetooth for local devices.
+Ocloud based copy/paste of text, image and files across diffirent devices, including PC and smartphone.
 Better cloud integration and dedicated client.
 Multi-instance for single app.
 GUI installer via openthos live system.
