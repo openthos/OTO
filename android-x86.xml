@@ -143,6 +143,7 @@
   <remove-project name="platform/prebuilts/libs/libedit" />
   <remove-project name="platform/prebuilts/qemu-kernel" />
   <remove-project name="platform/system/connectivity/wificond" />
+  <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/media" />
@@ -218,6 +219,7 @@
   <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="oreo-x86" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="oreo-x86" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" remote="x86" revision="oreo-x86" />
+  <project path="system/bt" name="platform/system/bt" remote="x86" revision="oreo-x86" />
   <project path="system/core" name="platform/system/core" remote="x86" revision="oreo-x86" />
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="oreo-x86" />
   <project path="system/media" name="platform/system/media" remote="x86" revision="oreo-x86" />
