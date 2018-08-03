@@ -162,69 +162,69 @@
   <!-- From Android-x86 repositories -->
   <remote  name="x86" fetch="." />
 
-  <project path="kernel" name="kernel/common" remote="x86" />
-  <project path="bionic" name="platform/bionic" remote="x86" />
-  <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" />
-  <project path="device/generic/common" name="device/generic/common" remote="x86" />
-  <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" />
-  <project path="device/generic/x86" name="device/generic/x86" remote="x86" />
-  <project path="device/generic/x86_64" name="device/generic/x86_64" remote="x86" />
-  <project path="device/openthos/common" name="device/openthos/common" remote="x86" ><linkfile src="BoardConfig.mk" dest="device/openthos/BoardConfig.mk" /></project>
-  <project path="device/openthos/x86_64" name="device/openthos/x86_64" remote="x86" />
-  <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" />
-  <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" />
-  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" />
-  <project path="external/busybox" name="platform/external/busybox" remote="x86" />
-  <project path="external/drm_gralloc" name="platform/external/drm_gralloc" remote="x86" />
-  <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" remote="x86" />
-  <project path="external/efibootmgr" name="platform/external/efibootmgr" remote="x86" />
-  <project path="external/efivar" name="platform/external/efivar" remote="x86" />
-  <project path="external/eject" name="platform/external/eject" remote="x86" />
-  <project path="external/exfat" name="platform/external/exfat" remote="x86" />
-  <project path="external/ffmpeg" name="platform/external/ffmpeg" remote="x86" />
-  <project path="external/gbm_gralloc" name="platform/external/gbm_gralloc" remote="x86" />
-  <project path="external/googleanalytics" name="platform/external/googleanalytics" remote="x86" />
-  <project path="external/koush/Superuser" name="platform/external/koush/Superuser" remote="x86" />
-  <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" />
-  <project path="external/libdrm" name="platform/external/libdrm" remote="x86" />
-  <project path="external/llvm" name="platform/external/llvm" remote="x86" />
-  <project path="external/mesa" name="platform/external/mesa" remote="x86" />
-  <project path="external/mksh" name="platform/external/mksh" remote="x86" />
-  <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" />
-  <project path="external/s2tc" name="platform/external/s2tc" remote="x86" />
-  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" groups="notdefault" />
-  <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" />
-  <project path="external/toybox" name="platform/external/toybox" remote="x86" />
-  <project path="external/v86d" name="platform/external/v86d" remote="x86" />
-  <project path="frameworks/av" name="platform/frameworks/av" remote="x86" />
-  <project path="frameworks/base" name="platform/frameworks/base" remote="x86" />
-  <project path="frameworks/native" name="platform/frameworks/native" remote="x86" />
-  <project path="hardware/gps" name="platform/hardware/gps" remote="x86" />
-  <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" remote="x86" />
-  <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" remote="x86" />
-  <project path="hardware/intel/common/vaapi" name="platform/hardware/intel/common/vaapi" remote="x86" />
-  <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" />
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" remote="x86" />
-  <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" />
-  <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="x86" />
-  <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" />
-  <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" />
-  <project path="hardware/ril" name="platform/hardware/ril" remote="x86" />
-  <project path="hardware/x86power" name="platform/hardware/x86power" remote="x86" />
-  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="x86" />
-  <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" />
-  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="x86" />
-  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" />
-  <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" />
-  <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" />
-  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" />
-  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" />
-  <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" />
-  <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" />
-  <project path="system/core" name="platform/system/core" remote="x86" />
-  <project path="system/extras" name="platform/system/extras" remote="x86" />
-  <project path="system/media" name="platform/system/media" remote="x86" />
-  <project path="system/vold" name="platform/system/vold" remote="x86" />
+  <project path="kernel" name="kernel/common" remote="x86" revision="multiwindow-oreo" />
+  <project path="bionic" name="platform/bionic" remote="x86" revision="multiwindow-oreo" />
+  <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="multiwindow-oreo" />
+  <project path="device/generic/common" name="device/generic/common" remote="x86" revision="multiwindow-oreo" />
+  <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="multiwindow-oreo" />
+  <project path="device/generic/x86" name="device/generic/x86" remote="x86" revision="multiwindow-oreo" />
+  <project path="device/generic/x86_64" name="device/generic/x86_64" remote="x86" revision="multiwindow-oreo" />
+  <project path="device/openthos/common" name="device/openthos/common" remote="x86" revision="multiwindow-oreo" ><linkfile src="BoardConfig.mk" dest="device/openthos/BoardConfig.mk" /></project>
+  <project path="device/openthos/x86_64" name="device/openthos/x86_64" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/alsa-utils" name="platform/external/alsa-utils" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/bluetooth/bluez" name="platform/external/bluetooth/bluez" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/busybox" name="platform/external/busybox" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/drm_gralloc" name="platform/external/drm_gralloc" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/efibootmgr" name="platform/external/efibootmgr" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/efivar" name="platform/external/efivar" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/eject" name="platform/external/eject" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/exfat" name="platform/external/exfat" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/ffmpeg" name="platform/external/ffmpeg" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/gbm_gralloc" name="platform/external/gbm_gralloc" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/googleanalytics" name="platform/external/googleanalytics" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/koush/Superuser" name="platform/external/koush/Superuser" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/libdrm" name="platform/external/libdrm" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/llvm" name="platform/external/llvm" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/s2tc" name="platform/external/s2tc" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" groups="notdefault" revision="multiwindow-oreo" />
+  <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/toybox" name="platform/external/toybox" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="multiwindow-oreo" />
+  <project path="frameworks/av" name="platform/frameworks/av" remote="x86" revision="multiwindow-oreo" />
+  <project path="frameworks/base" name="platform/frameworks/base" remote="x86" revision="multiwindow-oreo" />
+  <project path="frameworks/native" name="platform/frameworks/native" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/gps" name="platform/hardware/gps" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/intel/audio_media" name="platform/hardware/intel/audio_media" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/intel/common/vaapi" name="platform/hardware/intel/common/vaapi" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/interfaces" name="platform/hardware/interfaces" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/ril" name="platform/hardware/ril" remote="x86" revision="multiwindow-oreo" />
+  <project path="hardware/x86power" name="platform/hardware/x86power" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" revision="multiwindow-oreo" />
+  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" revision="multiwindow-oreo" />
+  <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" revision="multiwindow-oreo" />
+  <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="multiwindow-oreo" />
+  <project path="system/core" name="platform/system/core" remote="x86" revision="multiwindow-oreo" />
+  <project path="system/extras" name="platform/system/extras" remote="x86" revision="multiwindow-oreo" />
+  <project path="system/media" name="platform/system/media" remote="x86" revision="multiwindow-oreo" />
+  <project path="system/vold" name="platform/system/vold" remote="x86" revision="multiwindow-oreo" />
   <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" revision="oreo-x86" />
 
 </manifest>
