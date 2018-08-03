@@ -51,6 +51,7 @@
   <remove-project name="platform/docs/source.android.com" />
   <remove-project name="platform/external/arm-neon-tests" />
   <remove-project name="platform/external/drm_hwcomposer" />
+  <remove-project name="platform/external/e2fsprogs" />
   <remove-project name="platform/external/jline" />
   <remove-project name="platform/external/libdrm" />
   <remove-project name="platform/external/libedit" />
@@ -80,7 +81,6 @@
   <remove-project name="platform/hardware/intel/img/psb_headers" />
   <remove-project name="platform/hardware/intel/img/psb_video" />
   <remove-project name="platform/hardware/intel/sensors" />
-  <remove-project name="platform/hardware/interfaces" />
   <remove-project name="platform/hardware/invensense" />
   <remove-project name="platform/hardware/marvell/bt" />
   <remove-project name="platform/hardware/qcom/audio" />
@@ -142,6 +142,8 @@
   <remove-project name="platform/prebuilts/gradle-plugin" />
   <remove-project name="platform/prebuilts/libs/libedit" />
   <remove-project name="platform/prebuilts/qemu-kernel" />
+  <remove-project name="platform/system/connectivity/wificond" />
+  <remove-project name="platform/system/bt" />
   <remove-project name="platform/system/core" />
   <remove-project name="platform/system/extras" />
   <remove-project name="platform/system/media" />
@@ -177,6 +179,7 @@
   <project path="external/busybox" name="platform/external/busybox" remote="x86" revision="multiwindow-oreo" />
   <project path="external/drm_gralloc" name="platform/external/drm_gralloc" remote="x86" revision="multiwindow-oreo" />
   <project path="external/drm_hwcomposer" name="platform/external/drm_hwcomposer" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" remote="x86" revision="multiwindow-oreo" />
   <project path="external/efibootmgr" name="platform/external/efibootmgr" remote="x86" revision="multiwindow-oreo" />
   <project path="external/efivar" name="platform/external/efivar" remote="x86" revision="multiwindow-oreo" />
   <project path="external/eject" name="platform/external/eject" remote="x86" revision="multiwindow-oreo" />
@@ -192,7 +195,7 @@
   <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="multiwindow-oreo" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="multiwindow-oreo" />
   <project path="external/s2tc" name="platform/external/s2tc" remote="x86" revision="multiwindow-oreo" />
-  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" groups="notdefault" revision="multiwindow-oreo" />
+  <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="multiwindow-oreo" />
   <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" revision="multiwindow-oreo" />
   <project path="external/toybox" name="platform/external/toybox" remote="x86" revision="multiwindow-oreo" />
   <project path="external/v86d" name="platform/external/v86d" remote="x86" revision="multiwindow-oreo" />
@@ -204,7 +207,6 @@
   <project path="hardware/intel/common/libva" name="platform/hardware/intel/common/libva" remote="x86" revision="multiwindow-oreo" />
   <project path="hardware/intel/common/vaapi" name="platform/hardware/intel/common/vaapi" remote="x86" revision="multiwindow-oreo" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="multiwindow-oreo" />
-  <project path="hardware/interfaces" name="platform/hardware/interfaces" remote="x86" revision="multiwindow-oreo" />
   <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="multiwindow-oreo" />
   <project path="hardware/libcamera" name="platform/hardware/libcamera" remote="x86" revision="multiwindow-oreo" />
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="multiwindow-oreo" />
@@ -221,6 +223,8 @@
   <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" revision="multiwindow-oreo" />
   <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" revision="multiwindow-oreo" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="multiwindow-oreo" />
+  <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" remote="x86" revision="multiwindow-oreo" />
+  <project path="system/bt" name="platform/system/bt" remote="x86" revision="multiwindow-oreo" />
   <project path="system/core" name="platform/system/core" remote="x86" revision="multiwindow-oreo" />
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="multiwindow-oreo" />
   <project path="system/media" name="platform/system/media" remote="x86" revision="multiwindow-oreo" />
