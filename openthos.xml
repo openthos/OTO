@@ -219,9 +219,11 @@
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" revision="multiwindow-oreo" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="multiwindow-oreo" />
   <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="multiwindow-oreo" />
-  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" revision="multiwindow-oreo" />
-  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" revision="multiwindow-oreo" />
+  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" revision="multiwindow" />
+  <project path="packages/apps/OtoCloudService" name="platform/packages/apps/OtoCloudService" revision="multiwindow" />
+  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" revision="multiwindow" />
   <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" revision="multiwindow-oreo" />
+  <project path="packages/apps/Termux" name="platform/packages/apps/Termux" revision="multiwindow" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="multiwindow-oreo" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" remote="x86" revision="multiwindow-oreo" />
   <project path="system/bt" name="platform/system/bt" remote="x86" revision="multiwindow-oreo" />
