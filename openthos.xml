@@ -231,6 +231,7 @@
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="multiwindow-oreo" />
   <project path="system/media" name="platform/system/media" remote="x86" revision="multiwindow-oreo" />
   <project path="system/vold" name="platform/system/vold" remote="x86" revision="multiwindow-oreo" />
+  <project path="vendor/google" name="platform/vendor/google" revision="oreo-x86" clone-depth="1" />
   <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" revision="oreo-x86" />
 
 </manifest>
