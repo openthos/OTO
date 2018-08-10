@@ -166,7 +166,7 @@
 
   <project path="kernel" name="kernel/common" remote="x86" revision="multiwindow-oreo" />
   <project path="bionic" name="platform/bionic" remote="x86" revision="multiwindow-oreo" />
-  <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="multiwindow-oreo" />
+  <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="multiwindow-oreo-good" />
   <project path="device/generic/common" name="device/generic/common" remote="x86" revision="multiwindow-oreo" />
   <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="multiwindow-oreo" />
   <project path="device/generic/x86" name="device/generic/x86" remote="x86" revision="multiwindow-oreo" />
