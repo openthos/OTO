@@ -59,6 +59,7 @@
   <remove-project name="platform/external/llvm" />
   <remove-project name="platform/external/mesa3d" />
   <remove-project name="platform/external/mksh" />
+  <remove-project name="platform/external/openssh" />
   <remove-project name="platform/external/swiftshader" />
   <remove-project name="platform/external/toybox" />
   <remove-project name="platform/frameworks/av" />
@@ -192,6 +193,7 @@
   <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="oreo-x86" />
   <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="oreo-x86" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="oreo-x86" />
+  <project path="external/openssh" name="platform/external/openssh" remote="x86" revision="oreo-x86" />
   <project path="external/s2tc" name="platform/external/s2tc" remote="x86" revision="oreo-x86" />
   <project path="external/stagefright-plugins" name="platform/external/stagefright-plugins" remote="x86" revision="oreo-x86" />
   <project path="external/swiftshader" name="platform/external/swiftshader" remote="x86" revision="oreo-x86" />
