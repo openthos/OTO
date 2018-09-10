@@ -56,7 +56,6 @@
   <remove-project name="platform/external/libdrm" />
   <remove-project name="platform/external/libedit" />
   <remove-project name="platform/external/libusb-compat" />
-  <remove-project name="platform/external/llvm" />
   <remove-project name="platform/external/mesa3d" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
@@ -189,7 +188,7 @@
   <project path="external/koush/Superuser" name="platform/external/koush/Superuser" remote="x86" revision="oreo-x86" />
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="oreo-x86" />
   <project path="external/libdrm" name="platform/external/libdrm" remote="x86" revision="oreo-x86" />
-  <project path="external/llvm" name="platform/external/llvm" remote="x86" revision="oreo-x86" />
+  <project path="external/llvm70" name="platform/external/llvm" remote="x86" revision="oreo-x86" />
   <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="oreo-x86" />
   <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="oreo-x86" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="oreo-x86" />
