@@ -164,7 +164,7 @@
   <!-- From Android-x86 repositories -->
   <remote  name="x86" fetch="." />
 
-  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.9" />
+  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.18" />
   <project path="bionic" name="platform/bionic" remote="x86" revision="oreo-x86" />
   <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="oreo-x86" />
   <project path="device/generic/common" name="device/generic/common" remote="x86" revision="oreo-x86" />
