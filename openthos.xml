@@ -56,7 +56,6 @@
   <remove-project name="platform/external/libdrm" />
   <remove-project name="platform/external/libedit" />
   <remove-project name="platform/external/libusb-compat" />
-  <remove-project name="platform/external/llvm" />
   <remove-project name="platform/external/mesa3d" />
   <remove-project name="platform/external/mksh" />
   <remove-project name="platform/external/openssh" />
@@ -87,6 +86,7 @@
   <remove-project name="platform/hardware/qcom/audio" />
   <remove-project name="platform/hardware/qcom/bootctrl" />
   <remove-project name="platform/hardware/qcom/bt" />
+  <remove-project name="platform/hardware/qcom/camera" />
   <remove-project name="platform/hardware/qcom/data/ipacfg-mgr" />
   <remove-project name="platform/hardware/qcom/display" />
   <remove-project name="platform/hardware/qcom/gps" />
@@ -95,6 +95,7 @@
   <remove-project name="platform/hardware/qcom/msm8960" />
   <remove-project name="platform/hardware/qcom/msm8994" />
   <remove-project name="platform/hardware/qcom/msm8996" />
+  <remove-project name="platform/hardware/qcom/msm8998" />
   <remove-project name="platform/hardware/qcom/msm8x09" />
   <remove-project name="platform/hardware/qcom/msm8x26" />
   <remove-project name="platform/hardware/qcom/msm8x27" />
@@ -191,7 +192,7 @@
   <project path="external/koush/Superuser" name="platform/external/koush/Superuser" remote="x86" revision="multiwindow-oreo" />
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="multiwindow-oreo" />
   <project path="external/libdrm" name="platform/external/libdrm" remote="x86" revision="multiwindow-oreo" />
-  <project path="external/llvm" name="platform/external/llvm" remote="x86" revision="multiwindow-oreo" />
+  <project path="external/llvm70" name="platform/external/llvm" remote="x86" revision="multiwindow-oreo" />
   <project path="external/mesa" name="platform/external/mesa" remote="x86" revision="multiwindow-oreo" />
   <project path="external/mksh" name="platform/external/mksh" remote="x86" revision="multiwindow-oreo" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="multiwindow-oreo" />
