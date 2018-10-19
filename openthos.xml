@@ -219,18 +219,18 @@
   <project path="packages/apps/Camera2" name="platform/packages/apps/Camera2" remote="x86" revision="multiwindow-oreo" />
   <project path="packages/apps/Eleven" name="platform/packages/apps/Eleven" remote="x86" revision="multiwindow-oreo" />
   <project path="packages/apps/Gallery2" name="platform/packages/apps/Gallery2" remote="x86" revision="multiwindow-oreo" />
+  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoCoreLib" name="platform/packages/apps/OtoCoreLib" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoCloudService" name="platform/packages/apps/OtoCloudService" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoCompress" name="platform/packages/apps/OtoCompress" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoPhotoManager" name="platform/packages/apps/OtoPhotoManager" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoRecorder" name="platform/packages/apps/OtoRecorder" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoPinyinIME" name="platform/packages/apps/OtoPinyinIME" remote="x86" revision="multiwindow" />
   <project path="packages/apps/Settings" name="platform/packages/apps/Settings" remote="x86" revision="multiwindow-oreo" />
   <project path="packages/apps/TSCalibration2" name="platform/packages/apps/TSCalibration2" remote="x86" revision="multiwindow-oreo" />
   <project path="packages/apps/Taskbar" name="platform/packages/apps/Taskbar" remote="x86" revision="multiwindow-oreo" />
-  <project path="packages/apps/OtoAppStore" name="platform/packages/apps/OtoAppStore" revision="multiwindow" />
-  <project path="packages/apps/OtoCoreLib" name="platform/packages/apps/OtoCoreLib" revision="multiwindow" />
-  <project path="packages/apps/OtoCloudService" name="platform/packages/apps/OtoCloudService" revision="multiwindow" />
-  <project path="packages/apps/OtoCompress" name="platform/packages/apps/OtoCompress" revision="multiwindow" />
-  <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" revision="multiwindow" />
-  <project path="packages/apps/OtoPhotoManager" name="platform/packages/apps/OtoPhotoManager" revision="multiwindow" />
-  <project path="packages/apps/OtoRecorder" name="platform/packages/apps/OtoRecorder" revision="multiwindow" />
-  <project path="packages/apps/OtoPinyinIME" name="platform/packages/apps/OtoPinyinIME" revision="multiwindow" />
-  <project path="packages/apps/Termux" name="platform/packages/apps/Termux" revision="multiwindow" />
+  <project path="packages/apps/Termux" name="platform/packages/apps/Termux" remote="x86" revision="multiwindow" />
   <project path="packages/services/Analytics" name="platform/packages/services/Analytics" remote="x86" revision="multiwindow-oreo" />
   <project path="system/connectivity/wificond" name="platform/system/connectivity/wificond" remote="x86" revision="multiwindow-oreo" />
   <project path="system/bt" name="platform/system/bt" remote="x86" revision="multiwindow-oreo" />
@@ -238,7 +238,7 @@
   <project path="system/extras" name="platform/system/extras" remote="x86" revision="multiwindow-oreo" />
   <project path="system/media" name="platform/system/media" remote="x86" revision="multiwindow-oreo" />
   <project path="system/vold" name="platform/system/vold" remote="x86" revision="multiwindow-oreo" />
-  <project path="vendor/google" name="platform/vendor/google" revision="oreo-x86" clone-depth="1" />
-  <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" revision="oreo-x86" />
+  <project path="vendor/google" name="platform/vendor/google" remote="x86" revision="oreo-x86" clone-depth="1" />
+  <project path="vendor/intel/houdini" name="platform/vendor/intel/houdini" remote="x86" revision="oreo-x86" clone-depth="1" />
 
 </manifest>
