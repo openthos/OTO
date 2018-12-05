@@ -167,7 +167,7 @@
   <!-- From Android-x86 repositories -->
   <remote  name="x86" fetch="." />
 
-  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.18" />
+  <project path="kernel" name="kernel/common" remote="x86" revision="kernel-4.19" />
   <project path="bionic" name="platform/bionic" remote="x86" revision="oreo-x86" />
   <project path="bootable/newinstaller" name="platform/bootable/newinstaller" remote="x86" revision="oreo-x86" />
   <project path="device/generic/common" name="device/generic/common" remote="x86" revision="oreo-x86" />
@@ -188,6 +188,7 @@
   <project path="external/ffmpeg" name="platform/external/ffmpeg" remote="x86" revision="oreo-x86" />
   <project path="external/gbm_gralloc" name="platform/external/gbm_gralloc" remote="x86" revision="oreo-x86" />
   <project path="external/googleanalytics" name="platform/external/googleanalytics" remote="x86" revision="oreo-x86" />
+  <project path="external/kernel-drivers" name="platform/external/kernel-drivers" remote="x86" revision="oreo-x86" />
   <project path="external/koush/Superuser" name="platform/external/koush/Superuser" remote="x86" revision="oreo-x86" />
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="oreo-x86" />
   <project path="external/libdrm" name="platform/external/libdrm" remote="x86" revision="oreo-x86" />
