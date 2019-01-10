@@ -224,6 +224,7 @@
   <project path="packages/apps/OtoCloudService" name="platform/packages/apps/OtoCloudService" remote="x86" revision="multiwindow" />
   <project path="packages/apps/OtoCompress" name="platform/packages/apps/OtoCompress" remote="x86" revision="multiwindow" />
   <project path="packages/apps/OtoFileManager" name="platform/packages/apps/OtoFileManager" remote="x86" revision="multiwindow" />
+  <project path="packages/apps/OtoLauncher" name="platform/packages/apps/OtoLauncher" remote="x86" revision="multiwindow" />
   <project path="packages/apps/OtoPhotoManager" name="platform/packages/apps/OtoPhotoManager" remote="x86" revision="multiwindow" />
   <project path="packages/apps/OtoRecorder" name="platform/packages/apps/OtoRecorder" remote="x86" revision="multiwindow" />
   <project path="packages/apps/OtoPinyinIME" name="platform/packages/apps/OtoPinyinIME" remote="x86" revision="multiwindow" />
