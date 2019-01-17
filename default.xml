@@ -2,7 +2,7 @@
 <manifest>
 
   <remote  name="aosp"
-           fetch="https://aosp.tuna.tsinghua.edu.cn" />
+           fetch="." />
   <default revision="refs/tags/android-8.1.0_r48"
            remote="aosp"
            sync-c="true"
