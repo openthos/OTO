@@ -32,8 +32,8 @@
   <project path="external/bluetooth/glib" name="platform/external/bluetooth/glib" remote="x86" revision="lollipop-x86" />
   <project path="external/bluetooth/sbc" name="platform/external/bluetooth/sbc" remote="x86" revision="lollipop-x86" />
   <project path="external/busybox" name="platform/external/busybox" remote="x86" revision="lollipop-x86" />
-  <project path="external/drm" name="platform/external/drm" remote="x86" revision="lollipop-x86" />
-  <project path="external/e2fsprogs" name="platform/external/e2fsprogs" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="external/drm" name="openthos/oto_external_drm" remote="github" revision="multiwindow" />
+  <project path="external/e2fsprogs" name="openthos/oto_external_e2fsprogs" remote="github" revision="multiwindow" />
   <project path="external/eject" name="platform/external/eject" remote="x86" revision="lollipop-x86" />
   <project path="external/exfat" name="platform/external/exfat" remote="x86" revision="lollipop-x86" />
   <project path="external/ffmpeg" name="openthos/oto_external_ffmpeg" remote="github" revision="multiwindow" />
@@ -57,7 +57,7 @@
   <project path="hardware/intel/common/vaapi" name="openthos/oto_hardware_intel_common_vaapi" groups="intel" remote="github" revision="multiwindow" />
   <project path="hardware/intel/hwcomposer" name="openthos/oto_hardware_intel_hwcomposer" remote="github" revision="multiwindow" />
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="lollipop-x86" />
-  <project path="hardware/libaudio" name="platform/hardware/libaudio" remote="x86" revision="lollipop-x86" />
+  <project path="hardware/libaudio" name="openthos/oto_hardware_libaudio" remote="github" revision="multiwindow" />
   <project path="hardware/libcamera" name="openthos/oto_hardware_libcamera" remote="github" revision="multiwindow" />
   <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libhardware_legacy"  name="openthos/oto_hardware_libhardware_legacy" remote="github" revision="multiwindow" />
@@ -84,7 +84,13 @@
   <project path="packages/apps/OtoTestInFactory" name="openthos/oto_packages_apps_OtoTestInFactory" groups="pdk" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoWinRec" name="openthos/oto_packages_apps_OtoWinRec" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoKeyboardMap" name="openthos/oto_packages_apps_OtoKeyboardMap" remote="github" revision="multiwindow" />
-  <project path="packages/apps/ExternalApp" name="openthos/oto_packages_apps_ExternalApp" groups="pdk" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoCloudService" name="openthos/oto_packages_apps_OtoCloudService" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoCoreLib" name="openthos/oto_packages_apps_OtoCoreLib" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoFileSelector" name="openthos/oto_packages_apps_OtoFileSelector" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoPhotoManager" name="openthos/oto_packages_apps_OtoPhotoManager" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoPrivacyMan" name="openthos/oto_packages_apps_OtoPrivacyMan" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoRecorder" name="openthos/oto_packages_apps_OtoRecorder" remote="github" revision="multiwindow" />
+  <project path="packages/apps/OtoTaskManager" name="openthos/oto_packages_apps_OtoTaskManager" remote="github" revision="multiwindow" />
   <project path="external/p7zip" name="openthos/oto_external_p7zip" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/lkp" name="openthos/oto_external_lkp" remote="github" revision="multiwindow" />
   <project path="external/Uitest" name="openthos/oto_external_Uitest" remote="github" revision="multiwindow" />  
@@ -289,7 +295,7 @@
   <project path="external/mdnsresponder" name="platform/external/mdnsresponder" groups="pdk" />
   <project path="external/mesa3d" name="platform/external/mesa3d" groups="notdefault,pdk-cw-fs" />
   <project path="external/messageformat" name="platform/external/messageformat" groups="pdk-cw-fs" />
-  <project path="external/mksh" name="platform/external/mksh" groups="pdk" />
+  <project path="external/mksh" name="openthos/oto_external_mksh" remote="github" revision="multiwindow" />
   <project path="external/mockito" name="platform/external/mockito" groups="pdk-cw-fs" />
   <project path="external/mockwebserver" name="platform/external/mockwebserver" groups="pdk-cw-fs" />
   <project path="external/mp4parser" name="platform/external/mp4parser" groups="pdk-cw-fs" />
@@ -386,7 +392,7 @@
   <project path="frameworks/opt/timezonepicker" name="platform/frameworks/opt/timezonepicker" groups="pdk-cw-fs" />
   <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" groups="pdk-cw-fs" />
   <project path="frameworks/opt/widget" name="platform/frameworks/opt/widget" groups="pdk-cw-fs" />
-  <project path="frameworks/rs" name="platform/frameworks/rs" groups="pdk" />
+  <project path="frameworks/rs" name="openthos/oto_frameworks_rs" remote="github" revision="multiwindow" />
   <project path="frameworks/support" name="platform/frameworks/support" groups="pdk-cw-fs" />
   <project path="frameworks/volley" name="platform/frameworks/volley" groups="pdk-cw-fs" />
   <project path="frameworks/webview" name="platform/frameworks/webview" groups="pdk-cw-fs" />
