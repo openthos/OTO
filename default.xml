@@ -45,6 +45,7 @@
   <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="lollipop-x86" />
   <project path="external/libtruezip" name="platform/external/libtruezip" remote="x86" revision="lollipop-x86" />
   <project path="external/llvm" name="platform/external/llvm" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="external/llvm60" name="openthos/oto_external_llvm" remote="github" revision="multiwindow-mesa-18" />
   <project path="external/mesa" name="openthos/oto_external_mesa" remote="github" revision="multiwindow" />
   <project path="external/ntfs-3g" name="platform/external/ntfs-3g" remote="x86" revision="lollipop-x86" />
   <project path="external/parted" name="platform/external/parted" remote="x86" revision="lollipop-x86" />
