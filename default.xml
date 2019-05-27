@@ -59,7 +59,7 @@
   <project path="hardware/intel/libsensors" name="platform/hardware/intel/libsensors" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libaudio" name="openthos/oto_hardware_libaudio" remote="github" revision="multiwindow" />
   <project path="hardware/libcamera" name="openthos/oto_hardware_libcamera" remote="github" revision="multiwindow" />
-  <project path="hardware/libhardware" name="platform/hardware/libhardware" groups="pdk" remote="x86" revision="lollipop-x86" />
+  <project path="hardware/libhardware" name="platform/hardware/libhardware" remote="github" revision="multiwindow" />
   <project path="hardware/libhardware_legacy"  name="openthos/oto_hardware_libhardware_legacy" remote="github" revision="multiwindow" />
   <project path="hardware/liblights" name="platform/hardware/liblights" remote="x86" revision="lollipop-x86" />
   <project path="hardware/libsensors" name="platform/hardware/libsensors" remote="x86" revision="lollipop-x86" />
