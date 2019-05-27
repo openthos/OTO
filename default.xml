@@ -23,7 +23,8 @@
   <project path="bionic" name="openthos/oto_bionic" groups="pdk" remote="github" revision="multiwindow" />
   <project path="bootable/newinstaller" name="openthos/oto_bootable_newinstaller" remote="github" revision="multiwindow" />
   <project path="device/generic/common" name="openthos/oto_device_generic_common" groups="pdk" remote="github" revision="multiwindow" />
-  <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="lollipop-x86" />
+  <project path="device/generic/firmware" name="device/generic/firmware" remote="x86" revision="oreo-x86" />
+  <project path="device/generic/gnupg" name="openthos/oto_device_generic_gnupg" remote="github" revision="multiwindow" />
   <project path="device/generic/x86" name="device/generic/x86" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="device/generic/x86_64" name="device/generic/x86_64" groups="pdk" remote="x86" revision="lollipop-x86" />
   <project path="external/alsa-lib" name="platform/external/alsa-lib" remote="x86" revision="lollipop-x86" />
@@ -38,6 +39,7 @@
   <project path="external/eject" name="platform/external/eject" remote="x86" revision="lollipop-x86" />
   <project path="external/exfat" name="platform/external/exfat" remote="x86" revision="lollipop-x86" />
   <project path="external/ffmpeg" name="openthos/oto_external_ffmpeg" remote="github" revision="multiwindow" />
+  <project path="external/gptfdisk" name="openthos/oto_external_gptfdisk" remote="github" revision="multiwindow" />
   <project path="external/koush/Superuser" name="openthos/oto_external_koush_Superuser" remote="github" revision="multiwindow" />
   <project path="external/koush/Widgets" name="platform/external/koush/Widgets" remote="x86" revision="lollipop-x86" />
   <project path="external/libpciaccess" name="platform/external/libpciaccess" remote="x86" revision="lollipop-x86" />
@@ -93,6 +95,7 @@
   <project path="packages/apps/OtoPrivacyMan" name="openthos/oto_packages_apps_OtoPrivacyMan" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoRecorder" name="openthos/oto_packages_apps_OtoRecorder" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoTaskManager" name="openthos/oto_packages_apps_OtoTaskManager" remote="github" revision="multiwindow" />
+  <project path="packages/apps/Termux" name="openthos/oto_packages_apps_Termux" remote="github" revision="multiwindow" />
   <project path="external/p7zip" name="openthos/oto_external_p7zip" groups="pdk" remote="github" revision="multiwindow" />
   <project path="external/lkp" name="openthos/oto_external_lkp" remote="github" revision="multiwindow" />
   <project path="external/Uitest" name="openthos/oto_external_Uitest" remote="github" revision="multiwindow" />  
