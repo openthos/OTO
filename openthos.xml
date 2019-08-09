@@ -195,7 +195,7 @@
   <project path="external/koush/Superuser" name="openthos/oto_external_koush_Superuser" remote="github" revision="multiwindow-oreo" />
   <project path="external/koush/Widgets" name="openthos/oto_external_koush_Widgets" remote="github" revision="multiwindow-oreo" />
   <project path="external/libdrm" name="openthos/oto_external_libdrm" remote="github" revision="multiwindow-oreo" />
-  <project path="external/llvm70" name="openthos/oto_external_llvm70" remote="github" revision="multiwindow-oreo" />
+  <project path="external/llvm70" name="openthos/oto_external_llvm" remote="github" revision="multiwindow-oreo" />
   <project path="external/mesa" name="openthos/oto_external_mesa" remote="github" revision="multiwindow-oreo" />
   <project path="external/mksh" name="openthos/oto_external_mksh" remote="github" revision="multiwindow-oreo" />
   <project path="external/ntfs-3g" name="openthos/oto_external_ntfs-3g" remote="github" revision="multiwindow-oreo" />
