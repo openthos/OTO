@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 27 May 2019 12:40:13 +0800
+Fri, 20 Sep 2019 10:48:08 +0800
 -                              device/generic/common 0c0a6b3 2019-03-13 07:31:01 +0000 ladehunter@gmail.com "ladehunter" 
 -                            device/generic/firmware 5b8cc74 2019-01-21 22:53:52 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                               device/generic/gnupg 5a2bbf8 2017-12-26 02:18:05 +0000 chenwei01@thtfpc.com "David Wei" 
@@ -16,6 +16,7 @@ Mon, 27 May 2019 12:40:13 +0800
 -                        platform/external/e2fsprogs 4f05e06 2019-01-25 14:41:03 +0800 cwhuang@openthos.org "Chih-Wei Huang" 
 -                           platform/external/ffmpeg 2519d67 2017-05-10 14:34:10 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                         platform/external/gptfdisk 02cc285 2017-09-14 10:46:25 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
+-                              platform/external/icu 2f73824 2019-09-16 06:20:12 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -                   platform/external/kernel-headers f02dffe 2017-03-29 11:32:30 +0800 wangjianxing5210@163.com "Jianxing.Wang" 
 -                  platform/external/koush/Superuser 2683524 2019-03-22 13:09:39 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -                           platform/external/libavc 30ea86c 2017-01-24 16:38:59 -0800 harish.mahendrakar@ittiam.com "Harish Mahendrakar" 
@@ -61,7 +62,7 @@ Mon, 27 May 2019 12:40:13 +0800
 -                         platform/packages/apps/Mms 9de79eb 2016-04-08 23:12:30 +0800 xiaoluoyuan@163.com "xly" 
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoAppStore 23c74da 2019-03-13 02:40:29 +0000 wangzhixu@openthos.org "Wang Zhixu" 
--             platform/packages/apps/OtoCloudService 59df3d9 2019-04-28 07:52:25 +0000 wangzhixu@openthos.org "Wang Zhixu" 
+-             platform/packages/apps/OtoCloudService a0cb72e 2019-05-28 02:25:43 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -                 platform/packages/apps/OtoCompress 021795a 2018-08-14 03:00:31 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -                  platform/packages/apps/OtoCoreLib e80c166 2018-08-23 02:44:28 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -              platform/packages/apps/OtoFileManager b8d80bf 2019-05-07 06:14:57 +0000 wangzhixu@openthos.org "Wang Zhixu" 
@@ -94,6 +95,7 @@ Mon, 27 May 2019 12:40:13 +0800
 -    platform/packages/wallpapers/MusicVisualization e66ba49 2016-11-09 09:47:19 +0000 potatomagic@163.com "Wang Zhixu" 
 -             platform/packages/wallpapers/PhaseBeam 0ae93e3 2016-11-09 09:48:34 +0000 potatomagic@163.com "Wang Zhixu" 
 - platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.11-4.6 eb5c9f0 2014-05-28 10:32:38 +0200 digit@google.com "David 'Digit' Turner" 
+- platform/prebuilts/gcc/linux-x86/host/x86_64-linux-glibc2.15-7.3 f66a1ab 2018-05-25 13:47:58 +0800 zhangshanmin@mail.tsinghua.edu.cn "Shanmin Zhang" 
 -                               platform/system/core 33c581f 2018-12-24 15:14:39 +0800 adriens@google.com "Adrien Schildknecht" 
 -                              platform/system/media 8f84b7c 2016-06-29 11:31:42 +0000 847036983@qq.com "xhl2791188" 
 -                               platform/system/netd 09446ef 2017-08-09 17:47:12 +0800 lorenzo@google.com "Lorenzo Colitti" 
