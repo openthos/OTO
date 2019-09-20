@@ -52,6 +52,7 @@
   <remove-project name="platform/external/arm-neon-tests" />
   <remove-project name="platform/external/drm_hwcomposer" />
   <remove-project name="platform/external/e2fsprogs" />
+  <remove-project name="platform/external/icu" />
   <remove-project name="platform/external/jline" />
   <remove-project name="platform/external/libdrm" />
   <remove-project name="platform/external/libedit" />
@@ -124,6 +125,7 @@
   <remove-project name="platform/packages/apps/Music" />
   <remove-project name="platform/packages/apps/MusicFX" />
   <remove-project name="platform/packages/apps/Nfc" />
+  <remove-project name="platform/packages/apps/PackageInstaller" />
   <remove-project name="platform/packages/apps/Settings" />
   <remove-project name="platform/packages/apps/Tag" />
   <remove-project name="platform/packages/apps/Test/connectivity" />
@@ -191,6 +193,7 @@
   <project path="external/ffmpeg" name="openthos/oto_external_ffmpeg" remote="github" revision="multiwindow-oreo" />
   <project path="external/gbm_gralloc" name="openthos/oto_external_gbm_gralloc" remote="github" revision="multiwindow-oreo" />
   <project path="external/googleanalytics" name="openthos/oto_external_googleanalytics" remote="github" revision="multiwindow-oreo" />
+  <project path="external/icu" name="openthos/oto_external_icu" remote="github" revision="multiwindow-oreo" />
   <project path="external/kernel-drivers" name="openthos/oto_external_kernel-drivers" remote="github" revision="multiwindow-oreo" />
   <project path="external/koush/Superuser" name="openthos/oto_external_koush_Superuser" remote="github" revision="multiwindow-oreo" />
   <project path="external/koush/Widgets" name="openthos/oto_external_koush_Widgets" remote="github" revision="multiwindow-oreo" />
@@ -232,6 +235,7 @@
   <project path="packages/apps/OtoPhotoManager" name="openthos/oto_packages_apps_OtoPhotoManager" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoRecorder" name="openthos/oto_packages_apps_OtoRecorder" remote="github" revision="multiwindow" />
   <project path="packages/apps/OtoPinyinIME" name="openthos/oto_packages_apps_OtoPinyinIME" remote="github" revision="multiwindow" />
+  <project path="packages/apps/PackageInstaller" name="openthos/oto_packages_apps_PackageInstaller" remote="github" revision="multiwindow-oreo" />
   <project path="packages/apps/Settings" name="openthos/oto_packages_apps_Settings" remote="github" revision="multiwindow-oreo" />
   <project path="packages/apps/TSCalibration2" name="openthos/oto_packages_apps_TSCalibration2" remote="github" revision="multiwindow-oreo" />
   <project path="packages/apps/Taskbar" name="openthos/oto_packages_apps_Taskbar" remote="github" revision="multiwindow-oreo" />
