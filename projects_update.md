@@ -1,5 +1,5 @@
 # multiwindow projects update
-Mon, 30 Sep 2019 09:51:27 +0800
+Sat, 12 Oct 2019 14:49:12 +0800
 -                              device/generic/common 0c0a6b3 2019-03-13 07:31:01 +0000 ladehunter@gmail.com "ladehunter" 
 -                            device/generic/firmware 5b8cc74 2019-01-21 22:53:52 +0800 cwhuang@linux.org.tw "Chih-Wei Huang" 
 -                               device/generic/gnupg 5a2bbf8 2017-12-26 02:18:05 +0000 chenwei01@thtfpc.com "David Wei" 
@@ -63,7 +63,7 @@ Mon, 30 Sep 2019 09:51:27 +0800
 -                       platform/packages/apps/Music 69ebef1 2016-11-02 11:28:26 +0000 ln01276294@126.com "Lu Ning" 
 -                 platform/packages/apps/OtoAppStore 23c74da 2019-03-13 02:40:29 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -             platform/packages/apps/OtoCloudService a0cb72e 2019-05-28 02:25:43 +0000 wangzhixu@openthos.org "Wang Zhixu" 
--                 platform/packages/apps/OtoCompress 021795a 2018-08-14 03:00:31 +0000 wangzhixu@openthos.org "Wang Zhixu" 
+-                 platform/packages/apps/OtoCompress f39b65c 2019-09-30 07:36:34 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -                  platform/packages/apps/OtoCoreLib e80c166 2018-08-23 02:44:28 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -              platform/packages/apps/OtoFileManager 2247478 2019-09-26 07:46:55 +0000 wangzhixu@openthos.org "Wang Zhixu" 
 -             platform/packages/apps/OtoFileSelector 820008f 2018-05-09 03:06:43 +0000 forward_m@126.com "Luo Junhuan" 
